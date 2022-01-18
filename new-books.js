@@ -5,7 +5,7 @@ $(document).ready(function() {
       if (book["cover-url"] != "") {
         var slide = `
         <a class="card" target="_top" href="` + book["onesearch-url"] + `" title="` + book["title"] + `">
-          <img src="` + book["cover-url"] + `" alt="` + book["title"] + `" class="card-img">
+          <img src="` + book["cover"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
       }
