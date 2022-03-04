@@ -2,7 +2,7 @@ $(document).ready(function() {
   $.getJSON("new-books.json", function(data) {
     var slides = [];
     $.each(data, function(i, book) {
-      if (book["thumbnail"] != "") {
+      if (book["thumbnail"] != "" || book["thumbnail"] != "Too Many Requests") {
         var slide = `
         <a class="card" target="_top" href="#` + book["id"] + `" title="` + book["title"] + `">
           <img src="` + book["thumbnail"] + `" alt="` + book["title"] + `" class="card-img">
