@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $.getJSON("new-books.json", function(data) {
+  $.getJSON("https://jsicot.github.io/onesearch-newbooks/new-books.json", function(data) {
     var slides = [];
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
@@ -31,13 +31,11 @@ $(document).ready(function() {
     var owl = $('.owl-carousel');
     owl.owlCarousel({
       margin: 30,
-      rtl:true,
       loop: true,
       autoWidth: true,
       items: 10,
-      nav: true,
-      dots: true,
-      autoHeight:true,
+      nav: false,
+      dots: false,
       responsive: {
         0: {
           slideBy: 1
