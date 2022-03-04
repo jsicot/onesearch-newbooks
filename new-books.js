@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $.getJSON("https://jsicot.github.io/onesearch-newbooks/new-books.json", function(data) {
+  $.getJSON("new-books.json", function(data) {
     var slides = [];
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
