@@ -7,11 +7,6 @@
   width: 125px;
 }
 
-.owl-carousel .owl-item img {
-  width: 100%;
-  min-height: 180px;
-}
-
 .owl-item .card .card-title {
   font-size: 1.25rem;
 }

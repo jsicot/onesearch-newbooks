@@ -2,9 +2,9 @@ $(document).ready(function() {
   $.getJSON("new-books.json", function(data) {
     var slides = [];
     $.each(data, function(i, book) {
-      if (book["thumbnail"] != "" || book["thumbnail"] != "Too Many Requests") {
+      if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
         var slide = `
-        <a class="card" target="_top" href="#` + book["id"] + `" title="` + book["title"] + `">
+        <a class="card" target="_top" href="https://epfl.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma` + book["id"] + `&vid=41SLSP_EPF:prod" title="` + book["title"] + `">
           <img src="` + book["thumbnail"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
@@ -31,11 +31,13 @@ $(document).ready(function() {
     var owl = $('.owl-carousel');
     owl.owlCarousel({
       margin: 30,
-      loop: false,
+      rtl:true,
+      loop: true,
       autoWidth: true,
       items: 10,
-      nav: false,
-      dots: false,
+      nav: true,
+      dots: true,
+      autoHeight:true,
       responsive: {
         0: {
           slideBy: 1
