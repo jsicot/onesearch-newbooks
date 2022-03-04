@@ -2,17 +2,17 @@ $(document).ready(function() {
   $.getJSON("new-books.json", function(data) {
     var slides = [];
     $.each(data, function(i, book) {
-      if (book["cover-url"] != "") {
+      if (book["thumbnail"] != "") {
         var slide = `
-        <a class="card" target="_top" href="` + book["onesearch-url"] + `" title="` + book["title"] + `">
-          <img src="` + book["cover"] + `" alt="` + book["title"] + `" class="card-img">
+        <a class="card" target="_top" href="#` + book["id"] + `" title="` + book["title"] + `">
+          <img src="` + book["thumbnail"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
       }
       /*
       else {
         var slide = `
-        <a class="card" href="` + book["onesearch-url"] + `">
+        <a class="card" href="` + book["primo-url"] + `">
         <div class="card-body text-center p-3">
           <h1 class="card-title text-dark">
             ` + book["title"] + `
