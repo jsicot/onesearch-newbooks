@@ -4,33 +4,19 @@ $(document).ready(function() {
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
         var slide = `
-        <a class="card" target="_top" aria-label="` + book["title"] + `" href="https://epfl.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma` + book["id"] + `&vid=41SLSP_EPF:prod" title="` + book["title"] + `">
+        <a class="card" target="_top" aria-label="` + book["title"] + `" href="https://epfl.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma` + book["id"] + `&vid=41SLSP_EPF:test" title="` + book["title"] + `">
           <img src="` + book["thumbnail"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
       }
-      /*
-      else {
-        var slide = `
-        <a class="card" href="` + book["primo-url"] + `">
-        <div class="card-body text-center p-3">
-          <h1 class="card-title text-dark">
-            ` + book["title"] + `
-          </h1>
-          <h2 class="card-subtitle text-muted">
-            ` + book["author"]  + `
-          </h2>
-        </div>
-        </a>
-        `
-      }
-      */
       slides.push(slide);
     });
     $(".owl-carousel").append(slides);
     var owl = $('.owl-carousel');
     owl.owlCarousel({
       margin: 30,
+      autoplay:true,
+      autoplayHoverPause:true,
       loop: true,
       autoWidth: true,
       items: 10,
