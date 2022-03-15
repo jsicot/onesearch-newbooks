@@ -1,5 +1,377 @@
 [
     {
+        "id": "99116811874905516",
+        "title": "Pers\u00f6nlichkeit \u2013 Motivation \u2013 Entwicklung",
+        "creator": "",
+        "date": "2021",
+        "publisher": "Verlag Dr Kovac",
+        "isbn": "3339125627; 9783339125620; 3339125635; 9783339125637",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-03-14",
+        "support": "electronic"
+    },
+    {
+        "id": "99116811875105516",
+        "title": "Fast Facts: Leukemia",
+        "creator": "",
+        "date": "2022",
+        "publisher": "S Karger AG",
+        "isbn": "3318069493; 9783318069495; 3318069965; 9783318069969",
+        "thumbnail": "http://books.google.com/books/content?id=WR1iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-14",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810471705516",
+        "title": "Climate Variability of Southern High Latitude Regions : Sea, Ice, and Atmosphere Interactions.",
+        "creator": "Khare, Neloy.",
+        "date": "2022.",
+        "publisher": "Taylor & Francis Group",
+        "isbn": "1000554597; 9781000554595; 1003203744; 9781003203742; 1032061596; 9781032061597",
+        "thumbnail": "http://books.google.com/books/content?id=XgWmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Geology, hydrology, meteorology",
+        "added": "2022-03-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472205516",
+        "title": "Modern physics for scientists and engineers",
+        "creator": "Morrison, John C. Author",
+        "date": "2015",
+        "publisher": "Elsevier/AP Academic Press is an imprint of Elsevier",
+        "isbn": "0128008288; 9780128008287; 0128007346; 9780128007341",
+        "thumbnail": "http://books.google.com/books/content?id=0LygngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Modern physics",
+        "added": "2022-03-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472305516",
+        "title": "Modern Physics with Modern Computational Methods (Third Edition)",
+        "creator": "",
+        "date": "2020",
+        "publisher": "Academic Press",
+        "isbn": "012817790X; 9780128177907",
+        "thumbnail": "http://books.google.com/books/content?id=vUhrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472805516",
+        "title": "Measurement and Instrumentation  (Third Edition)",
+        "creator": "",
+        "date": "2020",
+        "publisher": "Academic Press",
+        "isbn": "0128171421; 9780128171424; 0128171413; 9780128171417",
+        "thumbnail": "http://books.google.com/books/content?id=USc9yAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116811274805516",
+        "title": "Histoire de l'architecture Moderne : Structure et Rev\u00eatement.",
+        "creator": "Fanelli, Giovanni.",
+        "date": "2008.",
+        "publisher": "EPFL Press",
+        "isbn": "9782889145553; 2889145557; 9782880747039; 2880747031",
+        "thumbnail": "http://books.google.com/books/content?id=rLGqan1f2iYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472005516",
+        "title": "Living a feminist life /",
+        "creator": "Ahmed, Sara, 1969- author.",
+        "date": "2017.",
+        "publisher": "Duke University Press",
+        "isbn": "9780822363040; 0822363046; 9780822363194; 0822363194; 9780822373377; 0822373378",
+        "thumbnail": "http://books.google.com/books/content?id=yfCzDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Groups of people",
+        "added": "2022-03-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472705516",
+        "title": "Between making and knowing : tools in the history of materials research /",
+        "creator": "",
+        "date": "[2020]",
+        "publisher": "World Scientific Publishing Company",
+        "isbn": "9811207631; 9789811207631; 9811207623; 9789811207624",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Music",
+        "added": "2022-03-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99116811075005516",
+        "title": "Making Space: Women and the Man Made Environment",
+        "creator": "",
+        "date": "2022",
+        "publisher": "Lightning Source Inc (Tier 1)",
+        "isbn": "1839765739; 9781839765735; 1839765720; 9781839765728; 1839765712; 9781839765711",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
+        "added": "2022-03-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99116811075105516",
+        "title": "Principles of digital communication : a top-down approach /",
+        "creator": "Rimoldi, Bixio, author.",
+        "date": "2016.",
+        "publisher": "Cambridge University Press",
+        "isbn": "1316435350; 9781316435359; 1316337383; 9781316337387; 1107116457; 9781107116450",
+        "thumbnail": "http://books.google.com/books/content?id=ar8wCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Applied physics",
+        "added": "2022-03-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808867605516",
+        "title": "Altering practices feminist politics and poetics of space /",
+        "creator": "",
+        "date": "2007",
+        "publisher": "Routledge",
+        "isbn": "1134325339; 9781134325337; 128085863X; 9781280858635; 9786610858637; 6610858632; 0203003934; 9780203003930; 0415357861; 9780415357869; 0415357853; 9780415357852",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Architecture",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808867705516",
+        "title": "Women and space : ground rules and social maps /",
+        "creator": "",
+        "date": "[2020]",
+        "publisher": "Routledge",
+        "isbn": "1003135080; 9781003135081; 1000323188; 9781000323184; 1000324974; 9781000324976; 0367720094; 9780367720094",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Groups of people",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808867805516",
+        "title": "The battle for Tolmers Square /",
+        "creator": "Wates, Nick., author.",
+        "date": "2013.",
+        "publisher": "Routledge",
+        "isbn": "1135120706; 9781135120702; 1283972727; 9781283972727; 0203075528; 9780203075524; 1135120714; 9781135120719; 0415658934; 9780415658935; 0415658926; 9780415658928",
+        "thumbnail": "http://books.google.com/books/content?id=8n3NtR6gu5EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Economics of land and energy",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808867905516",
+        "title": "Space, gender, knowledge : feminist readings /",
+        "creator": "",
+        "date": "2016.",
+        "publisher": "Routledge",
+        "isbn": "1315824876; 9781315824871; 1317836170; 9781317836179",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Geography and travel",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868005516",
+        "title": "Remaking cities : contradictions of the recent urban environment /",
+        "creator": "Ravetz, Alison.",
+        "date": "2013.",
+        "publisher": "Routledge",
+        "isbn": "1135007020; 9781135007027; 0203732219; 9780203732212; 0415855950; 9780415855952; 0415844444; 9780415844444",
+        "thumbnail": "http://books.google.com/books/content?id=sWjvlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Communities",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868105516",
+        "title": "New Space For Women /",
+        "creator": "Wekerle, Gerda R, author.",
+        "date": "[2019].",
+        "publisher": "Taylor and Francis an imprint of Routledge",
+        "isbn": "0367169002; 9780367169008; 0429716176; 9780429716171; 0429696167; 9780429696169; 0429048998; 9780429048999; 0367019132; 9780367019136; 0367132028; 9780367132026",
+        "thumbnail": "http://books.google.com/books/content?id=0hI4xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Groups of people",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868205516",
+        "title": "Mapping Desire Geographies of Sexuality.",
+        "creator": "Bell, David.",
+        "date": "1995.",
+        "publisher": "Routledge",
+        "isbn": "1280021683; 9781280021688; 0203427890; 9780203427897; 0203297040; 9780203297049; 0415111633; 9780415111638",
+        "thumbnail": "http://books.google.com/books/content?id=jocbLh2byTkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Culture and institutions",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868305516",
+        "title": "Homes Fit For Heroes : The Politics and Architecture of Early State Housing in Britain /",
+        "creator": "Swenarton, Mark , author.",
+        "date": "[2018].",
+        "publisher": "Routledge",
+        "isbn": "0429762682; 9780429762680; 042942700X; 9780429427008; 0429762674; 9780429762673; 1138360228; 9781138360228",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Other social problems and services",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868405516",
+        "title": "Exploring human geography : a reader /",
+        "creator": "",
+        "date": "2014.",
+        "publisher": "Routledge",
+        "isbn": "047023542X; 9780470235423; 1317859219; 9781317859215; 1315832550; 9781315832555; 1317859227; 9781317859222; 0340614293; 9780340614297; 130671835X; 9781306718356",
+        "thumbnail": "http://books.google.com/books/content?id=bQI6xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Factors affecting social behavior",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808868505516",
+        "title": "Buildings and society : essays on the social development of the built environment /",
+        "creator": "",
+        "date": "1984, c1980.",
+        "publisher": "Routledge & Kegan Paul",
+        "isbn": "1135795290; 9781135795290; 1138155764; 9781138155763; 9786610405367; 6610405360; 0203480759; 9780203480755; 1280405368; 9781280405365; 0710202342; 9780710202345; 0203216695; 9780203216699",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Architectural materials and structure",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116808872105516",
+        "title": "Strategic Thinking in Complex Problem Solving",
+        "creator": "Chevallier, Arnaud.",
+        "date": "2016.",
+        "publisher": "Oxford University Press",
+        "isbn": "0190463929; 9780190463922; 0190627441; 9780190627447; 0190463910; 9780190463915; 0190463902; 9780190463908",
+        "thumbnail": "http://books.google.com/books/content?id=0DhRDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "General management",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116809869505516",
+        "title": "Spacelab payloads : prepping experiments and hardware for flight /",
+        "creator": "Haddad, Michael E., author.",
+        "date": "[2022]",
+        "publisher": "Springer",
+        "isbn": "3030867757; 9783030867751; 3030867749; 9783030867744",
+        "thumbnail": "http://books.google.com/books/content?id=CIqYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Engineering and allied operations",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116809869605516",
+        "title": "Geospatial technology for environmental hazards : modeling and management in Asian countries /",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Springer",
+        "isbn": "303075197X; 9783030751975; 3030751961; 9783030751968",
+        "thumbnail": "http://books.google.com/books/content?id=ZEdizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Geography and travel",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810471605516",
+        "title": "Towards creative learning spaces : re-thinking the architecture of post-compulsory education /",
+        "creator": "Boys, Jos., author.",
+        "date": "2011.",
+        "publisher": "Routledge",
+        "isbn": "1136859659; 9781136859656; 1136859667; 9781136859663; 1283042452; 9781283042451; 9786613042453; 6613042455; 0203835891; 9780203835890; 0415570646; 9780415570640; 041557062X; 9780415570626",
+        "thumbnail": "http://books.google.com/books/content?id=3sZmswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Buildings for education & research",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810471805516",
+        "title": "Functional Polymer Nanocomposites for Wastewater Treatment.",
+        "creator": "Hato, Mpitloane Joseph.",
+        "date": "2022.",
+        "publisher": "Springer International Publishing AG",
+        "isbn": "9783030949952; 3030949958; 9783030949945; 303094994X",
+        "thumbnail": "http://books.google.com/books/content?id=A9DYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810471905516",
+        "title": "Earthworm Engineering and Applications.",
+        "creator": "Vig, Adarsh Pal.",
+        "date": "2022.",
+        "publisher": "Nova Science Publishers Incorporated",
+        "isbn": "9781685076412; 1685076416; 9781685075668; 1685075665",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472105516",
+        "title": "Brief History of Timekeeping : The Science of Marking Time, from Stonehenge to Atomic Clocks.",
+        "creator": "Orzel, Chad.",
+        "date": "2022.",
+        "publisher": "Oneworld Publications",
+        "isbn": "9780861543212; 0861543211",
+        "thumbnail": "http://books.google.com/books/content?id=lDVKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116810472905516",
+        "title": "The Gentleman's House : Or, How to Plan English Residences, from the Parsonage to the Palace /",
+        "creator": "Kerr, Robert, author.",
+        "date": "1864.",
+        "publisher": "Cambridge University Press; publisher not identified",
+        "isbn": "1139177001; 9781139177009; 1108044840; 9781108044844",
+        "thumbnail": "http://books.google.com/books/content?id=Pl_nE2LhI8oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2022-03-08",
+        "support": "electronic"
+    },
+    {
+        "id": "99116809870405516",
+        "title": "Planning and management for sustainable coastal aquaculture development",
+        "creator": "",
+        "date": "2001",
+        "publisher": "FAO",
+        "isbn": "9251046344; 9789251046340",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
+        "added": "2022-03-07",
+        "support": "electronic"
+    },
+    {
+        "id": "99116778113105516",
+        "title": "Theoretical and practical pedagogy of mathematical music theory music for mathematics and mathematics for music, from school to postgraduate levels",
+        "creator": "",
+        "date": "[2019]",
+        "publisher": "World Scientific Publishing Co Pte Ltd",
+        "isbn": "9813228342; 9789813228344; 9789813228351; 9813228350",
+        "thumbnail": "",
+        "dewey": "General principles and musical forms",
+        "added": "2022-02-24",
+        "support": "physical"
+    },
+    {
         "id": "990116010790205516",
         "title": "Manuel de sociologie des mobilit\u00e9s g\u00e9ographiques",
         "creator": "Belton-Chevallier, Leslie 1981-....",
@@ -7,8 +379,9 @@
         "publisher": "Presses universitaires Fran\u00e7ois-Rabelais",
         "isbn": "2869067135; 9782869067134",
         "thumbnail": "",
+        "dewey": "Communities",
         "added": "2022-02-18",
-        "dewey": "Communities"
+        "support": "physical"
     },
     {
         "id": "99116763999605516",
@@ -18,8 +391,9 @@
         "publisher": "Phaidon",
         "isbn": "1838661913; 9781838661915",
         "thumbnail": "http://books.google.com/books/content?id=XpKSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Graphic arts and decorative arts",
         "added": "2022-02-08",
-        "dewey": "Graphic arts and decorative arts"
+        "support": "physical"
     },
     {
         "id": "99116772810205516",
@@ -29,19 +403,9 @@
         "publisher": "MIT Press; ZKM Center for Art and Media",
         "isbn": "0262044455; 9780262044455",
         "thumbnail": "http://books.google.com/books/content?id=ks_-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Area planning and landscape architecture",
         "added": "2022-02-08",
-        "dewey": "Area planning and landscape architecture"
-    },
-    {
-        "id": "990105116690205516",
-        "title": "Introduction to rubrics an assessment tool to save grading time, convey effective feedback, and promote student learning",
-        "creator": "Stevens, Dannelle D.",
-        "date": "2013",
-        "publisher": "Stylus Pub",
-        "isbn": "9781579225872; 157922587X; 1579225888; 9781579225889; 1579225896; 9781579225896; 157922590X; 9781579225902",
-        "thumbnail": "http://books.google.com/books/content?id=bDKFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2022-02-03",
-        "dewey": "Schools and their activities; special education"
+        "support": "physical"
     },
     {
         "id": "99116773913805516",
@@ -51,8 +415,33 @@
         "publisher": "Editions de l'Esp\u00e9rou",
         "isbn": "9782491253004; 2491253003",
         "thumbnail": "",
+        "dewey": "",
         "added": "2022-02-02",
-        "dewey": ""
+        "support": "physical"
+    },
+    {
+        "id": "99116778206305516",
+        "title": "L'architecture en bois en 80 b\u00e2timents remarquables une g\u00e9n\u00e9alogie du N\u00e9olithique \u00e0 nos jours",
+        "creator": "Bignon, Jean-Claude 1950-....",
+        "date": "[2021]",
+        "publisher": "Le Moniteur",
+        "isbn": "9782281145250; 2281145255; 9782281145267; 2281145263",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2022-02-02",
+        "support": "physical"
+    },
+    {
+        "id": "99116778206605516",
+        "title": "La ville en planches bande dessin\u00e9e et mondes urbains",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Hermann",
+        "isbn": "9791037008367; 1037008367",
+        "thumbnail": "",
+        "dewey": "The arts",
+        "added": "2022-02-02",
+        "support": "physical"
     },
     {
         "id": "99116772808505516",
@@ -62,8 +451,9 @@
         "publisher": "Teachers College Press",
         "isbn": "9780807765845; 0807765848; 9780807765838; 080776583X",
         "thumbnail": "http://books.google.com/books/content?id=fblLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Schools and their activities; special education",
         "added": "2022-01-31",
-        "dewey": "Schools and their activities; special education"
+        "support": "physical"
     },
     {
         "id": "99116772808705516",
@@ -73,8 +463,9 @@
         "publisher": "John Wiley & Sons",
         "isbn": "111951021X; 9781119510215; 9781119523918; 1119523915; 9781119511564; 1119511569",
         "thumbnail": "http://books.google.com/books/content?id=0nP2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Education",
         "added": "2022-01-31",
-        "dewey": "Education"
+        "support": "physical"
     },
     {
         "id": "99116775413405516",
@@ -84,8 +475,9 @@
         "publisher": "CRC Press",
         "isbn": "9781032054377; 1032054379; 9780367768690; 0367768690; 9781003197553; 1003197558",
         "thumbnail": "http://books.google.com/books/content?id=Hg09zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-01-31",
-        "dewey": ""
+        "support": "physical"
     },
     {
         "id": "99116776214005516",
@@ -95,8 +487,9 @@
         "publisher": "Actar",
         "isbn": "9781948765961; 1948765969",
         "thumbnail": "http://books.google.com/books/content?id=-vNczgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Natural sciences and mathematics",
         "added": "2022-01-31",
-        "dewey": "Natural sciences and mathematics"
+        "support": "physical"
     },
     {
         "id": "99116778109305516",
@@ -106,8 +499,9 @@
         "publisher": "Palgrave",
         "isbn": "9781137550507; 1137550503",
         "thumbnail": "http://books.google.com/books/content?id=6zBGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Higher education (Tertiary education)",
         "added": "2022-01-31",
-        "dewey": "Higher education (Tertiary education)"
+        "support": "physical"
     },
     {
         "id": "99116778110105516",
@@ -117,8 +511,9 @@
         "publisher": "University of Michigan Press",
         "isbn": "9780472034260; 047203426X",
         "thumbnail": "http://books.google.com/books/content?id=MJ7eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Rhetoric & collections of literature",
         "added": "2022-01-31",
-        "dewey": "Rhetoric & collections of literature"
+        "support": "physical"
     },
     {
         "id": "99116773909305516",
@@ -127,9 +522,10 @@
         "date": "2021",
         "publisher": "CRC Press",
         "isbn": "9781138196476; 1138196479; 9781032205823; 1032205822; 9780367768195; 0367768194; 9781315301150; 1315301156",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=Tt8uzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Chemistry and allied sciences",
         "added": "2022-01-25",
-        "dewey": "Chemistry and allied sciences"
+        "support": "physical"
     },
     {
         "id": "99116773909505516",
@@ -139,8 +535,9 @@
         "publisher": "CRC Press",
         "isbn": "0367313588; 9780367313586; 0367313243; 9780367313241; 9781000402834; 1000402835; 9781000402810; 1000402819; 9780429316548; 0429316542",
         "thumbnail": "http://books.google.com/books/content?id=Q8tAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Sanitary engineering",
         "added": "2022-01-25",
-        "dewey": "Sanitary engineering"
+        "support": "physical"
     },
     {
         "id": "99116773909605516",
@@ -150,19 +547,9 @@
         "publisher": "CRC Press Taylor & Francis Group",
         "isbn": "9781032070605; 1032070609; 9780367494469; 0367494469; 9781003046608; 1003046606",
         "thumbnail": "http://books.google.com/books/content?id=IUdzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Chemical engineering",
         "added": "2022-01-25",
-        "dewey": "Chemical engineering"
-    },
-    {
-        "id": "99116775413705516",
-        "title": "Handbook of laser technology and applications four volume set",
-        "creator": "",
-        "date": "2021",
-        "publisher": "CRC Press Taylor & Francis Group",
-        "isbn": "9781138196575; 1138196576; 9781138032613; 1138032611; 9781138032620; 113803262X; 9781138033320; 1138033324; 9780367649173; 0367649179; 9780367649692; 0367649691; 9780367649791; 0367649799; 9780367649852; 0367649853; 9780367655631; 0367655632; 978131538956",
-        "thumbnail": "http://books.google.com/books/content?id=Y9WszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2022-01-25",
-        "dewey": ""
+        "support": "physical"
     },
     {
         "id": "99116778108705516",
@@ -172,8 +559,33 @@
         "publisher": "AMS American Mathematical Society",
         "isbn": "9781470453428; 1470453428; 9781470455491; 1470455498",
         "thumbnail": "",
+        "dewey": "Mathematics",
         "added": "2022-01-25",
-        "dewey": "Mathematics"
+        "support": "physical"
+    },
+    {
+        "id": "99116778113705516",
+        "title": "Fourier Series and Transforms",
+        "creator": "Harding, R. D.",
+        "date": "2019",
+        "publisher": "CRC Press",
+        "isbn": "9781138413337; 113841333X; 9780852748091; 0852748094; 9781000673371; 1000673375",
+        "thumbnail": "http://books.google.com/books/content?id=tFyvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Analysis",
+        "added": "2022-01-25",
+        "support": "physical"
+    },
+    {
+        "id": "99116778208905516",
+        "title": "Classical and Multidimensional Lorentz Spaces",
+        "creator": "Castillo, Ren\u00e9 Erl\u00edn",
+        "date": "[2021]",
+        "publisher": "De Gruyter",
+        "isbn": "3110750317; 9783110750317; 9783110750355; 311075035X; 9783110750379; 3110750376",
+        "thumbnail": "http://books.google.com/books/content?id=HWA8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2022-01-25",
+        "support": "physical"
     },
     {
         "id": "99116773413805516",
@@ -183,8 +595,9 @@
         "publisher": "Routledge",
         "isbn": "0415663652; 9780415663656; 0415663644; 9780415663649; 0203134060; 9780203134061",
         "thumbnail": "http://books.google.com/books/content?id=wlOMsiiSHAUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Schools and their activities; special education",
         "added": "2022-01-24",
-        "dewey": "Schools and their activities; special education"
+        "support": "physical"
     },
     {
         "id": "99116775713905516",
@@ -194,8 +607,21 @@
         "publisher": "Cambridge Scholars Publishing",
         "isbn": "1527573893; 9781527573895",
         "thumbnail": "http://books.google.com/books/content?id=ybiizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "History of Europe",
         "added": "2022-01-24",
-        "dewey": "History of Europe"
+        "support": "physical"
+    },
+    {
+        "id": "99116778211805516",
+        "title": "Urban playground how child-friendly planning and design can save cities",
+        "creator": "Gill, Tim 1953-",
+        "date": "[2021]",
+        "publisher": "RIBA Publishing",
+        "isbn": "9781859469293; 1859469299",
+        "thumbnail": "http://books.google.com/books/content?id=EjSTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Area planning and landscape architecture",
+        "added": "2022-01-24",
+        "support": "physical"
     },
     {
         "id": "990052255640205516",
@@ -204,9 +630,10 @@
         "date": "2004",
         "publisher": "Twentieth Century Fox Home Entertainment",
         "isbn": "",
-        "thumbnail": "",
+        "thumbnail": "http://books.google.com/books/content?id=4cuZAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
         "added": "2022-01-20",
-        "dewey": ""
+        "support": "physical"
     },
     {
         "id": "990108596580205516",
@@ -216,19 +643,9 @@
         "publisher": "Presses polytechniques et universitaires romandes",
         "isbn": "9782889151981; 2889151980",
         "thumbnail": "",
+        "dewey": "Social sciences",
         "added": "2022-01-20",
-        "dewey": "Social sciences"
-    },
-    {
-        "id": "99116769013105516",
-        "title": "Wood in Australia types, properties, and uses",
-        "creator": "Bootle, K. R. (Keith R.)",
-        "date": "2010, \u00a92005",
-        "publisher": "McGraw-Hill",
-        "isbn": "0071014012; 9780071014014",
-        "thumbnail": "",
-        "added": "2022-01-20",
-        "dewey": "Lumber processing, wood products, cork"
+        "support": "physical"
     },
     {
         "id": "99116776311805516",
@@ -238,8 +655,21 @@
         "publisher": "Deutscher Kunstverlag",
         "isbn": "9783422071292; 3422071296",
         "thumbnail": "http://books.google.com/books/content?id=y-q5xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-01-19",
-        "dewey": ""
+        "support": "physical"
+    },
+    {
+        "id": "99116752350105516",
+        "title": "L'architecture gothique, entre invention et r\u00e9ception (XIIe-XXe si\u00e8cle)",
+        "creator": "",
+        "date": "[2020]",
+        "publisher": "Peter Lang",
+        "isbn": "9782807615137; 2807615139; 9782807615144; 2807615147; 9782807615151; 2807615155; 9782807615168; 2807615163",
+        "thumbnail": "http://books.google.com/books/content?id=L7h1zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2022-01-12",
+        "support": "physical"
     },
     {
         "id": "99116769413305516",
@@ -249,8 +679,9 @@
         "publisher": "Univerity of Texas Press",
         "isbn": "0292709811; 9780292709812; 9780292725942; 0292725949",
         "thumbnail": "http://books.google.com/books/content?id=KQCJcgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-01-12",
-        "dewey": ""
+        "support": "physical"
     },
     {
         "id": "99116773910805516",
@@ -260,8 +691,9 @@
         "publisher": "Sens & Tonka",
         "isbn": "2845342853; 9782845342859",
         "thumbnail": "",
+        "dewey": "",
         "added": "2022-01-12",
-        "dewey": ""
+        "support": "physical"
     },
     {
         "id": "99116773911305516",
@@ -271,8 +703,9 @@
         "publisher": "Silvana editoriale",
         "isbn": "9788836632367; 883663236X",
         "thumbnail": "http://books.google.com/books/content?id=uXoLjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
         "added": "2022-01-12",
-        "dewey": "Architecture"
+        "support": "physical"
     },
     {
         "id": "99116773912805516",
@@ -282,271 +715,8 @@
         "publisher": "Citadelles & Mazenod",
         "isbn": "9782850888809; 285088880X",
         "thumbnail": "",
+        "dewey": "Architecture",
         "added": "2022-01-12",
-        "dewey": "Architecture"
-    },
-    {
-        "id": "99116775310605516",
-        "title": "TTT tattoo",
-        "creator": "Schonberger, Nick Verfasser",
-        "date": "2018",
-        "publisher": "Laurence King Publishing",
-        "isbn": "1786270757; 9781786270757",
-        "thumbnail": "http://books.google.com/books/content?id=akszswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2022-01-12",
-        "dewey": "Graphic arts and decorative arts"
-    },
-    {
-        "id": "990107191030205516",
-        "title": "M\u00e9canique",
-        "creator": "Ansermet, Jean-Philippe 1957- auteur",
-        "date": "[2015]",
-        "publisher": "Presses Polytechniques et Universitaires Romandes",
-        "isbn": "9782889150243; 2889150240",
-        "thumbnail": "",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116772808605516",
-        "title": "Culturally responsive teaching theory, research, and practice",
-        "creator": "Gay, Geneva Verfasser",
-        "date": "[2018]",
-        "publisher": "Teachers College Press",
-        "isbn": "9780807758762; 0807758760; 9780807776704; 080777670X",
-        "thumbnail": "http://books.google.com/books/content?id=0ZlNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Education"
-    },
-    {
-        "id": "99116772810105516",
-        "title": "Walking and mapping artists as cartographers",
-        "creator": "O'Rourke, Karen Verfasser",
-        "date": "2016",
-        "publisher": "The MIT Press",
-        "isbn": "9780262528955; 0262528959",
-        "thumbnail": "http://books.google.com/books/content?id=mr34DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "The arts"
-    },
-    {
-        "id": "99116772811205516",
-        "title": "Rocket and spacecraft propulsion principles, practice and new developments",
-        "creator": "",
-        "date": "2009",
-        "publisher": "Springer",
-        "isbn": "9783540692027; 3540692029; 9783540692034; 3540692037",
-        "thumbnail": "http://books.google.com/books/content?id=xBYYasVPpvAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116773713605516",
-        "title": "Gender inclusive engineering education",
-        "creator": "",
-        "date": "2010",
-        "publisher": "Routledge Taylor and Francis Group",
-        "isbn": "0415805880; 9780415805889; 0203851951; 9780203851951",
-        "thumbnail": "Too Many Requests",
-        "added": "2021-12-22",
-        "dewey": "Engineering and allied operations"
-    },
-    {
-        "id": "99116773713705516",
-        "title": "Theories of mathematics education seeking new frontiers",
-        "creator": "",
-        "date": "2010",
-        "publisher": "Springer",
-        "isbn": "3642007414; 9783642007415; 9783642007422; 3642007422",
-        "thumbnail": "http://books.google.com/books/content?id=Kd_LgW2AXIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Mathematics"
-    },
-    {
-        "id": "99116773909405516",
-        "title": "Basic molecular quantum mechanics",
-        "creator": "Adelman, Steven A.",
-        "date": "[2022]",
-        "publisher": "CRC Press Taylor and Francis Group",
-        "isbn": "9781032010656; 1032010657; 9781498733991; 1498733999; 9780429155741; 0429155743",
-        "thumbnail": "http://books.google.com/books/content?id=sjkyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Physics"
-    },
-    {
-        "id": "99116773910205516",
-        "title": "Computational and data-driven chemistry using artificial intelligence Fundamentals, methods and applications",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Elsevier",
-        "isbn": "0128222492; 9780128222492; 9780128232729; 0128232722",
-        "thumbnail": "Too Many Requests",
-        "added": "2021-12-22",
-        "dewey": "Techniques, equipment & materials"
-    },
-    {
-        "id": "99116773911405516",
-        "title": "Mario Bellini: architetto/architect",
-        "creator": "Ranzani, Ermanno 1955-....",
-        "date": "[2016]",
-        "publisher": "Silvana",
-        "isbn": "8836633870; 9788836633876",
-        "thumbnail": "http://books.google.com/books/content?id=tlm0DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Architecture from 1400"
-    },
-    {
-        "id": "99116773911905516",
-        "title": "Aymeric Zublena architecte = architect",
-        "creator": "Zublena, Aymeric 1936-....",
-        "date": "2020",
-        "publisher": "Silvana Editoriale",
-        "isbn": "9788836640935; 8836640931",
-        "thumbnail": "http://books.google.com/books/content?id=A5jdxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Architecture"
-    },
-    {
-        "id": "99116773912405516",
-        "title": "Hazardous waste management an overview of advanced and cost-effective solutions",
-        "creator": "",
-        "date": "2021",
-        "publisher": "Elsevier",
-        "isbn": "0128243449; 9780128243442",
-        "thumbnail": "http://books.google.com/books/content?id=wahQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Sanitary engineering"
-    },
-    {
-        "id": "99116775413305516",
-        "title": "Handbook of Mass Measurement",
-        "creator": "Jones, Franke E.",
-        "date": "2019",
-        "publisher": "CRC Press",
-        "isbn": "9780367454999; 0367454998; 9780849325311; 0849325315",
-        "thumbnail": "http://books.google.com/books/content?id=mq4-nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116775413505516",
-        "title": "Dynamical systems and nonlinear waves in plasmas",
-        "creator": "Saha, Asit",
-        "date": "2021",
-        "publisher": "CRC Press Taylor & Francis Group",
-        "isbn": "9780367487324; 0367487322; 9781032025681; 1032025689; 9781000404760; 1000404765; 9781000404753; 1000404757; 9781003042549; 1003042546",
-        "thumbnail": "http://books.google.com/books/content?id=GE81EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Physics"
-    },
-    {
-        "id": "99116775414005516",
-        "title": "Modernist Pizza",
-        "creator": "Myhrvold, Nathan",
-        "date": "2021",
-        "publisher": "The Cooking Lab",
-        "isbn": "1734386126; 9781734386127",
-        "thumbnail": "http://books.google.com/books/content?id=LQUqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116775608905516",
-        "title": "Quantum mechanics for scientists and engineers",
-        "creator": "Parthasarathy, Harish",
-        "date": "2021",
-        "publisher": "CRC Press",
-        "isbn": "1032117648; 9781032117645",
-        "thumbnail": "http://books.google.com/books/content?id=hg1rzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116775713805516",
-        "title": "Venture capital & the finance of innovation",
-        "creator": "Metrick, Andrew",
-        "date": "[2021]",
-        "publisher": "Wiley",
-        "isbn": "1119490111; 9781119490111; 9781119494379; 1119494370; 9781119494355; 1119494354",
-        "thumbnail": "http://books.google.com/books/content?id=PC09EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Financial economics"
-    },
-    {
-        "id": "99116775714005516",
-        "title": "Stochastic calculus for quantitative finance",
-        "creator": "Gushchin, Alexander A.",
-        "date": "2015",
-        "publisher": "Elsevier",
-        "isbn": "9781785480348; 1785480340; 9780081004760; 0081004761",
-        "thumbnail": "http://books.google.com/books/content?id=omIpBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Financial economics"
-    },
-    {
-        "id": "99116776311305516",
-        "title": "Building with earth design and technology of a sustainable architecture",
-        "creator": "Minke, Gernot 1937-",
-        "date": "[2021]",
-        "publisher": "Birkha\u0308user",
-        "isbn": "3035622531; 9783035622539; 9783035622553; 3035622558",
-        "thumbnail": "http://books.google.com/books/content?id=AQ5QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116776312605516",
-        "title": "Inhabiting displacement architecture and authorship",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Birkha\u0308user",
-        "isbn": "3035623708; 9783035623703; 9783035623710; 3035623716",
-        "thumbnail": "http://books.google.com/books/content?id=Bw5QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Architecture"
-    },
-    {
-        "id": "99116778109405516",
-        "title": "Writing for engineers",
-        "creator": "Van Emden, Joan 1934- Verfasser",
-        "date": "2018",
-        "publisher": "Palgrave Macmillan Education",
-        "isbn": "9781352000474; 1352000474",
-        "thumbnail": "http://books.google.com/books/content?id=0TJGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": "Rhetoric & collections of literature"
-    },
-    {
-        "id": "99116778109505516",
-        "title": "Writing for science students",
-        "creator": "Boyle, Jennifer auteur",
-        "date": "2017",
-        "publisher": "Palgrave",
-        "isbn": "9781137571519; 1137571519",
-        "thumbnail": "http://books.google.com/books/content?id=CzFGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "99116778109805516",
-        "title": "The study skills handbook",
-        "creator": "Cottrell, Stella 1958- Verfasser",
-        "date": "2019",
-        "publisher": "Red Globe Press",
-        "isbn": "9781137610874; 1137610875",
-        "thumbnail": "http://books.google.com/books/content?id=nTJGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-22",
-        "dewey": ""
-    },
-    {
-        "id": "990060034250205516",
-        "title": "Algebraic methods in unstable homotopy theory",
-        "creator": "Neisendorfer, Joseph 1945-....",
-        "date": "[2010]",
-        "publisher": "Cambridge University Press",
-        "isbn": "0521760372; 9780521760379; 9780511691638; 0511691637",
-        "thumbnail": "http://books.google.com/books/content?id=ujihngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "added": "2021-12-21",
-        "dewey": ""
+        "support": "physical"
     }
 ]
