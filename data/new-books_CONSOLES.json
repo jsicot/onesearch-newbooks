@@ -1,0 +1,110 @@
+[
+    {
+        "id": "99116786613305516",
+        "title": "Playstation 4 (PS4)",
+        "creator": "",
+        "date": "",
+        "publisher": "Sony",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/PS4.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116786613205516",
+        "title": "Playstation 5 (PS5)",
+        "creator": "",
+        "date": "",
+        "publisher": "Sony",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/PS5.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116786613405516",
+        "title": "Xbox One",
+        "creator": "",
+        "date": "",
+        "publisher": "Microsoft",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/XBOX_ONE.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116786613105516",
+        "title": "Xbox Series X",
+        "creator": "",
+        "date": "",
+        "publisher": "Microsoft",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/XBOX_SX.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116783510805516",
+        "title": "Switch",
+        "creator": "",
+        "date": "",
+        "publisher": "Nintendo",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SWITCH.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116783510705516",
+        "title": "Switch Lite",
+        "creator": "",
+        "date": "",
+        "publisher": "Nintendo",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SWITCH_LITE.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "990113292480205516",
+        "title": "Nintendo mini (NES)",
+        "creator": "",
+        "date": "",
+        "publisher": "Nintendo",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/NES.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },     
+    {
+        "id": "990113260220205516",
+        "title": "Super Nintendo mini (SNES)",
+        "creator": "",
+        "date": "",
+        "publisher": "Nintendo",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SNES.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116819678005516",
+        "title": "Oculus Quest 2",
+        "creator": "",
+        "date": "",
+        "publisher": "Facebook/Meta",
+        "isbn": "",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/OCULUS.png",
+        "dewey": "",
+        "added": "2022-04-22",
+        "support": "physical"
+    }                           
+]
