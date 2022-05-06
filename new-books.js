@@ -1,5 +1,31 @@
 $(document).ready(function() {
-  $.getJSON("new-books.json", function(data) {
+
+  var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+    return false;
+  };
+  
+  var set = getUrlParameter('set')
+
+  if(set) {
+    var json_file = "new-books_"+ set +".json";
+  }
+  else {
+    var json_file = "new-books.json";
+  }
+
+  $.getJSON("data/"+json_file, function(data) {
     var slides = [];
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
