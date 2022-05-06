@@ -6,7 +6,7 @@
         "date": "",
         "publisher": "Sony",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/PS4.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/PS4.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -18,7 +18,7 @@
         "date": "",
         "publisher": "Sony",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/PS5.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/PS5.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -30,7 +30,7 @@
         "date": "",
         "publisher": "Microsoft",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/XBOX_ONE.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/XBOX_ONE.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -42,7 +42,7 @@
         "date": "",
         "publisher": "Microsoft",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/XBOX_SX.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/XBOX_SX.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -54,7 +54,7 @@
         "date": "",
         "publisher": "Nintendo",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SWITCH.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/SWITCH.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -66,7 +66,7 @@
         "date": "",
         "publisher": "Nintendo",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SWITCH_LITE.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/SWITCH_LITE.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -78,7 +78,7 @@
         "date": "",
         "publisher": "Nintendo",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/NES.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/NES.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -90,7 +90,7 @@
         "date": "",
         "publisher": "Nintendo",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/SNES.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/SNES.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
@@ -102,7 +102,7 @@
         "date": "",
         "publisher": "Facebook/Meta",
         "isbn": "",
-        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/OCULUS.png",
+        "thumbnail": "https://jsicot.github.io/onesearch-newbooks/img/consoles/OCULUS.png",
         "dewey": "",
         "added": "2022-04-22",
         "support": "physical"
