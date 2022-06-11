@@ -30,7 +30,7 @@ $(document).ready(function() {
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
         var slide = `
-        <a class="card" target="_top" aria-label="` + book["title"] + `" href="https://epfl.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma` + book["id"] + `&vid=41SLSP_EPF:test" title="` + book["title"] + `">
+        <a class="card" target="_top" aria-label="` + book["title"] + `" href="https://epfl.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma` + book["id"] + `&vid=41SLSP_EPF:prod" title="` + book["title"] + `">
           <img src="` + book["thumbnail"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
