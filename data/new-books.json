@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116868529305516",
+        "title": "R\u00e9duire les in\u00e9galit\u00e9s sociales en sant\u00e9",
+        "creator": "sous la direction de Louise Potvin, Marie-Jos\u00e9 Moquet, Catherine M. Jones",
+        "date": "",
+        "publisher": "",
+        "isbn": "9782916192239",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-09-30",
+        "support": "electronic"
+    },
+    {
+        "id": "99116868861505516",
+        "title": "Political friendship and degrowth : an ethical grounding of an economy of human flourishing /",
+        "creator": "Giannopoulou, Areti, author.",
+        "date": "[2022]",
+        "publisher": "Routledge",
+        "isbn": "1000530914",
+        "thumbnail": "",
+        "dewey": "Production",
+        "added": "2022-09-30",
+        "support": "electronic"
+    },
+    {
         "id": "99116696557605516",
         "title": "Gouvernement & action publique.",
         "creator": "",
@@ -54,7 +78,7 @@
         "date": "[2022]",
         "publisher": "Simon & Schuster",
         "isbn": "1471196909",
-        "thumbnail": "http://books.google.com/books/content?id=nFIvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=nFIvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -66,7 +90,7 @@
         "date": "[2022]",
         "publisher": "Little Simon",
         "isbn": "1665911395",
-        "thumbnail": "http://books.google.com/books/content?id=OFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=OFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -78,7 +102,7 @@
         "date": "[2022]",
         "publisher": "Margaret K McElderry Books",
         "isbn": "1534498257",
-        "thumbnail": "http://books.google.com/books/content?id=7Fk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7Fk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Diseases",
         "added": "2022-09-28",
         "support": "electronic"
@@ -90,7 +114,7 @@
         "date": "[2022]",
         "publisher": "Simon Element",
         "isbn": "1982169133",
-        "thumbnail": "http://books.google.com/books/content?id=llg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=llg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Human physiology",
         "added": "2022-09-28",
         "support": "electronic"
@@ -114,7 +138,7 @@
         "date": "[2022]",
         "publisher": "Destiny Books",
         "isbn": "1644113015",
-        "thumbnail": "http://books.google.com/books/content?id=F_s9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=F_s9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Technology of industrial chemicals",
         "added": "2022-09-28",
         "support": "electronic"
@@ -126,7 +150,7 @@
         "date": "[2022]",
         "publisher": "Atria Books",
         "isbn": "1982171952",
-        "thumbnail": "http://books.google.com/books/content?id=jFg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=jFg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -138,7 +162,7 @@
         "date": "2019.",
         "publisher": "HarperCollins Publishers",
         "isbn": "0062879359",
-        "thumbnail": "http://books.google.com/books/content?id=NWlzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=NWlzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2022-09-28",
         "support": "electronic"
@@ -150,7 +174,7 @@
         "date": "[2022]",
         "publisher": "Arcade Publishing",
         "isbn": "1950994414",
-        "thumbnail": "http://books.google.com/books/content?id=FFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=FFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "History of Europe",
         "added": "2022-09-28",
         "support": "electronic"
@@ -162,7 +186,7 @@
         "date": "[2022]",
         "publisher": "Aladdin",
         "isbn": "1665900997",
-        "thumbnail": "http://books.google.com/books/content?id=YFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -354,7 +378,7 @@
         "date": "2019.",
         "publisher": "Amsterdam University Press",
         "isbn": "9048550106",
-        "thumbnail": "http://books.google.com/books/content?id=HbqgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HbqgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Japan",
         "added": "2022-09-28",
         "support": "electronic"
@@ -498,7 +522,7 @@
         "date": "2019",
         "publisher": "Amsterdam University Press",
         "isbn": "9789048542987",
-        "thumbnail": "http://books.google.com/books/content?id=Pf2rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Pf2rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "History, geographic treatment, biography",
         "added": "2022-09-28",
         "support": "electronic"
@@ -512,30 +536,6 @@
         "isbn": "1510736271",
         "thumbnail": "http://books.google.com/books/content?id=u2lODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
-        "added": "2022-09-28",
-        "support": "electronic"
-    },
-    {
-        "id": "99116868548205516",
-        "title": "The 1960s on film /",
-        "creator": "Willis, Jim, 1946 March 19- author.",
-        "date": "[2021]",
-        "publisher": "ABC-CLIO",
-        "isbn": "1440868786",
-        "thumbnail": "http://books.google.com/books/content?id=Pt9EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "World history",
-        "added": "2022-09-28",
-        "support": "electronic"
-    },
-    {
-        "id": "99116868548305516",
-        "title": "Picturing commerce in and from the East Asian maritime circuits, 1550-1800 /",
-        "creator": "",
-        "date": "2019.",
-        "publisher": "Amsterdam University Press",
-        "isbn": "9048535441",
-        "thumbnail": "http://books.google.com/books/content?id=EXaGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "International commerce (Foreign trade)",
         "added": "2022-09-28",
         "support": "electronic"
     },
