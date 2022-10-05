@@ -1,10 +1,10 @@
 [
     {
         "id": "99116868529305516",
-        "title": "R\u00e9duire les in\u00e9galit\u00e9s sociales en sant\u00e9",
-        "creator": "sous la direction de Louise Potvin, Marie-Jos\u00e9 Moquet, Catherine M. Jones",
-        "date": "",
-        "publisher": "",
+        "title": "R\u00e9duire les in\u00e9galit\u00e9s sociales en sant\u00e9 /",
+        "creator": "",
+        "date": "2010",
+        "publisher": "Institut national de pr\u00e9vention et d\u2019\u00e9ducation pour la sant\u00e9",
         "isbn": "9782916192239",
         "thumbnail": "",
         "dewey": "",
@@ -22,6 +22,18 @@
         "dewey": "Production",
         "added": "2022-09-30",
         "support": "electronic"
+    },
+    {
+        "id": "990112528390205516",
+        "title": "Analyse avanc\u00e9e pour ing\u00e9nieurs",
+        "creator": "Dacorogna, Bernard 1953- auteur",
+        "date": "2018",
+        "publisher": "Presses Polytechniques et Universitaires Romandes",
+        "isbn": "9782889152629",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-09-29",
+        "support": "physical"
     },
     {
         "id": "99116696557605516",
@@ -78,7 +90,7 @@
         "date": "[2022]",
         "publisher": "Simon & Schuster",
         "isbn": "1471196909",
-        "thumbnail": "http://books.google.com/books/content?id=nFIvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=nFIvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -90,7 +102,7 @@
         "date": "[2022]",
         "publisher": "Little Simon",
         "isbn": "1665911395",
-        "thumbnail": "http://books.google.com/books/content?id=OFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=OFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -102,7 +114,7 @@
         "date": "[2022]",
         "publisher": "Margaret K McElderry Books",
         "isbn": "1534498257",
-        "thumbnail": "http://books.google.com/books/content?id=7Fk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7Fk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Diseases",
         "added": "2022-09-28",
         "support": "electronic"
@@ -114,7 +126,7 @@
         "date": "[2022]",
         "publisher": "Simon Element",
         "isbn": "1982169133",
-        "thumbnail": "http://books.google.com/books/content?id=llg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=llg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Human physiology",
         "added": "2022-09-28",
         "support": "electronic"
@@ -138,7 +150,7 @@
         "date": "[2022]",
         "publisher": "Destiny Books",
         "isbn": "1644113015",
-        "thumbnail": "http://books.google.com/books/content?id=F_s9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=F_s9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Technology of industrial chemicals",
         "added": "2022-09-28",
         "support": "electronic"
@@ -150,7 +162,7 @@
         "date": "[2022]",
         "publisher": "Atria Books",
         "isbn": "1982171952",
-        "thumbnail": "http://books.google.com/books/content?id=jFg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=jFg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -162,7 +174,7 @@
         "date": "2019.",
         "publisher": "HarperCollins Publishers",
         "isbn": "0062879359",
-        "thumbnail": "http://books.google.com/books/content?id=NWlzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=NWlzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2022-09-28",
         "support": "electronic"
@@ -174,7 +186,7 @@
         "date": "[2022]",
         "publisher": "Arcade Publishing",
         "isbn": "1950994414",
-        "thumbnail": "http://books.google.com/books/content?id=FFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=FFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "History of Europe",
         "added": "2022-09-28",
         "support": "electronic"
@@ -186,7 +198,7 @@
         "date": "[2022]",
         "publisher": "Aladdin",
         "isbn": "1665900997",
-        "thumbnail": "http://books.google.com/books/content?id=YFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YFk1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Primary education (Elementary education)",
         "added": "2022-09-28",
         "support": "electronic"
@@ -378,7 +390,7 @@
         "date": "2019.",
         "publisher": "Amsterdam University Press",
         "isbn": "9048550106",
-        "thumbnail": "http://books.google.com/books/content?id=HbqgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HbqgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Japan",
         "added": "2022-09-28",
         "support": "electronic"
@@ -522,20 +534,8 @@
         "date": "2019",
         "publisher": "Amsterdam University Press",
         "isbn": "9789048542987",
-        "thumbnail": "http://books.google.com/books/content?id=Pf2rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Pf2rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "History, geographic treatment, biography",
-        "added": "2022-09-28",
-        "support": "electronic"
-    },
-    {
-        "id": "99116868548105516",
-        "title": "Handguns for Self-Defense : A Guide to Choosing and Using Your Weapon.",
-        "creator": "Nash, David.",
-        "date": "2019.",
-        "publisher": "Skyhorse Publishing Company Incorporated",
-        "isbn": "1510736271",
-        "thumbnail": "http://books.google.com/books/content?id=u2lODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "",
         "added": "2022-09-28",
         "support": "electronic"
     },
@@ -936,6 +936,18 @@
         "support": "physical"
     },
     {
+        "id": "99116838678305516",
+        "title": "Trait\u00e9 de l'habitat le Mayamata",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "Les Belles Lettres",
+        "isbn": "9782251453019",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2022-07-06",
+        "support": "physical"
+    },
+    {
         "id": "99116763195005516",
         "title": "Neighbourhoods for the future a plea for a social and ecological urbanism",
         "creator": "Hajer, Maarten A. 1962-",
@@ -1052,30 +1064,6 @@
         "isbn": "9782871433897",
         "thumbnail": "",
         "dewey": "Architecture",
-        "added": "2022-06-24",
-        "support": "physical"
-    },
-    {
-        "id": "99116818274705516",
-        "title": "Taller He\u0301ctor Barroso, 2015-2022 laberintos = Taller He\u0301ctor Barroso, 2015-2022 : labyrinths",
-        "creator": "Taller H\u00e9ctor Barroso",
-        "date": "[2022]",
-        "publisher": "El croquis editorial",
-        "isbn": "9788412333176",
-        "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2022-06-24",
-        "support": "physical"
-    },
-    {
-        "id": "99116818770505516",
-        "title": "Pierres de l'E\u0301gypte ancienne Guide des mate\u0301riaux de l'architecture, de la sculpture et de la joaillerie",
-        "creator": "Putter, Thierry <<de>>",
-        "date": "[2022]",
-        "publisher": "\u00c9ditions Safran",
-        "isbn": "2874571334",
-        "thumbnail": "",
-        "dewey": "History of ancient world to ca. 499",
         "added": "2022-06-24",
         "support": "physical"
     }
