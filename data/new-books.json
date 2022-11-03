@@ -732,6 +732,42 @@
         "support": "physical"
     },
     {
+        "id": "99116849461505516",
+        "title": "Les mondes extraordinaires de Jules Verne aux origines de la pop culture et de la science-fiction",
+        "creator": "Allard, Nicolas 1986-....",
+        "date": "[2021]",
+        "publisher": "Armand Colin",
+        "isbn": "9782200631369",
+        "thumbnail": "",
+        "dewey": "Literature (Belles-lettres) and rhetoric",
+        "added": "2022-08-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116849461705516",
+        "title": "Que faire du pass\u00e9 ? r\u00e9flexions sur la \"cancel culture\"",
+        "creator": "Vesperini, Pierre philosophe 1978-....",
+        "date": "[2022]",
+        "publisher": "Fayard",
+        "isbn": "9782213722177",
+        "thumbnail": "",
+        "dewey": "Social sciences",
+        "added": "2022-08-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116849461805516",
+        "title": "La philosophie antique essai d'histoire",
+        "creator": "Vesperini, Pierre Verfasser",
+        "date": "[2019]",
+        "publisher": "Fayard",
+        "isbn": "9782213678504",
+        "thumbnail": "",
+        "dewey": "Philosophy & psychology",
+        "added": "2022-08-16",
+        "support": "physical"
+    },
+    {
         "id": "99116813974805516",
         "title": "La sociocriminologie",
         "creator": "Leman-Langlois, St\u00e9phane 1965-",
@@ -741,6 +777,18 @@
         "thumbnail": "http://books.google.com/books/content?id=OGrmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Social problems and services; associations",
         "added": "2022-08-10",
+        "support": "physical"
+    },
+    {
+        "id": "99116849461405516",
+        "title": "People, practice, power digital humanities outside the center",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "University of Minnesota Press",
+        "isbn": "1517910676",
+        "thumbnail": "http://books.google.com/books/content?id=97xkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Relationships of libraries and archives",
+        "added": "2022-08-09",
         "support": "physical"
     },
     {
@@ -763,6 +811,18 @@
         "publisher": "Routledge",
         "isbn": "1138584738",
         "thumbnail": "http://books.google.com/books/content?id=c_iAzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Other social problems and services",
+        "added": "2022-08-04",
+        "support": "physical"
+    },
+    {
+        "id": "99116849362305516",
+        "title": "International police cooperation emerging issues, theory and practice",
+        "creator": "",
+        "date": "[2010]",
+        "publisher": "Willan Pub",
+        "isbn": "9781843927600",
+        "thumbnail": "http://books.google.com/books/content?id=7btrQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Other social problems and services",
         "added": "2022-08-04",
         "support": "physical"
@@ -852,6 +912,42 @@
         "support": "physical"
     },
     {
+        "id": "99116847578405516",
+        "title": "Trait\u00e9 de brasserie",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "Dunod",
+        "isbn": "9782100831869",
+        "thumbnail": "",
+        "dewey": "Chemical engineering",
+        "added": "2022-07-29",
+        "support": "physical"
+    },
+    {
+        "id": "99116849361505516",
+        "title": "Finite element analysis for building assessment advanced use and practical recommendations",
+        "creator": "Louren\u00e7o, Paulo B. 1967-",
+        "date": "2022",
+        "publisher": "Routledge Taylor & Francis Group",
+        "isbn": "9780367357672",
+        "thumbnail": "http://books.google.com/books/content?id=tmmwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-07-29",
+        "support": "physical"
+    },
+    {
+        "id": "99116849461605516",
+        "title": "Les moutons de la pens\u00e9e nouveaux conformismes id\u00e9ologiques",
+        "creator": "Szlamowicz, Jean 1973-....",
+        "date": "2022",
+        "publisher": "Editions du Cerf",
+        "isbn": "9782204147750",
+        "thumbnail": "",
+        "dewey": "Social sciences",
+        "added": "2022-07-29",
+        "support": "physical"
+    },
+    {
         "id": "99116747549105516",
         "title": "Petit trait\u00e9 d'analyse criminelle",
         "creator": "Boivin, R\u00e9mi",
@@ -912,6 +1008,30 @@
         "support": "physical"
     },
     {
+        "id": "99116849361905516",
+        "title": "Radionucl\u00e9ides & radioprotection manuel pour la manipulation de substances radioactives dans les laboratoires de faible et moyenne activit\u00e9 : guide pratique",
+        "creator": "Delacroix, Daniel 19..-....",
+        "date": "[2022]",
+        "publisher": "EDP Sciences",
+        "isbn": "9782759826360",
+        "thumbnail": "",
+        "dewey": "Physics",
+        "added": "2022-07-26",
+        "support": "physical"
+    },
+    {
+        "id": "99116849461905516",
+        "title": "\u00c9picure & l'\u00e9conomie du bonheur",
+        "creator": "Helmer, \u00c9tienne 1975-....",
+        "date": "2021",
+        "publisher": "Le Passager clandestin",
+        "isbn": "9782369354475",
+        "thumbnail": "",
+        "dewey": "Economics",
+        "added": "2022-07-26",
+        "support": "physical"
+    },
+    {
         "id": "990064388250205516",
         "title": "Maurice Vallat un architecte dans le Jura 1860-1910",
         "creator": "Daucourt, Philippe Verfasser",
@@ -957,126 +1077,6 @@
         "thumbnail": "http://books.google.com/books/content?id=24NOPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Natural sciences and mathematics",
         "added": "2022-07-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116845378305516",
-        "title": "Les alimentations \u00e9lectroniques alimentations lin\u00e9aires et \u00e0 d\u00e9coupage, piles et accumulateurs, r\u00e9colte d'\u00e9nergie",
-        "creator": "May\u00e9, Pierre auteur",
-        "date": "[2018]",
-        "publisher": "Dunod",
-        "isbn": "9782100781034",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-07-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116846778205516",
-        "title": "L'\u00e9nigme de la raison",
-        "creator": "Mercier, Hugo 1980-....",
-        "date": "[2021]",
-        "publisher": "Odile Jacob",
-        "isbn": "9782738157591",
-        "thumbnail": "",
-        "dewey": "Psychology",
-        "added": "2022-07-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116846778305516",
-        "title": "Le laboureur et les mangeurs de vent libert\u00e9 int\u00e9rieure et confortable servitude",
-        "creator": "Cyrulnik, Boris 1937-....",
-        "date": "mars [2022]",
-        "publisher": "Odile Jacob",
-        "isbn": "9782415001360",
-        "thumbnail": "http://books.google.com/books/content?id=zf74zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Social sciences",
-        "added": "2022-07-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116847576905516",
-        "title": "Corporate strategy tools for analysis and decision-making",
-        "creator": "Puranam, Phanish Verfasser",
-        "date": "2016",
-        "publisher": "Cambridge univ press",
-        "isbn": "9781107120914",
-        "thumbnail": "http://books.google.com/books/content?id=rQCmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Management and auxiliary services",
-        "added": "2022-07-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116844978105516",
-        "title": "Politics of urban planning the making and unmaking of the Mumbai Development Plan 2014-2034",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Springer",
-        "isbn": "9789811686702",
-        "thumbnail": "http://books.google.com/books/content?id=en-7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Area planning and landscape architecture",
-        "added": "2022-07-12",
-        "support": "physical"
-    },
-    {
-        "id": "990114410740205516",
-        "title": "La recherche scientifique \u00e0 l'\u00e8re des Big Data cinq fa\u00e7ons dont les Big Data nuisent \u00e0 la science et comment la sauver",
-        "creator": "Leonelli, Sabina Verfasser",
-        "date": "DL 2019",
-        "publisher": "Editions Mim\u00e9sis",
-        "isbn": "9788869761843",
-        "thumbnail": "http://books.google.com/books/content?id=TLu6xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Computer programming, programs, data, security",
-        "added": "2022-07-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116846078405516",
-        "title": "Landscape gardening in Japan with the author's 1912 supplement to landscape gardening in Japan",
-        "creator": "Conder, Josiah 1852-1920",
-        "date": "\u00a92002",
-        "publisher": "Distributed in the United States by Kodansha America; Kodansha International",
-        "isbn": "9784770028525",
-        "thumbnail": "http://books.google.com/books/content?id=BwnfwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Landscape architecture (Landscape design)",
-        "added": "2022-07-11",
-        "support": "physical"
-    },
-    {
-        "id": "990114069510205516",
-        "title": "L'humanit\u00e9 en p\u00e9ril",
-        "creator": "Vargas, Fred 1957- auteur",
-        "date": "[2019-2022]",
-        "publisher": "Flammarion",
-        "isbn": "9782081490864",
-        "thumbnail": "http://books.google.com/books/content?id=ubAkxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Economics",
-        "added": "2022-07-06",
-        "support": "physical"
-    },
-    {
-        "id": "99116809372505516",
-        "title": "Wood",
-        "creator": "",
-        "date": "[2018]",
-        "publisher": "Damdi Publishing Co",
-        "isbn": "9788968010811",
-        "thumbnail": "http://books.google.com/books/content?id=PF8BvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture from 1400",
-        "added": "2022-07-06",
-        "support": "physical"
-    },
-    {
-        "id": "99116812274805516",
-        "title": "Sound of architecture acoustic atmospheres in place",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Leuven University Press",
-        "isbn": "9789462703216",
-        "thumbnail": "http://books.google.com/books/content?id=2MhcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-07-06",
         "support": "physical"
     }
 ]
