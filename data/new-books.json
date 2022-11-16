@@ -1,12 +1,36 @@
 [
     {
+        "id": "99116874362305516",
+        "title": "Pollution is colonialism /",
+        "creator": "Liboiron, Max, 1980- author.",
+        "date": "[2021]",
+        "publisher": "Duke University Press",
+        "isbn": "1478013222",
+        "thumbnail": "http://books.google.com/books/content?id=0r2XzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Other social problems and services",
+        "added": "2022-11-11",
+        "support": "electronic"
+    },
+    {
+        "id": "99116874362405516",
+        "title": "Sylvia Wynter : on being human as praxis /",
+        "creator": "",
+        "date": "2015.",
+        "publisher": "Duke University Press",
+        "isbn": "0822358344",
+        "thumbnail": "http://books.google.com/books/content?id=qMLuoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Social sciences",
+        "added": "2022-11-11",
+        "support": "electronic"
+    },
+    {
         "id": "99116874061105516",
         "title": "Navigating the Boom/Bust Cycle : An Entrepreneur's Survival Guide.",
         "creator": "Sabrin, Murray.",
         "date": "2021.",
         "publisher": "Business Expert Press",
         "isbn": "1637421206",
-        "thumbnail": "http://books.google.com/books/content?id=I-MzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "",
         "dewey": "",
         "added": "2022-11-09",
         "support": "electronic"
@@ -90,7 +114,7 @@
         "date": "2022.",
         "publisher": "Routledge Taylor & Francis Group",
         "isbn": "1003166628",
-        "thumbnail": "http://books.google.com/books/content?id=71FazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "",
         "dewey": "Macroeconomics and related topics",
         "added": "2022-11-08",
         "support": "electronic"
@@ -138,7 +162,7 @@
         "date": "2004.",
         "publisher": "University of Arizona Press",
         "isbn": "9780816551125",
-        "thumbnail": "http://books.google.com/books/content?id=HjmIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "",
         "dewey": "Other social problems and services",
         "added": "2022-11-01",
         "support": "electronic"
@@ -174,7 +198,7 @@
         "date": "2022.",
         "publisher": "IGI Global",
         "isbn": "1668450038",
-        "thumbnail": "http://books.google.com/books/content?id=_5yLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "",
         "dewey": "Other social problems and services",
         "added": "2022-10-28",
         "support": "electronic"
@@ -210,7 +234,7 @@
         "date": "2022.",
         "publisher": "Walter de Gruyter GmbH",
         "isbn": "3110778319",
-        "thumbnail": "http://books.google.com/books/content?id=I0R6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "",
         "dewey": "Organic chemistry",
         "added": "2022-10-27",
         "support": "electronic"
@@ -516,28 +540,16 @@
         "support": "electronic"
     },
     {
-        "id": "99116871060105516",
-        "title": "Landscape as infrastructure : a base primer /",
-        "creator": "Belanger, Pierre, 1971-, author.",
-        "date": "2017.",
-        "publisher": "Routledge",
-        "isbn": "1138643920",
-        "thumbnail": "http://books.google.com/books/content?id=ql3xjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Landscape architecture (Landscape design)",
-        "added": "2022-10-21",
-        "support": "electronic"
-    },
-    {
-        "id": "99116871060205516",
-        "title": "Tropical dry forests : emerging features and ecological perspectives /",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "Nova Science Publishers",
-        "isbn": "1536195812",
+        "id": "99116786511305516",
+        "title": "Mesure, m\u00e9catronique et traitement de donn\u00e9es",
+        "creator": "Lemay, Jean 1961- auteur",
+        "date": "[2017]",
+        "publisher": "\u00c9ditions JFD",
+        "isbn": "9782924651247",
         "thumbnail": "",
-        "dewey": "Ecology",
-        "added": "2022-10-21",
-        "support": "electronic"
+        "dewey": "",
+        "added": "2022-10-11",
+        "support": "physical"
     },
     {
         "id": "99116850261705516",
@@ -840,6 +852,30 @@
         "support": "physical"
     },
     {
+        "id": "99116851162405516",
+        "title": "La sant\u00e9 mentale des \u00e9tudiants approches innovantes pour la pr\u00e9vention et  l'accompagnement : un \u00e9tat des lieux",
+        "creator": "Shankland, R\u00e9becca 1977-....",
+        "date": "2022",
+        "publisher": "Elsevier Masson",
+        "isbn": "9782294776915",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-08-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116851959805516",
+        "title": "Context blindness digital technology and the next stage of human evolution",
+        "creator": "Berger, Eva 1967-",
+        "date": "[2022]",
+        "publisher": "Peter Lang",
+        "isbn": "1433186136",
+        "thumbnail": "http://books.google.com/books/content?id=lBSzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Social processes",
+        "added": "2022-08-16",
+        "support": "physical"
+    },
+    {
         "id": "99116813974805516",
         "title": "La sociocriminologie",
         "creator": "Leman-Langlois, St\u00e9phane 1965-",
@@ -858,8 +894,32 @@
         "date": "[2021]",
         "publisher": "University of Minnesota Press",
         "isbn": "1517910676",
-        "thumbnail": "http://books.google.com/books/content?id=97xkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "",
         "dewey": "Relationships of libraries and archives",
+        "added": "2022-08-09",
+        "support": "physical"
+    },
+    {
+        "id": "99116851662305516",
+        "title": "Bioinspired sensing, actuation, and control in underwater soft robotic systems",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Springer",
+        "isbn": "9783030504755",
+        "thumbnail": "http://books.google.com/books/content?id=zL9-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-08-09",
+        "support": "physical"
+    },
+    {
+        "id": "99116851662405516",
+        "title": "Handbook of reinforcement learning and control",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Springer Nature Switzerland",
+        "isbn": "9783030609894",
+        "thumbnail": "http://books.google.com/books/content?id=pPbCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-08-09",
         "support": "physical"
     },
@@ -1004,66 +1064,6 @@
         "isbn": "0387471006",
         "thumbnail": "http://books.google.com/books/content?id=JAXSsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
-        "added": "2022-07-29",
-        "support": "physical"
-    },
-    {
-        "id": "99116818770305516",
-        "title": "Architecture in the age of artificial intelligence an introduction to AI for architects",
-        "creator": "Leach, Neil",
-        "date": "2022",
-        "publisher": "Bloomsbury Visual Arts",
-        "isbn": "9781350165519",
-        "thumbnail": "http://books.google.com/books/content?id=VhEzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-07-29",
-        "support": "physical"
-    },
-    {
-        "id": "99116847577605516",
-        "title": "La transformation du monde une histoire globale du XIXe si\u00e8cle",
-        "creator": "Osterhammel, J\u00fcrgen 1952-....",
-        "date": "2017",
-        "publisher": "Nouveau monde \u00e9ditions",
-        "isbn": "9782369425984",
-        "thumbnail": "",
-        "dewey": "World history",
-        "added": "2022-07-29",
-        "support": "physical"
-    },
-    {
-        "id": "99116847578105516",
-        "title": "Chimie 1350 CM3 d'exercices corrige\u0301s pour la licence 1",
-        "creator": "Agnello, Arm\u00e9linda",
-        "date": "2021",
-        "publisher": "Dunod",
-        "isbn": "210081365X",
-        "thumbnail": "",
-        "dewey": "Chemistry and allied sciences",
-        "added": "2022-07-29",
-        "support": "physical"
-    },
-    {
-        "id": "99116847578205516",
-        "title": "Les atomes de nos vies fer, potassium, cuivre... : les surprenants pouvoirs des \u00e9l\u00e9ments du tableau p\u00e9riodique",
-        "creator": "R\u00f8yne, Anja 1981-....",
-        "date": "[2022]",
-        "publisher": "Dunod",
-        "isbn": "9782100828326",
-        "thumbnail": "",
-        "dewey": "Physics",
-        "added": "2022-07-29",
-        "support": "physical"
-    },
-    {
-        "id": "99116847578305516",
-        "title": "Pratique de la re\u0301gulation industrielle",
-        "creator": "Dindeleux, Daniel",
-        "date": "[2022]",
-        "publisher": "Dunod",
-        "isbn": "2100779710",
-        "thumbnail": "",
-        "dewey": "Engineering and allied operations",
         "added": "2022-07-29",
         "support": "physical"
     }
