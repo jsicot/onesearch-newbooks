@@ -25,7 +25,7 @@ $(document).ready(function() {
     var json_file = "new-books.json";
   }
 
-  $.getJSON("data/new-books.json", function(data) {
+ $.getJSON("data/"+json_file, function(data) {
     var slides = [];
     $.each(data, function(i, book) {
       if (book["thumbnail"] != "" && book["thumbnail"] != "Too Many Requests") {
