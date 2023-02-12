@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116890061505516",
+        "title": "Liquid cell electron microscopy /",
+        "creator": "Ross, Frances M., 1964- author, editor.",
+        "date": "2017.",
+        "publisher": "Cambridge University Press",
+        "isbn": "1316883531",
+        "thumbnail": "",
+        "dewey": "Miscellany",
+        "added": "2023-02-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116890061605516",
+        "title": "Introduction to computation and programming using Python with application to computational modeling and understanding data",
+        "creator": "Guttag, John V. autor",
+        "date": "[2021]",
+        "publisher": "The MIT Press",
+        "isbn": "9780262363433",
+        "thumbnail": "http://books.google.com/books/content?id=f57uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Special computer methods",
+        "added": "2023-02-09",
+        "support": "electronic"
+    },
+    {
         "id": "99116887362205516",
         "title": "Voices in the code : a story about people, their values, and the algorithm they made /",
         "creator": "Robinson, David G. (Researcher in technology policy), author.",
@@ -497,8 +521,8 @@
         "creator": "Stewart, Andrew, 1975- author.",
         "date": "2021.",
         "publisher": "Cornell University Press",
-        "isbn": "1501758942",
-        "thumbnail": "http://books.google.com/books/content?id=GiEdzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "1501759051",
+        "thumbnail": "http://books.google.com/books/content?id=6XsOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Special computer methods",
         "added": "2023-01-17",
         "support": "electronic"
@@ -512,30 +536,6 @@
         "isbn": "100051868X",
         "thumbnail": "",
         "dewey": "Factors affecting social behavior",
-        "added": "2023-01-17",
-        "support": "electronic"
-    },
-    {
-        "id": "99116886262105516",
-        "title": "Noise filtering for big data analytics /",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Walter de Gruyter GmbH",
-        "isbn": "3110697211",
-        "thumbnail": "",
-        "dewey": "Special computer methods",
-        "added": "2023-01-17",
-        "support": "electronic"
-    },
-    {
-        "id": "99116886262205516",
-        "title": "Circus maximus : the economic gamble behind hosting the Olympics and the World Cup /",
-        "creator": "Zimbalist, Andrew S., author.",
-        "date": "[2020]",
-        "publisher": "Brookings Institution Press",
-        "isbn": "0815738625",
-        "thumbnail": "http://books.google.com/books/content?id=Y3HnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Athletic and outdoor sports and games",
         "added": "2023-01-17",
         "support": "electronic"
     }
