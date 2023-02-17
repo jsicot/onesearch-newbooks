@@ -1,5 +1,17 @@
 [
     {
+        "id": "99116891639605516",
+        "title": "Fotogeschichten und Geschichtsbilder",
+        "creator": "",
+        "date": "2022",
+        "publisher": "Campus Frankfurt / New York",
+        "isbn": "359351642X",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-02-16",
+        "support": "electronic"
+    },
+    {
         "id": "99116890943205516",
         "title": "Catalytic Reduction in Organic Synthesis 1 : Reference Library 2017/5 /",
         "creator": "Bonrath, W. author.",
@@ -522,18 +534,6 @@
         "date": "2011.",
         "publisher": "Georg Thieme Verlag",
         "isbn": "3131843713",
-        "thumbnail": "",
-        "dewey": "Organic chemistry",
-        "added": "2023-02-15",
-        "support": "electronic"
-    },
-    {
-        "id": "99116890947605516",
-        "title": "Knowledge Updates 2013/1 /",
-        "creator": "Fuerstner, A. author.",
-        "date": "2013.",
-        "publisher": "Thieme",
-        "isbn": "3131844817",
         "thumbnail": "",
         "dewey": "Organic chemistry",
         "added": "2023-02-15",
