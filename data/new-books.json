@@ -702,7 +702,7 @@
         "date": "[2021]",
         "publisher": "Springer",
         "isbn": "3030651398",
-        "thumbnail": "http://books.google.com/books/content?id=dST6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2022-11-08",
         "support": "physical"
@@ -714,7 +714,7 @@
         "date": "[2022]",
         "publisher": "Les Presses de l'Universit\u00e9 de Montr\u00e9al",
         "isbn": "2760646483",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "Cinematography and videography",
         "added": "2022-11-08",
         "support": "physical"
@@ -726,7 +726,7 @@
         "date": "[2022]",
         "publisher": "M\u0113tisPresses",
         "isbn": "9782940711116",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "Area planning and landscape architecture",
         "added": "2022-11-03",
         "support": "physical"
@@ -738,8 +738,20 @@
         "date": "2008",
         "publisher": "Pavillon de l'Arsenal",
         "isbn": "9782354870034",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
+        "added": "2022-11-02",
+        "support": "physical"
+    },
+    {
+        "id": "99116867761605516",
+        "title": "Architecture and feminism",
+        "creator": "",
+        "date": "[1996]",
+        "publisher": "Princeton Architectural Press",
+        "isbn": "1568980434",
+        "thumbnail": "http://books.google.com/books/content?id=4V_qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
         "added": "2022-11-02",
         "support": "physical"
     },
@@ -872,6 +884,30 @@
         "isbn": "113824631X",
         "thumbnail": "http://books.google.com/books/content?id=c-4vvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Photographic images",
+        "added": "2022-10-11",
+        "support": "physical"
+    },
+    {
+        "id": "99116867761705516",
+        "title": "Fundamentals of Physics II Electromagnetism, Optics, and Quantum Mechanics",
+        "creator": "Shankar, Ramamurti 1947-",
+        "date": "[2020]",
+        "publisher": "Yale University Press",
+        "isbn": "0300243782",
+        "thumbnail": "http://books.google.com/books/content?id=VqXeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2022-10-11",
+        "support": "physical"
+    },
+    {
+        "id": "99116867762005516",
+        "title": "Introduction to the thermodynamics of materials",
+        "creator": "Gaskell, David R. 1940-",
+        "date": "[2018]",
+        "publisher": "CRC Press Taylor & Francis Group",
+        "isbn": "9781498757003",
+        "thumbnail": "http://books.google.com/books/content?id=S355AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Engineering and allied operations",
         "added": "2022-10-11",
         "support": "physical"
     },
@@ -1040,42 +1076,6 @@
         "isbn": "9782390612292",
         "thumbnail": "",
         "dewey": "Social sciences",
-        "added": "2022-09-27",
-        "support": "physical"
-    },
-    {
-        "id": "99116858161805516",
-        "title": "Activer ses neurones pour mieux apprendre et enseigner : [les 7 principes neuro\u00e9ducatifs]",
-        "creator": "Masson, St\u00e8ve 1977-....",
-        "date": "2020",
-        "publisher": "Odile Jacob",
-        "isbn": "9782738151506",
-        "thumbnail": "",
-        "dewey": "Psychology",
-        "added": "2022-09-27",
-        "support": "physical"
-    },
-    {
-        "id": "99116858958905516",
-        "title": "Trouble dans le genre (gender trouble) : le f\u00e9minisme et la subversion de l'identit\u00e9",
-        "creator": "Butler, Judith Pamela 1956-....",
-        "date": "2018",
-        "publisher": "La D\u00e9couverte",
-        "isbn": "9782707150189",
-        "thumbnail": "http://books.google.com/books/content?id=GTTaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2022-09-27",
-        "support": "physical"
-    },
-    {
-        "id": "99116858959005516",
-        "title": "Se d\u00e9fendre une philosophie de la violence",
-        "creator": "Dorlin, Elsa 1974- Verfasser",
-        "date": "[2017]",
-        "publisher": "Zones",
-        "isbn": "9782355221101",
-        "thumbnail": "",
-        "dewey": "Political science (Politics and government)",
         "added": "2022-09-27",
         "support": "physical"
     }
