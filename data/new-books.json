@@ -702,7 +702,7 @@
         "date": "[2021]",
         "publisher": "Springer",
         "isbn": "3030651398",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=dST6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2022-11-08",
         "support": "physical"
@@ -714,7 +714,7 @@
         "date": "[2022]",
         "publisher": "Les Presses de l'Universit\u00e9 de Montr\u00e9al",
         "isbn": "2760646483",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "Cinematography and videography",
         "added": "2022-11-08",
         "support": "physical"
@@ -726,7 +726,7 @@
         "date": "[2022]",
         "publisher": "M\u0113tisPresses",
         "isbn": "9782940711116",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "Area planning and landscape architecture",
         "added": "2022-11-03",
         "support": "physical"
@@ -738,7 +738,7 @@
         "date": "2008",
         "publisher": "Pavillon de l'Arsenal",
         "isbn": "9782354870034",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "",
         "added": "2022-11-02",
         "support": "physical"
