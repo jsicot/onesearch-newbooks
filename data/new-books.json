@@ -1,5 +1,41 @@
 [
     {
+        "id": "99116894762105516",
+        "title": "EU - sammen hver for sig? : pandemiens f\u00f8rste \u00e5r",
+        "creator": "",
+        "date": "2021",
+        "publisher": "DEO",
+        "isbn": "9788794125062",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-03-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116894762305516",
+        "title": "Beyond Death Beliefs, Practice, and Material Expression",
+        "creator": "Williams, Patrick Ryan",
+        "date": "2022",
+        "publisher": "BAR Publications",
+        "isbn": "9781407360447",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-03-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116893748005516",
+        "title": "From microphysics to macrophysics.",
+        "creator": "Balian, Roger, author.",
+        "date": "1991.",
+        "publisher": "Springer-Verlag",
+        "isbn": "3662219166",
+        "thumbnail": "http://books.google.com/books/content?id=JLVMyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Physics",
+        "added": "2023-03-03",
+        "support": "electronic"
+    },
+    {
         "id": "99116894662105516",
         "title": "Fortellinger om kunstnerliv: kunstnerkarrierer og kunstnerk\u00e5r 1999\u20132019",
         "creator": "Mangset, Per 1944-",
@@ -75,7 +111,7 @@
         "id": "99116894546305516",
         "title": "A course in environmental economics : theory, policy, and practice /",
         "creator": "Phaneuf, Daniel J. author. (Daniel James),",
-        "date": "",
+        "date": "2017.",
         "publisher": "Cambridge University Press",
         "isbn": "1316868079",
         "thumbnail": "",
@@ -504,42 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116894155105516",
-        "title": "2022 7th International Conference on Control, Robotics and Cybernetics (CRC)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665473061",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
-        "id": "99116894155205516",
-        "title": "2022 5th International Conference on Power Engineering and Renewable Energy (ICPERE)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665455489",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
-        "id": "99116894155305516",
-        "title": "2022 5th International Conference on Advances in Science and Technology (ICAST)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665492643",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
         "id": "99116866962205516",
         "title": "Hydrology an introduction",
         "creator": "Brutsaert, Wilfried 1934-",
@@ -804,6 +804,30 @@
         "support": "physical"
     },
     {
+        "id": "99116868461705516",
+        "title": "Robust Python write clean and maintainable code",
+        "creator": "Viafore, Patrick",
+        "date": "2021",
+        "publisher": "O'Reilly Media",
+        "isbn": "1098100662",
+        "thumbnail": "http://books.google.com/books/content?id=qhYizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Special computer methods",
+        "added": "2022-10-18",
+        "support": "physical"
+    },
+    {
+        "id": "99116868461905516",
+        "title": "JavaScript cookbook",
+        "creator": "Scott, Adam D.",
+        "date": "2021",
+        "publisher": "O'Reilly Media Inc",
+        "isbn": "1492055751",
+        "thumbnail": "http://books.google.com/books/content?id=fruQzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Special computer methods",
+        "added": "2022-10-18",
+        "support": "physical"
+    },
+    {
         "id": "99116866762405516",
         "title": "L'acc\u00e9l\u00e9ration de l'histoire des Lumi\u00e8res \u00e0 l'Anthropoc\u00e8ne",
         "creator": "Bouton, Christophe 1969-....",
@@ -972,6 +996,18 @@
         "support": "physical"
     },
     {
+        "id": "99116868461805516",
+        "title": "Scala cookbook recipes for object-oriented and functional programming",
+        "creator": "Alexander, Alvin",
+        "date": "2021",
+        "publisher": "O'Reilly",
+        "isbn": "9781492051541",
+        "thumbnail": "http://books.google.com/books/content?id=0COYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Special computer methods",
+        "added": "2022-10-11",
+        "support": "physical"
+    },
+    {
         "id": "99116866961505516",
         "title": "Integrate architecture under the influence of climate change = Architektur unter Einfluss des Klimawandels",
         "creator": "",
@@ -1040,42 +1076,6 @@
         "isbn": "9780262528672",
         "thumbnail": "http://books.google.com/books/content?id=aDyPjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116867761405516",
-        "title": "Disidentifications queers of color and the performance of politics",
-        "creator": "Mu\u00f1oz, Jos\u00e9 Esteban 1967-2013 Verfasser",
-        "date": "[1999]",
-        "publisher": "University of Minnesota Press",
-        "isbn": "0816630151",
-        "thumbnail": "http://books.google.com/books/content?id=HKhKjG0CsCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Groups of people",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116867761505516",
-        "title": "Atlas of emotion journeys in art, architecture, and film",
-        "creator": "Bruno, Giuliana 1957- Verfasser",
-        "date": "2018",
-        "publisher": "Verso",
-        "isbn": "1786633221",
-        "thumbnail": "http://books.google.com/books/content?id=nsdfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "The arts",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116867762105516",
-        "title": "The economics of European integration",
-        "creator": "Baldwin, Richard E. Verfasser",
-        "date": "[2020]",
-        "publisher": "McGraw-Hill",
-        "isbn": "9781526847218",
-        "thumbnail": "http://books.google.com/books/content?id=x2dTwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "International economics",
         "added": "2022-10-04",
         "support": "physical"
     }
