@@ -1,5 +1,17 @@
 [
     {
+        "id": "99116895262405516",
+        "title": "Renewable Energy in the Middle East",
+        "creator": "",
+        "date": "2009",
+        "publisher": "Springer Netherlands",
+        "isbn": "1402098928",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-03-06",
+        "support": "electronic"
+    },
+    {
         "id": "99116894762105516",
         "title": "EU - sammen hver for sig? : pandemiens f\u00f8rste \u00e5r",
         "creator": "",
@@ -528,18 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116894155005516",
-        "title": "2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665465549",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
         "id": "99116866962205516",
         "title": "Hydrology an introduction",
         "creator": "Brutsaert, Wilfried 1934-",
@@ -648,6 +648,18 @@
         "support": "physical"
     },
     {
+        "id": "99116868762305516",
+        "title": "Architecture des Ordinateurs",
+        "creator": "Benmohammed, Mohamed",
+        "date": "[2017]",
+        "publisher": "Noor Publishing",
+        "isbn": "9783330967359",
+        "thumbnail": "",
+        "dewey": "Computer programming, programs, data, security",
+        "added": "2023-01-09",
+        "support": "physical"
+    },
+    {
         "id": "99116756501705516",
         "title": "Oscar Niemeyer the mondadori building",
         "creator": "Dulio, Roberto 1971-",
@@ -657,6 +669,30 @@
         "thumbnail": "http://books.google.com/books/content?id=fHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2022-12-19",
+        "support": "physical"
+    },
+    {
+        "id": "99116869256405516",
+        "title": "R\u00e9parer l'eau",
+        "creator": "Rey, Olivier 1964-....",
+        "date": "[2021]",
+        "publisher": "Stock",
+        "isbn": "9782234091054",
+        "thumbnail": "",
+        "dewey": "Philosophy & psychology",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116869256505516",
+        "title": "Une pluie d'oiseaux",
+        "creator": "Mac\u00e9, Marielle 1973-....",
+        "date": "[2022]",
+        "publisher": "\u00c9ditions Corti",
+        "isbn": "9782714312785",
+        "thumbnail": "",
+        "dewey": "Literatures of Romance languages",
+        "added": "2022-11-23",
         "support": "physical"
     },
     {
@@ -693,6 +729,54 @@
         "thumbnail": "",
         "dewey": "Social sciences",
         "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116868762005516",
+        "title": "Ailanthus altissima une monographie situ\u00e9e de l'ailante",
+        "creator": "Boudvin, Simon artiste 1979-....",
+        "date": "2021",
+        "publisher": "B42",
+        "isbn": "9782490077434",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116868762105516",
+        "title": "A\u00e9roports, repr\u00e9sentations et exp\u00e9rimentations en architecture",
+        "creator": "Estevez, Daniel 1962-",
+        "date": "[2012]",
+        "publisher": "L'Harmattan",
+        "isbn": "2296961819",
+        "thumbnail": "http://books.google.com/books/content?id=DqU2bQiKOH4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Public structures",
+        "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116868762205516",
+        "title": "Conception non formelle en architecture exp\u00e9riences d'apprentissage et pratiques de conception",
+        "creator": "Estevez, Daniel 1962- Verfasser",
+        "date": "[2015]",
+        "publisher": "l'Harmattan",
+        "isbn": "9782343072951",
+        "thumbnail": "http://books.google.com/books/content?id=wkrSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Landscape architecture (Landscape design)",
+        "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116869260005516",
+        "title": "Forensic science a sociological introduction",
+        "creator": "Lawless, Christopher",
+        "date": "2022",
+        "publisher": "Routledge",
+        "isbn": "0367648067",
+        "thumbnail": "http://books.google.com/books/content?id=SDqezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-11-14",
         "support": "physical"
     },
     {
@@ -740,6 +824,42 @@
         "isbn": "9782100839216",
         "thumbnail": "",
         "dewey": "Chemistry and allied sciences",
+        "added": "2022-11-08",
+        "support": "physical"
+    },
+    {
+        "id": "99116868462005516",
+        "title": "Excel 2021 pour les nuls",
+        "creator": "Harvey, Greg 1949-....",
+        "date": "[2021]",
+        "publisher": "First Interactive",
+        "isbn": "9782412073490",
+        "thumbnail": "",
+        "dewey": "Computer programming, programs, data, security",
+        "added": "2022-11-08",
+        "support": "physical"
+    },
+    {
+        "id": "99116868761805516",
+        "title": "Enseigner et former psychologie appliqu\u00e9e et p\u00e9dagogies actives : secondaire, sup\u00e9rieur, formation professionnelle",
+        "creator": "Parmentier, Jean-Francois 1982-....",
+        "date": "[2022]",
+        "publisher": "Dunod",
+        "isbn": "2100836536",
+        "thumbnail": "",
+        "dewey": "Education",
+        "added": "2022-11-08",
+        "support": "physical"
+    },
+    {
+        "id": "99116869260605516",
+        "title": "La Science fiction une introduction historique et philosophique",
+        "creator": "Hottois, Gilbert",
+        "date": "[2022]",
+        "publisher": "Librairie philosophique J Vrin",
+        "isbn": "9782711630141",
+        "thumbnail": "http://books.google.com/books/content?id=goVUzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-11-08",
         "support": "physical"
     },
@@ -792,6 +912,66 @@
         "support": "physical"
     },
     {
+        "id": "99116869260105516",
+        "title": "Forensic chemistry of substance misuse a guide to drug control",
+        "creator": "King, Leslie A.",
+        "date": "[2022]",
+        "publisher": "Royal Society of Chemistry",
+        "isbn": "1839164506",
+        "thumbnail": "http://books.google.com/books/content?id=Lk1-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Social problems and services to groups",
+        "added": "2022-11-02",
+        "support": "physical"
+    },
+    {
+        "id": "99116869256605516",
+        "title": "Apr\u00e8s! Le monde boulevers\u00e9",
+        "creator": "",
+        "date": "[2020]",
+        "publisher": "H\u00e9lice H\u00e9las",
+        "isbn": "9782940522941",
+        "thumbnail": "",
+        "dewey": "Literatures of Romance languages",
+        "added": "2022-10-27",
+        "support": "physical"
+    },
+    {
+        "id": "99116869259705516",
+        "title": "La police technique et scientifique",
+        "creator": "Jalby, Christian",
+        "date": "2017",
+        "publisher": "",
+        "isbn": "2130789498",
+        "thumbnail": "",
+        "dewey": "Criminal law",
+        "added": "2022-10-26",
+        "support": "physical"
+    },
+    {
+        "id": "99116869259805516",
+        "title": "The history of forensic science in India",
+        "creator": "Basu, Saumitra",
+        "date": "2021",
+        "publisher": "Routledge",
+        "isbn": "1032005181",
+        "thumbnail": "http://books.google.com/books/content?id=UOM0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Other social problems and services",
+        "added": "2022-10-26",
+        "support": "physical"
+    },
+    {
+        "id": "99116869259905516",
+        "title": "Handbook of biometric anti-spoofing presentation, attack, detection",
+        "creator": "Marcel, Se\u0301bastien 1973-",
+        "date": "2019",
+        "publisher": "Springer",
+        "isbn": "9783319926261",
+        "thumbnail": "http://books.google.com/books/content?id=U3RMtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-10-26",
+        "support": "physical"
+    },
+    {
         "id": "99116810473005516",
         "title": "Sustainable development the roles of carbon and bio-carbon : an introduction to molecular sciences",
         "creator": "Vogel, Pierre 1944-",
@@ -801,6 +981,18 @@
         "thumbnail": "http://books.google.com/books/content?id=1mt4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Inorganic chemistry",
         "added": "2022-10-25",
+        "support": "physical"
+    },
+    {
+        "id": "99116869260205516",
+        "title": "Aiding forensic investigation through deep learning and machine learning frameworks",
+        "creator": "Raj, Alex Noel Joseph 1979-",
+        "date": "[2022]",
+        "publisher": "IGI Global",
+        "isbn": "9781668445587",
+        "thumbnail": "http://books.google.com/books/content?id=AAwMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-10-19",
         "support": "physical"
     },
     {
@@ -824,6 +1016,18 @@
         "isbn": "1492055751",
         "thumbnail": "http://books.google.com/books/content?id=fruQzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Special computer methods",
+        "added": "2022-10-18",
+        "support": "physical"
+    },
+    {
+        "id": "99116869556405516",
+        "title": "Unpacking",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "Limited Run Games",
+        "isbn": "",
+        "thumbnail": "",
+        "dewey": "Indoor games of skill",
         "added": "2022-10-18",
         "support": "physical"
     },
@@ -873,210 +1077,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116852161705516",
-        "title": "2021 ASHRAE handbook Fundamentals",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "ASHRAE",
-        "isbn": "9781947192898",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116853162105516",
-        "title": "L'\u00e9conomie \u00e0 l'\u00e9preuve de l'art art et capitalisme dans les ann\u00e9es 1960",
-        "creator": "Cras, Sophie 1985-....",
-        "date": "2018",
-        "publisher": "Presses du R\u00e9el Editions",
-        "isbn": "9782840669104",
-        "thumbnail": "",
-        "dewey": "The arts",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116858959205516",
-        "title": "Le combat Adama",
-        "creator": "Traor\u00e9, Assa 1985-",
-        "date": "DL 2019",
-        "publisher": "Stock",
-        "isbn": "2234087392",
-        "thumbnail": "",
-        "dewey": "Political science (Politics and government)",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116859660905516",
-        "title": "Le Centre spatial guyanais",
-        "creator": "Chambaz, Bernard 1949-",
-        "date": "[2021]",
-        "publisher": "CNES",
-        "isbn": "2854400453",
-        "thumbnail": "",
-        "dewey": "History, geographic treatment, biography",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116859661005516",
-        "title": "La base spatiale d'Hammaguir",
-        "creator": "Beretti, Michel (1948-....",
-        "date": "[2020]",
-        "publisher": "CNES",
-        "isbn": "2854400402",
-        "thumbnail": "",
-        "dewey": "Other branches of engineering",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116859761705516",
-        "title": "Cellular transformation between architecture and biology",
-        "creator": "Kim, Sung Ho",
-        "date": "2021",
-        "publisher": "DAMDI Publishing Co",
-        "isbn": "9788968011030",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116867761305516",
-        "title": "Doing family photography the domestic, the public and the politics of sentiment",
-        "creator": "Rose, Gillian 1962-",
-        "date": "[2016]",
-        "publisher": "Routledge",
-        "isbn": "113824631X",
-        "thumbnail": "http://books.google.com/books/content?id=c-4vvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Photographic images",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116867761705516",
-        "title": "Fundamentals of Physics II Electromagnetism, Optics, and Quantum Mechanics",
-        "creator": "Shankar, Ramamurti 1947-",
-        "date": "[2020]",
-        "publisher": "Yale University Press",
-        "isbn": "0300243782",
-        "thumbnail": "http://books.google.com/books/content?id=VqXeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116867762005516",
-        "title": "Introduction to the thermodynamics of materials",
-        "creator": "Gaskell, David R. 1940-",
-        "date": "[2018]",
-        "publisher": "CRC Press Taylor & Francis Group",
-        "isbn": "9781498757003",
-        "thumbnail": "http://books.google.com/books/content?id=S355AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Engineering and allied operations",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116868461605516",
-        "title": "Deep learning from Scratch building with Python from first principles",
-        "creator": "Weidman, Seth Verfasser",
-        "date": "September 2019",
-        "publisher": "O'Reilly",
-        "isbn": "9781492041412",
-        "thumbnail": "http://books.google.com/books/content?id=PRSCwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Computer programming, programs, data, security",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116868461805516",
-        "title": "Scala cookbook recipes for object-oriented and functional programming",
-        "creator": "Alexander, Alvin",
-        "date": "2021",
-        "publisher": "O'Reilly",
-        "isbn": "9781492051541",
-        "thumbnail": "http://books.google.com/books/content?id=0COYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Special computer methods",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116866961505516",
-        "title": "Integrate architecture under the influence of climate change = Architektur unter Einfluss des Klimawandels",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "vdf Hochschulverlag",
-        "isbn": "3728140996",
-        "thumbnail": "http://books.google.com/books/content?id=LD3SzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-10-06",
-        "support": "physical"
-    },
-    {
-        "id": "99116847577705516",
-        "title": "Managing data for patron privacy comprehensive strategies for libraries",
-        "creator": "Briney, Kristin",
-        "date": "2022",
-        "publisher": "ALA Editions",
-        "isbn": "0838938280",
-        "thumbnail": "http://books.google.com/books/content?id=jyHnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Constitutional and administrative law",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116854061505516",
-        "title": "Problem-solving technologies a user-friendly philosophy",
-        "creator": "Soltanzadeh, Sadjad",
-        "date": "[2021]",
-        "publisher": "Rowman & Littlefield",
-        "isbn": "9781538157879",
-        "thumbnail": "http://books.google.com/books/content?id=3TiYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Conscious mental processes & intelligence",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116854161105516",
-        "title": "Search inside yourself the unexpected path to achieving success, happiness (and world peace)",
-        "creator": "Tan, Chade-Meng 1971- Verfasser",
-        "date": "2014",
-        "publisher": "HarperCollins",
-        "isbn": "9780062116932",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116866962405516",
-        "title": "Go figure! the astonishing science of the female body",
-        "creator": "Falco, Lisa",
-        "date": "[2021]",
-        "publisher": "Clink Street Publishing",
-        "isbn": "1913962245",
-        "thumbnail": "http://books.google.com/books/content?id=QluqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Human physiology",
-        "added": "2022-10-04",
-        "support": "physical"
-    },
-    {
-        "id": "99116867761105516",
-        "title": "Queer",
-        "creator": "",
-        "date": "2016",
-        "publisher": "Whitechapel Gallery",
-        "isbn": "9780262528672",
-        "thumbnail": "http://books.google.com/books/content?id=aDyPjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2022-10-04",
         "support": "physical"
     }
 ]
