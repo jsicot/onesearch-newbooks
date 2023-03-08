@@ -1,12 +1,36 @@
 [
     {
+        "id": "99116893959105516",
+        "title": "Flow networks analysis and optimization of repairable flow networks, networks with disturbed flows, static flow networks and reliability networks /",
+        "creator": "Todinov, Michael T.",
+        "date": "2013.",
+        "publisher": "Elsevier",
+        "isbn": "1283975122",
+        "thumbnail": "",
+        "dewey": "Applied physics",
+        "added": "2023-03-07",
+        "support": "electronic"
+    },
+    {
+        "id": "99116893959605516",
+        "title": "The wealth of nature environmental history and the ecological imagination /",
+        "creator": "Worster, Donald, 1941-",
+        "date": "1993.",
+        "publisher": "Oxford University Press",
+        "isbn": "0197560695",
+        "thumbnail": "",
+        "dewey": "Factors affecting social behavior",
+        "added": "2023-03-07",
+        "support": "electronic"
+    },
+    {
         "id": "99116895262405516",
         "title": "Renewable Energy in the Middle East",
         "creator": "",
         "date": "2009",
         "publisher": "Springer Netherlands",
         "isbn": "1402098928",
-        "thumbnail": "",
+        "thumbnail": "http://books.google.com/books/content?id=dRq9CylTFcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-03-06",
         "support": "electronic"
@@ -102,7 +126,7 @@
         "date": "[2021]",
         "publisher": "Woodhead Publishing",
         "isbn": "0081028792",
-        "thumbnail": "",
+        "thumbnail": "http://books.google.com/books/content?id=-ZDhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Electricity and electronics",
         "added": "2023-03-01",
         "support": "electronic"
@@ -516,30 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116894154805516",
-        "title": "2022 IEEE 19th India Council International Conference (INDICON)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665452722",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
-        "id": "99116894154905516",
-        "title": "2022 8th International Engineering, Sciences and Technology Conference (IESTEC)",
-        "creator": "",
-        "date": "2022",
-        "publisher": "IEEE",
-        "isbn": "1665498447",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-02-27",
-        "support": "electronic"
-    },
-    {
         "id": "99116866962205516",
         "title": "Hydrology an introduction",
         "creator": "Brutsaert, Wilfried 1934-",
@@ -696,6 +696,30 @@
         "support": "physical"
     },
     {
+        "id": "99116869559305516",
+        "title": "La bombe",
+        "creator": "Alcante 1970- Verfasser",
+        "date": "[2020]",
+        "publisher": "Gl\u00e9nat",
+        "isbn": "9782344020630",
+        "thumbnail": "http://books.google.com/books/content?id=Y6VgzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116869559405516",
+        "title": "Living and working",
+        "creator": "Dogma Bruxelles, Belgique",
+        "date": "[2022]",
+        "publisher": "MIT Press",
+        "isbn": "9780262543514",
+        "thumbnail": "http://books.google.com/books/content?id=FLxNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
         "id": "99116804774505516",
         "title": "Adolescent-to-parent violence and abuse applying research to policy and practice",
         "creator": "McCloud, Elizabeth",
@@ -726,7 +750,7 @@
         "date": "2021",
         "publisher": "Meatspace Press",
         "isbn": "9781913824020",
-        "thumbnail": "",
+        "thumbnail": "http://books.google.com/books/content?id=S2DmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Social sciences",
         "added": "2022-11-16",
         "support": "physical"
@@ -764,6 +788,18 @@
         "isbn": "9782343072951",
         "thumbnail": "http://books.google.com/books/content?id=wkrSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Landscape architecture (Landscape design)",
+        "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116869561405516",
+        "title": "Le v\u00e9ritable enjeu de l'histoire est la contemporan\u00e9it\u00e9 m\u00e9langes offerts \u00e0 Joseph Abram",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "J-M Place",
+        "isbn": "9782383580096",
+        "thumbnail": "",
+        "dewey": "Architecture",
         "added": "2022-11-16",
         "support": "physical"
     },
@@ -924,6 +960,18 @@
         "support": "physical"
     },
     {
+        "id": "99116869561505516",
+        "title": "Modern heritage reuse, renovation, restoration",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "Docomomo International; Birkha\u0308user",
+        "isbn": "9783035625080",
+        "thumbnail": "http://books.google.com/books/content?id=G0anzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2022-11-02",
+        "support": "physical"
+    },
+    {
         "id": "99116869256605516",
         "title": "Apr\u00e8s! Le monde boulevers\u00e9",
         "creator": "",
@@ -1029,54 +1077,6 @@
         "thumbnail": "",
         "dewey": "Indoor games of skill",
         "added": "2022-10-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116866762405516",
-        "title": "L'acc\u00e9l\u00e9ration de l'histoire des Lumi\u00e8res \u00e0 l'Anthropoc\u00e8ne",
-        "creator": "Bouton, Christophe 1969-....",
-        "date": "[2022]",
-        "publisher": "\u00c9ditions du Seuil",
-        "isbn": "9782021486926",
-        "thumbnail": "",
-        "dewey": "Philosophy & psychology",
-        "added": "2022-10-14",
-        "support": "physical"
-    },
-    {
-        "id": "99116867861705516",
-        "title": "Physique-Chimie en PSI/PSI* Le cours complet - Nouveaux programmes",
-        "creator": "Olive, Pascal",
-        "date": "2022",
-        "publisher": "Ellipses",
-        "isbn": "9782340066564",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-14",
-        "support": "physical"
-    },
-    {
-        "id": "99116786511305516",
-        "title": "Mesure, m\u00e9catronique et traitement de donn\u00e9es",
-        "creator": "Lemay, Jean 1961- auteur",
-        "date": "[2017]",
-        "publisher": "\u00c9ditions JFD",
-        "isbn": "9782924651247",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-11",
-        "support": "physical"
-    },
-    {
-        "id": "99116850261705516",
-        "title": "L'infinit\u00e9 du progr\u00e8s est un mauvais infini",
-        "creator": "Nancy, Jean-Luc 1940-2021",
-        "date": "[\u00e0 para\u00eetre 16 sept. 2022]",
-        "publisher": "William Blake",
-        "isbn": "9782841032365",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-10-11",
         "support": "physical"
     }
 ]
