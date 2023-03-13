@@ -1032,6 +1032,18 @@
         "support": "physical"
     },
     {
+        "id": "99116869561705516",
+        "title": "Anyone can code the art and science of logical creativity",
+        "creator": "Arya, Ali",
+        "date": "2021",
+        "publisher": "CRC Press",
+        "isbn": "0367199696",
+        "thumbnail": "http://books.google.com/books/content?id=IxSXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Special computer methods",
+        "added": "2022-10-25",
+        "support": "physical"
+    },
+    {
         "id": "99116869260205516",
         "title": "Aiding forensic investigation through deep learning and machine learning frameworks",
         "creator": "Raj, Alex Noel Joseph 1979-",
@@ -1051,18 +1063,6 @@
         "publisher": "O'Reilly Media",
         "isbn": "1098100662",
         "thumbnail": "http://books.google.com/books/content?id=qhYizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Special computer methods",
-        "added": "2022-10-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116868461905516",
-        "title": "JavaScript cookbook",
-        "creator": "Scott, Adam D.",
-        "date": "2021",
-        "publisher": "O'Reilly Media Inc",
-        "isbn": "1492055751",
-        "thumbnail": "http://books.google.com/books/content?id=fruQzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Special computer methods",
         "added": "2022-10-18",
         "support": "physical"
