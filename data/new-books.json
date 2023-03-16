@@ -486,7 +486,7 @@
         "date": "2023.",
         "publisher": "Springer International Publishing AG",
         "isbn": "3031228170",
-        "thumbnail": "",
+        "thumbnail": "http://books.google.com/books/content?id=jwmtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-03-14",
         "support": "electronic"
@@ -569,7 +569,7 @@
         "creator": "Brutsaert, Wilfried 1934-",
         "date": "2023",
         "publisher": "Cambridge University Press",
-        "isbn": "1107135273",
+        "isbn": "9781107135277",
         "thumbnail": "http://books.google.com/books/content?id=FV6lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-02-21",
@@ -900,6 +900,30 @@
         "support": "physical"
     },
     {
+        "id": "99116868462105516",
+        "title": "Programmer avec Arduino en s'amusant pour les nuls",
+        "creator": "Engler, Oliver",
+        "date": "DL 2021",
+        "publisher": "First interactive",
+        "isbn": "2412070032",
+        "thumbnail": "",
+        "dewey": "Applied physics",
+        "added": "2022-11-08",
+        "support": "physical"
+    },
+    {
+        "id": "99116868462205516",
+        "title": "Programmer avec MySQL SQL, transactions, PHP, Java, optimisations, XML, JSON : avec 40 exercices corrig\u00e9s",
+        "creator": "Soutou, Christian",
+        "date": "[2021]",
+        "publisher": "Editions Eyrolles",
+        "isbn": "9782416003684",
+        "thumbnail": "",
+        "dewey": "Computer programming, programs, data, security",
+        "added": "2022-11-08",
+        "support": "physical"
+    },
+    {
         "id": "99116868761805516",
         "title": "Enseigner et former psychologie appliqu\u00e9e et p\u00e9dagogies actives : secondaire, sup\u00e9rieur, formation professionnelle",
         "creator": "Parmentier, Jean-Francois 1982-....",
@@ -996,18 +1020,6 @@
         "support": "physical"
     },
     {
-        "id": "99116869561905516",
-        "title": "Don't force it, solve it! how to design meaningful and efficient design processes",
-        "creator": "Kalmpourtzis, George",
-        "date": "[2022]",
-        "publisher": "CRC Press",
-        "isbn": "9780367505653",
-        "thumbnail": "http://books.google.com/books/content?id=ff5DzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Management and auxiliary services",
-        "added": "2022-11-02",
-        "support": "physical"
-    },
-    {
         "id": "99116869256605516",
         "title": "Apr\u00e8s! Le monde boulevers\u00e9",
         "creator": "",
@@ -1064,18 +1076,6 @@
         "isbn": "9811240485",
         "thumbnail": "http://books.google.com/books/content?id=1mt4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Inorganic chemistry",
-        "added": "2022-10-25",
-        "support": "physical"
-    },
-    {
-        "id": "99116869561705516",
-        "title": "Anyone can code the art and science of logical creativity",
-        "creator": "Arya, Ali",
-        "date": "2021",
-        "publisher": "CRC Press",
-        "isbn": "0367199696",
-        "thumbnail": "http://books.google.com/books/content?id=IxSXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Special computer methods",
         "added": "2022-10-25",
         "support": "physical"
     }
