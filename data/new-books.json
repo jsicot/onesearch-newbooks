@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116898262305516",
+        "title": "Second generation mainframes : the IBM 7000 series /",
+        "creator": "Kaisler, Stephen H., author.",
+        "date": "[2019]",
+        "publisher": "Cambridge Scholars Publishing",
+        "isbn": "1527535428",
+        "thumbnail": "http://books.google.com/books/content?id=HfGbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "The book",
+        "added": "2023-03-20",
+        "support": "electronic"
+    },
+    {
+        "id": "99116898262405516",
+        "title": "Esports research and its integration in education /",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Information Science Reference",
+        "isbn": "1799870715",
+        "thumbnail": "http://books.google.com/books/content?id=oWh2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Schools and their activities; special education",
+        "added": "2023-03-20",
+        "support": "electronic"
+    },
+    {
         "id": "99116898110505516",
         "title": "Identity landscapes : contemplating place and the construction of self /",
         "creator": "",
@@ -512,30 +536,6 @@
         "isbn": "9811246149",
         "thumbnail": "",
         "dewey": "Water, air, space transportation",
-        "added": "2023-03-17",
-        "support": "electronic"
-    },
-    {
-        "id": "99116883073505516",
-        "title": "Future network architectures and core technologies /",
-        "creator": "Lan, Ju-long, author.",
-        "date": "[2022]",
-        "publisher": "World Scientific",
-        "isbn": "9811237565",
-        "thumbnail": "",
-        "dewey": "Computer programming, programs, data, security",
-        "added": "2023-03-17",
-        "support": "electronic"
-    },
-    {
-        "id": "99116883073605516",
-        "title": "The future and FinTech : ABCDI and beyond /",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "World Scientific Publishing Co Pte Ltd",
-        "isbn": "9811250901",
-        "thumbnail": "",
-        "dewey": "Financial economics",
         "added": "2023-03-17",
         "support": "electronic"
     },
