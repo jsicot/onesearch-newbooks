@@ -1,5 +1,17 @@
 [
     {
+        "id": "99116898562105516",
+        "title": "Rank-based methods for shrinkage and selection : with application to machine learning /",
+        "creator": "Saleh, A. K. Md. Ehsanes, author.",
+        "date": "[2022]",
+        "publisher": "John Wiley & Sons Inc",
+        "isbn": "1119625432",
+        "thumbnail": "",
+        "dewey": "Probabilities and applied mathematics",
+        "added": "2023-03-23",
+        "support": "electronic"
+    },
+    {
         "id": "99116898096805516",
         "title": "Building future health and well-being of thriving toddlers and young children /",
         "creator": "",
@@ -22,6 +34,30 @@
         "dewey": "Animal husbandry",
         "added": "2023-03-22",
         "support": "electronic"
+    },
+    {
+        "id": "990063000340205516",
+        "title": "Hydrodynamic instabilities",
+        "creator": "",
+        "date": "2011",
+        "publisher": "Cambridge University Press",
+        "isbn": "0521769264",
+        "thumbnail": "http://books.google.com/books/content?id=L9PEtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Engineering and allied operations",
+        "added": "2023-03-21",
+        "support": "physical"
+    },
+    {
+        "id": "990069915690205516",
+        "title": "Apprendre \u00e0 programmer avec Python 3 avec 60 pages d'exercices corrig\u00e9s! ...",
+        "creator": "Swinnen, G\u00e9rard 19..-....",
+        "date": "2012",
+        "publisher": "Eyrolles",
+        "isbn": "9782212134346",
+        "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-03-21",
+        "support": "physical"
     },
     {
         "id": "99116897813905516",
@@ -504,42 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116898111005516",
-        "title": "The Culture of Boredom /",
-        "creator": "",
-        "date": "2020.",
-        "publisher": "Rodopi; Brill",
-        "isbn": "900442749X",
-        "thumbnail": "http://books.google.com/books/content?id=Mi_gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Perception, movement, emotions & drives",
-        "added": "2023-03-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116898113505516",
-        "title": "Attention and focus in dance : enhancing power, precision, and artistry /",
-        "creator": "Guss-West, Clare, 1960- author.",
-        "date": "[2021]",
-        "publisher": "Human Kinetics",
-        "isbn": "1492594466",
-        "thumbnail": "http://books.google.com/books/content?id=uDkEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Stage presentations",
-        "added": "2023-03-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116813381605516",
-        "title": "Politics in software development : navigating stakeholder power and conflict in organizations /",
-        "creator": "Wendorff, Peter, author.",
-        "date": "[2022]",
-        "publisher": "Apress",
-        "isbn": "9781484273807",
-        "thumbnail": "",
-        "dewey": "Production",
-        "added": "2023-03-17",
-        "support": "electronic"
-    },
-    {
         "id": "990059840850205516",
         "title": "Instabilit\u00e9s hydrodynamiques",
         "creator": "",
@@ -756,18 +756,6 @@
         "support": "physical"
     },
     {
-        "id": "99116869559405516",
-        "title": "Living and working",
-        "creator": "Dogma Bruxelles, Belgique",
-        "date": "[2022]",
-        "publisher": "MIT Press",
-        "isbn": "9780262543514",
-        "thumbnail": "http://books.google.com/books/content?id=FLxNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-11-23",
-        "support": "physical"
-    },
-    {
         "id": "99116804774505516",
         "title": "Adolescent-to-parent violence and abuse applying research to policy and practice",
         "creator": "McCloud, Elizabeth",
@@ -836,18 +824,6 @@
         "isbn": "9782343072951",
         "thumbnail": "http://books.google.com/books/content?id=wkrSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Landscape architecture (Landscape design)",
-        "added": "2022-11-16",
-        "support": "physical"
-    },
-    {
-        "id": "99116869561405516",
-        "title": "Le v\u00e9ritable enjeu de l'histoire est la contemporan\u00e9it\u00e9 m\u00e9langes offerts \u00e0 Joseph Abram",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "J-M Place",
-        "isbn": "9782383580096",
-        "thumbnail": "",
-        "dewey": "Architecture",
         "added": "2022-11-16",
         "support": "physical"
     },
@@ -1032,18 +1008,6 @@
         "support": "physical"
     },
     {
-        "id": "99116869561505516",
-        "title": "Modern heritage reuse, renovation, restoration",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Docomomo International; Birkha\u0308user",
-        "isbn": "9783035625080",
-        "thumbnail": "http://books.google.com/books/content?id=G0anzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-11-02",
-        "support": "physical"
-    },
-    {
         "id": "99116869256605516",
         "title": "Apr\u00e8s! Le monde boulevers\u00e9",
         "creator": "",
@@ -1076,6 +1040,18 @@
         "isbn": "1032005181",
         "thumbnail": "http://books.google.com/books/content?id=UOM0zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Other social problems and services",
+        "added": "2022-10-26",
+        "support": "physical"
+    },
+    {
+        "id": "99116869259905516",
+        "title": "Handbook of biometric anti-spoofing presentation, attack, detection",
+        "creator": "Marcel, Se\u0301bastien 1973-",
+        "date": "2019",
+        "publisher": "Springer",
+        "isbn": "9783319926261",
+        "thumbnail": "http://books.google.com/books/content?id=U3RMtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-10-26",
         "support": "physical"
     }
