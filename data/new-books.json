@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116898561705516",
+        "title": "Banach limit and applications /",
+        "creator": "Da\u0304sa, Gokul\u0323a\u0304nanda, author.",
+        "date": "[2022]",
+        "publisher": "CRC Press",
+        "isbn": "1000467570",
+        "thumbnail": "http://books.google.com/books/content?id=1Z9MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Analysis",
+        "added": "2023-03-28",
+        "support": "electronic"
+    },
+    {
+        "id": "99116898562205516",
+        "title": "Alan Turing his work and impact /",
+        "creator": "Cooper, S. B. (S. Barry)",
+        "date": "2013.",
+        "publisher": "Elsevier",
+        "isbn": "1299386032",
+        "thumbnail": "",
+        "dewey": "Mathematics",
+        "added": "2023-03-28",
+        "support": "electronic"
+    },
+    {
         "id": "99116898835905516",
         "title": "Next-generation thermal insulation challenges and opportunities /",
         "creator": "",
@@ -516,30 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116898857505516",
-        "title": "Third International Conference on Computer Vision and Information Technology (CVIT 2022)",
-        "creator": "",
-        "date": "2023",
-        "publisher": "SPIE",
-        "isbn": "1510663045",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-03-27",
-        "support": "electronic"
-    },
-    {
-        "id": "99116898857605516",
-        "title": "Second International Conference on Green Communication, Network, and Internet of Things (CNIoT 2022)",
-        "creator": "",
-        "date": "2023",
-        "publisher": "SPIE",
-        "isbn": "1510662944",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-03-27",
-        "support": "electronic"
-    },
-    {
         "id": "990063000340205516",
         "title": "Hydrodynamic instabilities",
         "creator": "",
@@ -609,18 +609,6 @@
         "thumbnail": "http://books.google.com/books/content?id=FV6lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-02-21",
-        "support": "physical"
-    },
-    {
-        "id": "99116841678005516",
-        "title": "Writing architectural history evidence and narrative in the Twenty-First Century",
-        "creator": "Aggregate",
-        "date": "[2021]",
-        "publisher": "University of Pittsburgh Press",
-        "isbn": "082294684X",
-        "thumbnail": "http://books.google.com/books/content?id=gCIMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2023-02-13",
         "support": "physical"
     },
     {
@@ -732,6 +720,18 @@
         "support": "physical"
     },
     {
+        "id": "99116871161805516",
+        "title": "Oltre la dismissione strategie di recupero per tessuti e manufatti industriali",
+        "creator": "Setti, Giulia Auteur.",
+        "date": "2017",
+        "publisher": "LetteraVentidue",
+        "isbn": "8862423365",
+        "thumbnail": "http://books.google.com/books/content?id=v9y-vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-12-20",
+        "support": "physical"
+    },
+    {
         "id": "99116756501705516",
         "title": "Oscar Niemeyer the mondadori building",
         "creator": "Dulio, Roberto 1971-",
@@ -741,6 +741,18 @@
         "thumbnail": "http://books.google.com/books/content?id=fHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2022-12-19",
+        "support": "physical"
+    },
+    {
+        "id": "99116871161905516",
+        "title": "Lessons in chemistry",
+        "creator": "Garmus, Bonnie 1957-",
+        "date": "[2022]",
+        "publisher": "Doubleday",
+        "isbn": "9780385547345",
+        "thumbnail": "http://books.google.com/books/content?id=9kGNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "American fiction in English",
+        "added": "2022-12-02",
         "support": "physical"
     },
     {
@@ -788,6 +800,18 @@
         "isbn": "9780262543514",
         "thumbnail": "http://books.google.com/books/content?id=FLxNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Architecture",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116869562405516",
+        "title": "Topology for beginners",
+        "creator": "Warner, Steve Verfasser",
+        "date": "[2019]",
+        "publisher": "amazon",
+        "isbn": "9780999811771",
+        "thumbnail": "http://books.google.com/books/content?id=pNAvxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2022-11-23",
         "support": "physical"
     },
@@ -873,6 +897,18 @@
         "thumbnail": "",
         "dewey": "Architecture",
         "added": "2022-11-16",
+        "support": "physical"
+    },
+    {
+        "id": "99116869562305516",
+        "title": "Linear algebra theory, intuition, code",
+        "creator": "Cohen, Mike X. 1979-",
+        "date": "2021",
+        "publisher": "SincXpress",
+        "isbn": "9789083136608",
+        "thumbnail": "http://books.google.com/books/content?id=824xzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2022-11-15",
         "support": "physical"
     },
     {
@@ -1040,42 +1076,6 @@
         "isbn": "3959053282",
         "thumbnail": "http://books.google.com/books/content?id=Xe23xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Furniture and accessories",
-        "added": "2022-11-02",
-        "support": "physical"
-    },
-    {
-        "id": "99116869260105516",
-        "title": "Forensic chemistry of substance misuse a guide to drug control",
-        "creator": "King, Leslie A.",
-        "date": "[2022]",
-        "publisher": "Royal Society of Chemistry",
-        "isbn": "1839164506",
-        "thumbnail": "http://books.google.com/books/content?id=Lk1-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Social problems and services to groups",
-        "added": "2022-11-02",
-        "support": "physical"
-    },
-    {
-        "id": "99116869561505516",
-        "title": "Modern heritage reuse, renovation, restoration",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Docomomo International; Birkha\u0308user",
-        "isbn": "9783035625080",
-        "thumbnail": "http://books.google.com/books/content?id=G0anzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2022-11-02",
-        "support": "physical"
-    },
-    {
-        "id": "99116869561905516",
-        "title": "Don't force it, solve it! how to design meaningful and efficient design processes",
-        "creator": "Kalmpourtzis, George",
-        "date": "[2022]",
-        "publisher": "CRC Press",
-        "isbn": "9780367505653",
-        "thumbnail": "http://books.google.com/books/content?id=ff5DzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Management and auxiliary services",
         "added": "2022-11-02",
         "support": "physical"
     }
