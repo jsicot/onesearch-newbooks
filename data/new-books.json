@@ -1,5 +1,65 @@
 [
     {
+        "id": "99116898561305516",
+        "title": "The Emperor of All Maladies : A Biography of Cancer.",
+        "creator": "Mukherjee, Siddhartha.",
+        "date": "2010.",
+        "publisher": "Scribner",
+        "isbn": "1439181713",
+        "thumbnail": "http://books.google.com/books/content?id=qT-5MLRkHBAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Diseases",
+        "added": "2023-04-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116898562305516",
+        "title": "Current developments in biotechnology and bioengineering : advances in bioprocess engineering. /",
+        "creator": "",
+        "date": "[2022]",
+        "publisher": "Elsevier",
+        "isbn": "9780323984836",
+        "thumbnail": "http://books.google.com/books/content?id=7OdhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Chemical engineering",
+        "added": "2023-04-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116900562105516",
+        "title": "Kuby Immunology /",
+        "creator": "Punt, Jenni, author.",
+        "date": "[2019].",
+        "publisher": "W H Freeman Macmillan Learning",
+        "isbn": "1319172989",
+        "thumbnail": "http://books.google.com/books/content?id=edR0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-04-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116900562205516",
+        "title": "Human thermal environments /",
+        "creator": "Parsons, K. C. 1953- (Kenneth C.),",
+        "date": "2014.",
+        "publisher": "CRC Press",
+        "isbn": "0429169655",
+        "thumbnail": "",
+        "dewey": "Human physiology",
+        "added": "2023-04-04",
+        "support": "electronic"
+    },
+    {
+        "id": "99116900562305516",
+        "title": "Chimie des milieux aquatiques",
+        "creator": "",
+        "date": "2022",
+        "publisher": "Dunod",
+        "isbn": "2100843672",
+        "thumbnail": "http://books.google.com/books/content?id=vuF0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2023-04-04",
+        "support": "electronic"
+    },
+    {
         "id": "99116841578405516",
         "title": "Out of Touch : How to Survive an Intimacy Famine.",
         "creator": "Drouin, Michelle.",
@@ -480,64 +540,16 @@
         "support": "electronic"
     },
     {
-        "id": "99116880846605516",
-        "title": "Beyond Climate Breakdown",
+        "id": "99116867761205516",
+        "title": "The new woman's survival catalog a woman-made book",
         "creator": "",
-        "date": "2022",
-        "publisher": "The MIT Press",
-        "isbn": "0262370158",
-        "thumbnail": "",
+        "date": "[2019]",
+        "publisher": "Primary Information",
+        "isbn": "1732098670",
+        "thumbnail": "http://books.google.com/books/content?id=MliqxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
-        "added": "2023-04-03",
-        "support": "electronic"
-    },
-    {
-        "id": "99116880846705516",
-        "title": "The Great Easter : Ambulation.",
-        "creator": "Besse, Jacques.",
-        "date": "2022.",
-        "publisher": "MIT Press",
-        "isbn": "0262370581",
-        "thumbnail": "",
-        "dewey": "French fiction",
-        "added": "2023-04-03",
-        "support": "electronic"
-    },
-    {
-        "id": "99116880846805516",
-        "title": "First dawn : from the big bang to our future in space /",
-        "creator": "Battiston, Roberto.",
-        "date": "2022.",
-        "publisher": "MIT Press",
-        "isbn": "0262371057",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-04-03",
-        "support": "electronic"
-    },
-    {
-        "id": "99116880846905516",
-        "title": "Long Days, Short Years : A Cultural History of Modern Parenting.",
-        "creator": "Bomback, Andrew.",
-        "date": "2022.",
-        "publisher": "MIT Press",
-        "isbn": "0262370824",
-        "thumbnail": "",
-        "dewey": "Child rearing & home care of people",
-        "added": "2023-04-03",
-        "support": "electronic"
-    },
-    {
-        "id": "99116880847005516",
-        "title": "Inequality : a genetic history /",
-        "creator": "Lalueza i Fox, Carles, 1965- author.",
-        "date": "[2022]",
-        "publisher": "The MIT Press",
-        "isbn": "0262369176",
-        "thumbnail": "",
-        "dewey": "Social problems and services to groups",
-        "added": "2023-04-03",
-        "support": "electronic"
+        "added": "2023-03-23",
+        "support": "physical"
     },
     {
         "id": "990063000340205516",
@@ -559,6 +571,18 @@
         "publisher": "Eyrolles",
         "isbn": "9782212134346",
         "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-03-21",
+        "support": "physical"
+    },
+    {
+        "id": "990099185260205516",
+        "title": "Les r\u00e9f\u00e9rentiels du syst\u00e8me d'information donn\u00e9es de r\u00e9f\u00e9rence et architecture d'entreprise",
+        "creator": "Bizingre, Jo\u00ebl",
+        "date": "2013",
+        "publisher": "Dunod",
+        "isbn": "9782100598748",
+        "thumbnail": "http://books.google.com/books/content?id=HMgpngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-03-21",
         "support": "physical"
@@ -864,6 +888,42 @@
         "support": "physical"
     },
     {
+        "id": "99116871362105516",
+        "title": "Gestion des d\u00e9chets [les diff\u00e9rents types de d\u00e9chets, les modes de collecte et de gestion, les fili\u00e8res de traitement]",
+        "creator": "Balet, Jean-Michel auteur",
+        "date": "2016",
+        "publisher": "Dunod",
+        "isbn": "9782100754243",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116871362205516",
+        "title": "Hydrog\u00e9ologie appliqu\u00e9e science et ing\u00e9nierie des eaux souterraines",
+        "creator": "Dassargues, Alain auteur",
+        "date": "[2020]",
+        "publisher": "Dunod",
+        "isbn": "9782100794348",
+        "thumbnail": "",
+        "dewey": "Earth sciences",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116871362305516",
+        "title": "Production d'eau potable proc\u00e9d\u00e9s de traitements, param\u00e8tres de qualit\u00e9 et impacts du changement climatique",
+        "creator": "Legube, Bernard 1948-....",
+        "date": "[2021]",
+        "publisher": "Dunod",
+        "isbn": "9782100828951",
+        "thumbnail": "",
+        "dewey": "Civil engineering",
+        "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
         "id": "99116804774505516",
         "title": "Adolescent-to-parent violence and abuse applying research to policy and practice",
         "creator": "McCloud, Elizabeth",
@@ -883,7 +943,7 @@
         "publisher": "Lund Humphries",
         "isbn": "1848224052",
         "thumbnail": "http://books.google.com/books/content?id=zpMLyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture from 1400",
+        "dewey": "Architecture",
         "added": "2022-11-16",
         "support": "physical"
     },
@@ -1016,66 +1076,6 @@
         "isbn": "9782100836239",
         "thumbnail": "",
         "dewey": "",
-        "added": "2022-11-08",
-        "support": "physical"
-    },
-    {
-        "id": "99116867861805516",
-        "title": "Magique atome comment le tableau des \u00e9l\u00e9ments peut tout expliquer",
-        "creator": "James, Tim professeur de sciences 19..-....",
-        "date": "[2022]",
-        "publisher": "Dunod",
-        "isbn": "9782100839216",
-        "thumbnail": "",
-        "dewey": "Chemistry and allied sciences",
-        "added": "2022-11-08",
-        "support": "physical"
-    },
-    {
-        "id": "99116868462005516",
-        "title": "Excel 2021 pour les nuls",
-        "creator": "Harvey, Greg 1949-....",
-        "date": "[2021]",
-        "publisher": "First Interactive",
-        "isbn": "9782412073490",
-        "thumbnail": "",
-        "dewey": "Computer programming, programs, data, security",
-        "added": "2022-11-08",
-        "support": "physical"
-    },
-    {
-        "id": "99116868462105516",
-        "title": "Programmer avec Arduino en s'amusant pour les nuls",
-        "creator": "Engler, Oliver",
-        "date": "DL 2021",
-        "publisher": "First interactive",
-        "isbn": "2412070032",
-        "thumbnail": "",
-        "dewey": "Applied physics",
-        "added": "2022-11-08",
-        "support": "physical"
-    },
-    {
-        "id": "99116868462205516",
-        "title": "Programmer avec MySQL SQL, transactions, PHP, Java, optimisations, XML, JSON : avec 40 exercices corrig\u00e9s",
-        "creator": "Soutou, Christian",
-        "date": "[2021]",
-        "publisher": "Editions Eyrolles",
-        "isbn": "9782416003684",
-        "thumbnail": "",
-        "dewey": "Computer programming, programs, data, security",
-        "added": "2022-11-08",
-        "support": "physical"
-    },
-    {
-        "id": "99116868761805516",
-        "title": "Enseigner et former psychologie appliqu\u00e9e et p\u00e9dagogies actives : secondaire, sup\u00e9rieur, formation professionnelle",
-        "creator": "Parmentier, Jean-Francois 1982-....",
-        "date": "[2022]",
-        "publisher": "Dunod",
-        "isbn": "2100836536",
-        "thumbnail": "",
-        "dewey": "Education",
         "added": "2022-11-08",
         "support": "physical"
     }
