@@ -1,5 +1,125 @@
 [
     {
+        "id": "99116848074905516",
+        "title": "AIAA Propulsion and Energy 2021 Forum",
+        "creator": "",
+        "date": "2021",
+        "publisher": "IEEE",
+        "isbn": "1665413751",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060305516",
+        "title": "ASCEND 2022",
+        "creator": "",
+        "date": "",
+        "publisher": "",
+        "isbn": "1624106625",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060405516",
+        "title": "AIAA AVIATION 2022 Forum",
+        "creator": "",
+        "date": "2022",
+        "publisher": "",
+        "isbn": "1624106358",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060505516",
+        "title": "28th AIAA/CEAS Aeroacoustics 2022 Conference",
+        "creator": "",
+        "date": "",
+        "publisher": "",
+        "isbn": "1624106641",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060605516",
+        "title": "26th AIAA Aerodynamic Decelerator Systems Technology Conference",
+        "creator": "",
+        "date": "",
+        "publisher": "",
+        "isbn": "1624102476",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060705516",
+        "title": "AIAA SCITECH 2022 Forum",
+        "creator": "",
+        "date": "2022",
+        "publisher": "",
+        "isbn": "1624106315",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060805516",
+        "title": "ASCEND 2021",
+        "creator": "",
+        "date": "2021",
+        "publisher": "",
+        "isbn": "1624106129",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902060905516",
+        "title": "AIAA AVIATION 2021 FORUM",
+        "creator": "",
+        "date": "2021",
+        "publisher": "",
+        "isbn": "1624106102",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902061005516",
+        "title": "AIAA Scitech 2021 Forum",
+        "creator": "",
+        "date": "2021",
+        "publisher": "",
+        "isbn": "1624106099",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116902061105516",
+        "title": "ASCEND 2020",
+        "creator": "",
+        "date": "2020",
+        "publisher": "",
+        "isbn": "1624106080",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-19",
+        "support": "electronic"
+    },
+    {
         "id": "99116696415905516",
         "title": "The Strategies of Australia\u2019s Universities Revise & Resubmit /",
         "creator": "Devinney, Timothy. author.",
@@ -420,126 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116785190305516",
-        "title": "Breaking the silos for planetary health : a road-map for a resilient post-pandemic world /",
-        "creator": "De Paula, Nicole, author.",
-        "date": "[2021]",
-        "publisher": "Springer",
-        "isbn": "9811637547",
-        "thumbnail": "http://books.google.com/books/content?id=LqxIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Diseases",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116785203305516",
-        "title": "Financial inclusion in emerging markets : a road map for sustainable growth /",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "Palgrave Macmillan",
-        "isbn": "9811626529",
-        "thumbnail": "http://books.google.com/books/content?id=G31GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Financial economics",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116785205105516",
-        "title": "Fourth industrial revolution and business dynamics : issues and implications /",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "Springer",
-        "isbn": "9811632502",
-        "thumbnail": "http://books.google.com/books/content?id=kgBHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "General management",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116812348505516",
-        "title": "The post-pandemic business playbook : customer-centric solutions to help your firm grow /",
-        "creator": "Mintz, Ofer, author.",
-        "date": "[2022]",
-        "publisher": "Springer",
-        "isbn": "9789811658686",
-        "thumbnail": "http://books.google.com/books/content?id=P7NeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "General management",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116812791605516",
-        "title": "Eradicating energy poverty : overcoming barriers to decentralized energy systems in India /",
-        "creator": "Singh, Manashvi Kumar, author.",
-        "date": "[2022]",
-        "publisher": "Palgrave Macmillan",
-        "isbn": "9789811670732",
-        "thumbnail": "http://books.google.com/books/content?id=d3RdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Economics of land and energy",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116812792605516",
-        "title": "Public service evolution in the 15 post-Soviet countries : diversity in transformation /",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Springer",
-        "isbn": "9789811624629",
-        "thumbnail": "http://books.google.com/books/content?id=zCZcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Public administration",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116813383905516",
-        "title": "The theory and application of multinational corporate governance /",
-        "creator": "Lin, Runhui, author.",
-        "date": "[2022]",
-        "publisher": "Palgrave Macmillan",
-        "isbn": "9789811677038",
-        "thumbnail": "http://books.google.com/books/content?id=e3RdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "General management",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116817837905516",
-        "title": "The future of Indian banking /",
-        "creator": "Joshi, Vasant Chintaman, author.",
-        "date": "[2022]",
-        "publisher": "Springer",
-        "isbn": "9789811695629",
-        "thumbnail": "http://books.google.com/books/content?id=FfhjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Philosophical logic",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116817871005516",
-        "title": "Chief sustainability officers at work : how CSOs build successful sustainability and ESG strategies /",
-        "creator": "Pagitsas, Chrissa, author.",
-        "date": "[2022]",
-        "publisher": "Apress L P",
-        "isbn": "9781484278666",
-        "thumbnail": "",
-        "dewey": "Production",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116817872105516",
-        "title": "The new employee contract : how to find, keep, and elevate Gen Z talent /",
-        "creator": "Onesto, Anthony, author.",
-        "date": "[2022]",
-        "publisher": "Apress",
-        "isbn": "9781484280546",
-        "thumbnail": "",
-        "dewey": "General management",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
         "id": "990016143360205516",
         "title": "Algebraic curves and Riemann surfaces",
         "creator": "Miranda, Rick 1953-....",
@@ -636,18 +636,6 @@
         "support": "physical"
     },
     {
-        "id": "99116872158205516",
-        "title": "The digital cell cell biology as a data science",
-        "creator": "Royle, Stephen J. 19..-....",
-        "date": "[2020]",
-        "publisher": "Cold Spring Harbor Laboratory Press",
-        "isbn": "9781621822783",
-        "thumbnail": "http://books.google.com/books/content?id=diqpxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Biology",
-        "added": "2023-03-15",
-        "support": "physical"
-    },
-    {
         "id": "990059840850205516",
         "title": "Instabilit\u00e9s hydrodynamiques",
         "creator": "",
@@ -692,18 +680,6 @@
         "isbn": "9781107135277",
         "thumbnail": "http://books.google.com/books/content?id=FV6lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
-        "added": "2023-02-21",
-        "support": "physical"
-    },
-    {
-        "id": "99116872158405516",
-        "title": "The climate book",
-        "creator": "Thunberg, Greta 2003-",
-        "date": "2023",
-        "publisher": "Penguin Press",
-        "isbn": "9780593492307",
-        "thumbnail": "http://books.google.com/books/content?id=-8FvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Political science (Politics and government)",
         "added": "2023-02-21",
         "support": "physical"
     },
@@ -888,18 +864,6 @@
         "support": "physical"
     },
     {
-        "id": "99116872158305516",
-        "title": "Learned hopefulness the power of positivity to overcome depression",
-        "creator": "Tomasulo, Dan",
-        "date": "[2020]",
-        "publisher": "New Harbinger Publications Inc",
-        "isbn": "168403468X",
-        "thumbnail": "http://books.google.com/books/content?id=RWb2xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Psychology",
-        "added": "2022-12-12",
-        "support": "physical"
-    },
-    {
         "id": "99116872157405516",
         "title": "Language as evidence doing forensic linguistics",
         "creator": "",
@@ -1077,6 +1041,42 @@
         "thumbnail": "",
         "dewey": "Civil engineering",
         "added": "2022-11-23",
+        "support": "physical"
+    },
+    {
+        "id": "99116804774505516",
+        "title": "Adolescent-to-parent violence and abuse applying research to policy and practice",
+        "creator": "McCloud, Elizabeth",
+        "date": "[2021]",
+        "publisher": "Palgrave Macmillan",
+        "isbn": "9783030825829",
+        "thumbnail": "http://books.google.com/books/content?id=gpCJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Social problems and services to groups",
+        "added": "2022-11-21",
+        "support": "physical"
+    },
+    {
+        "id": "99116872157105516",
+        "title": "Criminology and moral philosophy empirical methods and the study of values",
+        "creator": "Jacobs, Jonathan A. 1955-",
+        "date": "[2022]",
+        "publisher": "Routledge Taylor & Francis Group",
+        "isbn": "036747932X",
+        "thumbnail": "http://books.google.com/books/content?id=3tqezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Philosophy & psychology",
+        "added": "2022-11-17",
+        "support": "physical"
+    },
+    {
+        "id": "99116735350305516",
+        "title": "Kay Fisker Danish functionalism and block-based housing",
+        "creator": "Clancy, Andrew",
+        "date": "2022",
+        "publisher": "Lund Humphries",
+        "isbn": "1848224052",
+        "thumbnail": "http://books.google.com/books/content?id=zpMLyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2022-11-16",
         "support": "physical"
     }
 ]
