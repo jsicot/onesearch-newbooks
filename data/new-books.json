@@ -1,5 +1,17 @@
 [
     {
+        "id": "99116902962305516",
+        "title": "Chimie des milieux aquatiques",
+        "creator": "",
+        "date": "2022",
+        "publisher": "Dunod",
+        "isbn": "2100843672",
+        "thumbnail": "http://books.google.com/books/content?id=vuF0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "",
+        "added": "2023-04-20",
+        "support": "electronic"
+    },
+    {
         "id": "99116848074905516",
         "title": "AIAA Propulsion and Energy 2021 Forum",
         "creator": "",
@@ -523,18 +535,6 @@
         "publisher": "Palgrave Macmillan",
         "isbn": "9811635250",
         "thumbnail": "http://books.google.com/books/content?id=cMhAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Production",
-        "added": "2023-04-18",
-        "support": "electronic"
-    },
-    {
-        "id": "99116780005205516",
-        "title": "Covid-19 pandemic and economic development : emerging public policy lessons for Indian Punjab /",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "Palgrave Macmillan",
-        "isbn": "981164442X",
-        "thumbnail": "http://books.google.com/books/content?id=9kZFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Production",
         "added": "2023-04-18",
         "support": "electronic"
