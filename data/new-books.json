@@ -1,5 +1,17 @@
 [
     {
+        "id": "99116903862205516",
+        "title": "Municipal solid waste management :  : strategies and technologies for sustainable solutions /",
+        "creator": "",
+        "date": "2003.",
+        "publisher": "Springer",
+        "isbn": "3642556361",
+        "thumbnail": "http://books.google.com/books/content?id=iI7cBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Other social problems and services",
+        "added": "2023-04-25",
+        "support": "electronic"
+    },
+    {
         "id": "99116866841905516",
         "title": "Pwyll a Rhiannon.",
         "creator": "Saunders, Aidan.",
@@ -528,18 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116902746405516",
-        "title": "ASM handbook. environments and industries /",
-        "creator": "",
-        "date": "2006",
-        "publisher": "ASM International",
-        "isbn": "1615031111",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-04-21",
-        "support": "electronic"
-    },
-    {
         "id": "990016143360205516",
         "title": "Algebraic curves and Riemann surfaces",
         "creator": "Miranda, Rick 1953-....",
@@ -708,18 +708,6 @@
         "support": "physical"
     },
     {
-        "id": "99116841678005516",
-        "title": "Writing architectural history evidence and narrative in the Twenty-First Century",
-        "creator": "Aggregate",
-        "date": "[2021]",
-        "publisher": "University of Pittsburgh Press",
-        "isbn": "082294684X",
-        "thumbnail": "http://books.google.com/books/content?id=gCIMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2023-02-13",
-        "support": "physical"
-    },
-    {
         "id": "99116813974505516",
         "title": "Built",
         "creator": "Olgiati, Valerio 1958-",
@@ -840,6 +828,18 @@
         "support": "physical"
     },
     {
+        "id": "99116872158605516",
+        "title": "M\u00e9tamorphoses Manifeste pour une \u00e9ducation \u00e0 la mobilit\u00e9 durable et inclusive",
+        "creator": "Hernja, G\u00e9rard",
+        "date": "2022",
+        "publisher": "Elya Editions",
+        "isbn": "",
+        "thumbnail": "",
+        "dewey": "Natural sciences and mathematics",
+        "added": "2022-12-22",
+        "support": "physical"
+    },
+    {
         "id": "99116871161805516",
         "title": "Oltre la dismissione strategie di recupero per tessuti e manufatti industriali",
         "creator": "Setti, Giulia Auteur.",
@@ -908,6 +908,18 @@
         "isbn": "168403468X",
         "thumbnail": "http://books.google.com/books/content?id=RWb2xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Psychology",
+        "added": "2022-12-12",
+        "support": "physical"
+    },
+    {
+        "id": "99116872158705516",
+        "title": "Europe beyond mobility mobilities, social cohesion and political integration",
+        "creator": "Kaufmann, Vincent 1969-",
+        "date": "2022",
+        "publisher": "Routledge",
+        "isbn": "9780367343224",
+        "thumbnail": "http://books.google.com/books/content?id=VBd9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Economics",
         "added": "2022-12-12",
         "support": "physical"
     },
@@ -1064,18 +1076,6 @@
         "isbn": "9782100754243",
         "thumbnail": "",
         "dewey": "",
-        "added": "2022-11-23",
-        "support": "physical"
-    },
-    {
-        "id": "99116871362205516",
-        "title": "Hydrog\u00e9ologie appliqu\u00e9e science et ing\u00e9nierie des eaux souterraines",
-        "creator": "Dassargues, Alain auteur",
-        "date": "[2020]",
-        "publisher": "Dunod",
-        "isbn": "9782100794348",
-        "thumbnail": "",
-        "dewey": "Earth sciences",
         "added": "2022-11-23",
         "support": "physical"
     }
