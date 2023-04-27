@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116903761805516",
+        "title": "From Fossils to Mind.",
+        "creator": "Calvey, Tanya.",
+        "date": "2023.",
+        "publisher": "Elsevier",
+        "isbn": "9780323991087",
+        "thumbnail": "http://books.google.com/books/content?id=zJahEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Specific physiological systems in animals",
+        "added": "2023-04-26",
+        "support": "electronic"
+    },
+    {
+        "id": "99116903862105516",
+        "title": "Chimie physique",
+        "creator": "",
+        "date": "2021",
+        "publisher": "De Boeck Superieur",
+        "isbn": "2807342604",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-26",
+        "support": "electronic"
+    },
+    {
         "id": "99116903862205516",
         "title": "Municipal solid waste management :  : strategies and technologies for sustainable solutions /",
         "creator": "",
@@ -512,30 +536,6 @@
         "isbn": "168015950X",
         "thumbnail": "",
         "dewey": "Engineering and allied operations",
-        "added": "2023-04-21",
-        "support": "electronic"
-    },
-    {
-        "id": "99116902746205516",
-        "title": "ASM handbook. sheet forming  /",
-        "creator": "",
-        "date": "2006",
-        "publisher": "ASM International",
-        "isbn": "1615031022",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-04-21",
-        "support": "electronic"
-    },
-    {
-        "id": "99116902746305516",
-        "title": "ASM handbook. bulk forming / prepared under the direction of the ASM International Handbook Committee.",
-        "creator": "",
-        "date": "2005",
-        "publisher": "A S M International",
-        "isbn": "1615032541",
-        "thumbnail": "",
-        "dewey": "",
         "added": "2023-04-21",
         "support": "electronic"
     },
