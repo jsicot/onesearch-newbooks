@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116903862005516",
+        "title": "Power-to-Gas: Renewable Hydrogen Economy for the Energy Transition",
+        "creator": "",
+        "date": "2023",
+        "publisher": "De Gruyter",
+        "isbn": "3110781891",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-04-27",
+        "support": "electronic"
+    },
+    {
+        "id": "990004735430205516",
+        "title": "Spin glass theory and beyond",
+        "creator": "M\u00e9zard, Marc 1957-....",
+        "date": "[1987]",
+        "publisher": "World Scientific",
+        "isbn": "9789971501150",
+        "thumbnail": "http://books.google.com/books/content?id=ZIF9QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Physics",
+        "added": "2023-04-26",
+        "support": "physical"
+    },
+    {
         "id": "99116903761805516",
         "title": "From Fossils to Mind.",
         "creator": "Calvey, Tanya.",
@@ -516,30 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116866835405516",
-        "title": "Archwilwyr Bychain.",
-        "creator": "Beaton, Clare.",
-        "date": "2020.",
-        "publisher": "Rily Publications Limited",
-        "isbn": "1804160148",
-        "thumbnail": "",
-        "dewey": "Agriculture and related technologies",
-        "added": "2023-04-22",
-        "support": "electronic"
-    },
-    {
-        "id": "99116716410205516",
-        "title": "Metals handbook /",
-        "creator": "",
-        "date": "1998",
-        "publisher": "ASM International",
-        "isbn": "168015950X",
-        "thumbnail": "",
-        "dewey": "Engineering and allied operations",
-        "added": "2023-04-21",
-        "support": "electronic"
-    },
-    {
         "id": "990016143360205516",
         "title": "Algebraic curves and Riemann surfaces",
         "creator": "Miranda, Rick 1953-....",
@@ -908,18 +908,6 @@
         "isbn": "168403468X",
         "thumbnail": "http://books.google.com/books/content?id=RWb2xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Psychology",
-        "added": "2022-12-12",
-        "support": "physical"
-    },
-    {
-        "id": "99116872158705516",
-        "title": "Europe beyond mobility mobilities, social cohesion and political integration",
-        "creator": "Kaufmann, Vincent 1969-",
-        "date": "2022",
-        "publisher": "Routledge",
-        "isbn": "9780367343224",
-        "thumbnail": "http://books.google.com/books/content?id=VBd9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Economics",
         "added": "2022-12-12",
         "support": "physical"
     },
