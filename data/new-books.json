@@ -876,6 +876,42 @@
         "support": "physical"
     },
     {
+        "id": "99116873561205516",
+        "title": "Anomalies cosmiques la science face \u00e0 l'\u00e9trange",
+        "creator": "Barrau, Aur\u00e9lien physicien et philosophe 1973-....",
+        "date": "2022",
+        "publisher": "Dunod",
+        "isbn": "9782100836208",
+        "thumbnail": "",
+        "dewey": "Astronomy and allied sciences",
+        "added": "2022-12-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116873660205516",
+        "title": "Toutes les math\u00e9matiques et les bases de l'informatique",
+        "creator": "St\u00f6cker, Horst 1952-....",
+        "date": "[2020]",
+        "publisher": "Dunod",
+        "isbn": "9782100821334",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-12-22",
+        "support": "physical"
+    },
+    {
+        "id": "99116873660705516",
+        "title": "Analyse fonctionnelle th\u00e9orie et applications",
+        "creator": "Br\u00e9zis, Hai\u034f\u0308m 1944-",
+        "date": "2020",
+        "publisher": "Dunod",
+        "isbn": "2100820281",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2022-12-22",
+        "support": "physical"
+    },
+    {
         "id": "99116871161805516",
         "title": "Oltre la dismissione strategie di recupero per tessuti e manufatti industriali",
         "creator": "Setti, Giulia Auteur.",
@@ -944,6 +980,18 @@
         "isbn": "9781789480641",
         "thumbnail": "http://books.google.com/books/content?id=1rRrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Geography and travel",
+        "added": "2022-12-13",
+        "support": "physical"
+    },
+    {
+        "id": "99116873561405516",
+        "title": "Scala prise en main du langage",
+        "creator": "Maury, Agn\u00e8s",
+        "date": "[2022]",
+        "publisher": "\u00c9ditions ENI",
+        "isbn": "2409033687",
+        "thumbnail": "",
+        "dewey": "",
         "added": "2022-12-13",
         "support": "physical"
     },
@@ -1020,63 +1068,15 @@
         "support": "physical"
     },
     {
-        "id": "99116872156705516",
-        "title": "Organized crime a cultural introduction",
-        "creator": "Nicaso, Antonio 1964-",
-        "date": "[2021]",
-        "publisher": "Routledge",
-        "isbn": "9780367461263",
-        "thumbnail": "http://books.google.com/books/content?id=nXr7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Law",
-        "added": "2022-12-01",
-        "support": "physical"
-    },
-    {
-        "id": "99116872157005516",
-        "title": "How to write your undergraduate dissertation in criminology",
-        "creator": "Young, Suzanne",
-        "date": "2022",
-        "publisher": "Routledge Taylor & Francis Group",
-        "isbn": "036785998X",
-        "thumbnail": "http://books.google.com/books/content?id=T7O2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2022-12-01",
-        "support": "physical"
-    },
-    {
-        "id": "99116872157205516",
-        "title": "Criminalization of activism historical, present, and future perspectives",
+        "id": "99116873660505516",
+        "title": "Handbook of enumerative combinatorics",
         "creator": "",
-        "date": "2022",
-        "publisher": "Routledge",
-        "isbn": "9780367700126",
-        "thumbnail": "http://books.google.com/books/content?id=dIR6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Criminology",
-        "added": "2022-12-01",
-        "support": "physical"
-    },
-    {
-        "id": "99116871361205516",
-        "title": "Les strat\u00e9gies de transformation des biblioth\u00e8ques",
-        "creator": "Accart, Jean-Philippe 1958-",
-        "date": "2021",
-        "publisher": "ISTE Editions",
-        "isbn": "9781784056995",
-        "thumbnail": "http://books.google.com/books/content?id=SyYNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Relationships of libraries and archives",
-        "added": "2022-11-30",
-        "support": "physical"
-    },
-    {
-        "id": "99116871361705516",
-        "title": "Conduite de projets informatiques d\u00e9veloppement, analyse et pilotage",
-        "creator": "Gu\u00e9rin, Brice-Arnaud",
-        "date": "2022",
-        "publisher": "ENI",
-        "isbn": "9782409037368",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-11-30",
+        "date": "2015",
+        "publisher": "CRC Press",
+        "isbn": "9781482220858",
+        "thumbnail": "http://books.google.com/books/content?id=QyjToQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "General principles of mathematics",
+        "added": "2022-12-02",
         "support": "physical"
     }
 ]
