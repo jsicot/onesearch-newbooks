@@ -30,7 +30,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545551",
-        "thumbnail": "http://books.google.com/books/content?id=q7mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=q7mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -66,7 +66,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545535",
-        "thumbnail": "http://books.google.com/books/content?id=05GKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=QuGMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -246,7 +246,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262045311",
-        "thumbnail": "http://books.google.com/books/content?id=n7mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ItKMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -720,6 +720,18 @@
         "support": "physical"
     },
     {
+        "id": "99116841678005516",
+        "title": "Writing architectural history evidence and narrative in the Twenty-First Century",
+        "creator": "Aggregate",
+        "date": "[2021]",
+        "publisher": "University of Pittsburgh Press",
+        "isbn": "082294684X",
+        "thumbnail": "http://books.google.com/books/content?id=gCIMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2023-02-13",
+        "support": "physical"
+    },
+    {
         "id": "99116813974505516",
         "title": "Built",
         "creator": "Olgiati, Valerio 1958-",
@@ -1064,18 +1076,6 @@
         "isbn": "9780385547345",
         "thumbnail": "http://books.google.com/books/content?id=9kGNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "American fiction in English",
-        "added": "2022-12-02",
-        "support": "physical"
-    },
-    {
-        "id": "99116873660505516",
-        "title": "Handbook of enumerative combinatorics",
-        "creator": "",
-        "date": "2015",
-        "publisher": "CRC Press",
-        "isbn": "9781482220858",
-        "thumbnail": "http://books.google.com/books/content?id=QyjToQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "General principles of mathematics",
         "added": "2022-12-02",
         "support": "physical"
     }
