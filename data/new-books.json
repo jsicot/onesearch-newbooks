@@ -54,7 +54,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545705",
-        "thumbnail": "http://books.google.com/books/content?id=YaaSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=caaSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -66,7 +66,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545535",
-        "thumbnail": "http://books.google.com/books/content?id=QuGMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=05GKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -102,7 +102,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545608",
-        "thumbnail": "http://books.google.com/books/content?id=TOGMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=o7mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -246,7 +246,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262045311",
-        "thumbnail": "http://books.google.com/books/content?id=ItKMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=n7mHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -540,6 +540,18 @@
         "support": "electronic"
     },
     {
+        "id": "99116872161305516",
+        "title": "Connecting territories exploring people and nature, 1700-1850",
+        "creator": "Boscani Leoni, Simona 1970-....",
+        "date": "[2022]",
+        "publisher": "Brill",
+        "isbn": "9789004412460",
+        "thumbnail": "http://books.google.com/books/content?id=Wr2LzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Plants",
+        "added": "2023-05-02",
+        "support": "physical"
+    },
+    {
         "id": "990004735430205516",
         "title": "Spin glass theory and beyond",
         "creator": "M\u00e9zard, Marc 1957-....",
@@ -630,7 +642,7 @@
         "date": "2012",
         "publisher": "Eyrolles",
         "isbn": "9782212134346",
-        "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-03-21",
         "support": "physical"
@@ -717,18 +729,6 @@
         "thumbnail": "http://books.google.com/books/content?id=-8FvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Political science (Politics and government)",
         "added": "2023-02-21",
-        "support": "physical"
-    },
-    {
-        "id": "99116841678005516",
-        "title": "Writing architectural history evidence and narrative in the Twenty-First Century",
-        "creator": "Aggregate",
-        "date": "[2021]",
-        "publisher": "University of Pittsburgh Press",
-        "isbn": "082294684X",
-        "thumbnail": "http://books.google.com/books/content?id=gCIMzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Architecture",
-        "added": "2023-02-13",
         "support": "physical"
     },
     {
