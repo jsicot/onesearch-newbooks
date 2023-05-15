@@ -1,25 +1,25 @@
 [
     {
         "id": "99116905455505516",
-        "title": "Undue Hate: A Behavioral Economic Analysis of Hostile Polarization in US Politics and Beyond",
-        "creator": "",
-        "date": "2023",
+        "title": "Undue Hate : A Behavioral Economic Analysis of Hostile Polarization in US Politics and Beyond.",
+        "creator": "Stone, Daniel F.",
+        "date": "2023.",
         "publisher": "MIT Press",
         "isbn": "0262372363",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Culture and institutions",
         "added": "2023-05-09",
         "support": "electronic"
     },
     {
         "id": "99116905455605516",
-        "title": "Prison Media: Incarceration and the Infrastructures of Work and Technology",
-        "creator": "",
-        "date": "2023",
+        "title": "Prison Media : Incarceration and the Infrastructures of Work and Technology.",
+        "creator": "Kaun, Anne.",
+        "date": "2023.",
         "publisher": "MIT Press",
         "isbn": "026237434X",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Penal and related institutions",
         "added": "2023-05-09",
         "support": "electronic"
     },
@@ -90,7 +90,7 @@
         "date": "2023",
         "publisher": "The MIT Press",
         "isbn": "0262545675",
-        "thumbnail": "http://books.google.com/books/content?id=w-SBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=w-SBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "",
         "added": "2023-05-09",
         "support": "electronic"
@@ -642,7 +642,7 @@
         "date": "2012",
         "publisher": "Eyrolles",
         "isbn": "9782212134346",
-        "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HxlsQxv8V6kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "",
         "added": "2023-03-21",
         "support": "physical"
