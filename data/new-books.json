@@ -540,6 +540,42 @@
         "support": "electronic"
     },
     {
+        "id": "990104987940205516",
+        "title": "Optics",
+        "creator": "Hecht, Eugene 1931- Verfasser",
+        "date": "[2017]",
+        "publisher": "Pearson Education Limited",
+        "isbn": "9781292096933",
+        "thumbnail": "http://books.google.com/books/content?id=Bv1RrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Physics",
+        "added": "2023-05-16",
+        "support": "physical"
+    },
+    {
+        "id": "990060947060205516",
+        "title": "Auguste Perret",
+        "creator": "Abram, Joseph 1951-",
+        "date": "2010",
+        "publisher": "Ed du Patrimoine; Infolio",
+        "isbn": "9782884741828",
+        "thumbnail": "http://books.google.com/books/content?id=ZnNIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-05-04",
+        "support": "physical"
+    },
+    {
+        "id": "990065978460205516",
+        "title": "Henri Sauvage",
+        "creator": "Minnaert, Jean-Baptiste 1964- Verfasser",
+        "date": "mars 2011",
+        "publisher": "Editions du Patrimoine Centre des monuments nationaux; Infolio",
+        "isbn": "9782757701515",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-05-04",
+        "support": "physical"
+    },
+    {
         "id": "99116872161305516",
         "title": "Connecting territories exploring people and nature, 1700-1850",
         "creator": "Boscani Leoni, Simona 1970-....",
@@ -660,6 +696,18 @@
         "support": "physical"
     },
     {
+        "id": "99116874462405516",
+        "title": "UFO Unidentified flying object for contemporary architecture : UFO's experiments between political activism and the artistic avant-garde",
+        "creator": "",
+        "date": "July 2022",
+        "publisher": "Actar",
+        "isbn": "1638409927",
+        "thumbnail": "http://books.google.com/books/content?id=5WKszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-03-21",
+        "support": "physical"
+    },
+    {
         "id": "99116872158205516",
         "title": "The digital cell cell biology as a data science",
         "creator": "Royle, Stephen J. 19..-....",
@@ -708,6 +756,18 @@
         "support": "physical"
     },
     {
+        "id": "99116873662305516",
+        "title": "Handbook of STEM faculty development",
+        "creator": "",
+        "date": "2023",
+        "publisher": "Information Age Publishing",
+        "isbn": "9798887300467",
+        "thumbnail": "http://books.google.com/books/content?id=4Y9yzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2023-02-22",
+        "support": "physical"
+    },
+    {
         "id": "99116866962205516",
         "title": "Hydrology an introduction",
         "creator": "Brutsaert, Wilfried 1934-",
@@ -729,6 +789,18 @@
         "thumbnail": "http://books.google.com/books/content?id=-8FvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Political science (Politics and government)",
         "added": "2023-02-21",
+        "support": "physical"
+    },
+    {
+        "id": "99116873662205516",
+        "title": "Pollution is colonialism",
+        "creator": "Liboiron, Max 1980-",
+        "date": "2021",
+        "publisher": "Duke University Press",
+        "isbn": "9781478013228",
+        "thumbnail": "http://books.google.com/books/content?id=0r2XzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Factors affecting social behavior",
+        "added": "2023-02-13",
         "support": "physical"
     },
     {
@@ -812,6 +884,42 @@
         "isbn": "1503628728",
         "thumbnail": "http://books.google.com/books/content?id=k5wrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "General management",
+        "added": "2023-01-17",
+        "support": "physical"
+    },
+    {
+        "id": "99116874958905516",
+        "title": "Teams that work the seven drivers of team effectiveness",
+        "creator": "Tannenbaum,Scott",
+        "date": "[2021]",
+        "publisher": "Oxford University Press",
+        "isbn": "9780190056964",
+        "thumbnail": "http://books.google.com/books/content?id=jb71DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "General management",
+        "added": "2023-01-17",
+        "support": "physical"
+    },
+    {
+        "id": "99116874959005516",
+        "title": "Strategic leadership and management in nonprofit organizations theory and practice",
+        "creator": "Golensky, Martha",
+        "date": "2020",
+        "publisher": "Oxford University Press",
+        "isbn": "0190097841",
+        "thumbnail": "http://books.google.com/books/content?id=nZXHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "General management",
+        "added": "2023-01-17",
+        "support": "physical"
+    },
+    {
+        "id": "99116874960605516",
+        "title": "Mathematics, physics & chemistry with the Wolfram Language",
+        "creator": "Blinder, S. M. 1932-",
+        "date": "[2022]",
+        "publisher": "World Scientific",
+        "isbn": "9789811247187",
+        "thumbnail": "http://books.google.com/books/content?id=XhmYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
         "added": "2023-01-17",
         "support": "physical"
     },
@@ -969,114 +1077,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2022-12-22",
-        "support": "physical"
-    },
-    {
-        "id": "99116873661505516",
-        "title": "Carnets de science la revue du CNRS",
-        "creator": "",
-        "date": "DL 2021",
-        "publisher": "CNRS Editions",
-        "isbn": "2271139007",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-12-22",
-        "support": "physical"
-    },
-    {
-        "id": "99116873661605516",
-        "title": "Carnets de science la revue du CNRS",
-        "creator": "",
-        "date": "DL 2021",
-        "publisher": "CNRS Editions",
-        "isbn": "2271137063",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-12-22",
-        "support": "physical"
-    },
-    {
-        "id": "99116871161805516",
-        "title": "Oltre la dismissione strategie di recupero per tessuti e manufatti industriali",
-        "creator": "Setti, Giulia Auteur.",
-        "date": "2017",
-        "publisher": "LetteraVentidue",
-        "isbn": "8862423365",
-        "thumbnail": "http://books.google.com/books/content?id=v9y-vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2022-12-20",
-        "support": "physical"
-    },
-    {
-        "id": "99116756501705516",
-        "title": "Oscar Niemeyer the mondadori building",
-        "creator": "Dulio, Roberto 1971-",
-        "date": "[2017]",
-        "publisher": "Electa",
-        "isbn": "9788891815101",
-        "thumbnail": "http://books.google.com/books/content?id=fHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2022-12-19",
-        "support": "physical"
-    },
-    {
-        "id": "99116871361805516",
-        "title": "L'intelligence artificielle pour les nuls",
-        "creator": "Mueller, John Paul 1958-",
-        "date": "DL 2022",
-        "publisher": "First interactive",
-        "isbn": "2412078858",
-        "thumbnail": "",
-        "dewey": "Computer science, knowledge & systems",
-        "added": "2022-12-13",
-        "support": "physical"
-    },
-    {
-        "id": "99116871361905516",
-        "title": "Data cartels the companies that control and monopolize our information",
-        "creator": "Lamdan, Sarah",
-        "date": "[2023]",
-        "publisher": "Stanford University Press",
-        "isbn": "1503633713",
-        "thumbnail": "http://books.google.com/books/content?id=vCzmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Military, tax, trade & industrial law",
-        "added": "2022-12-13",
-        "support": "physical"
-    },
-    {
-        "id": "99116872157905516",
-        "title": "La valeur des personnes preuves et \u00e9preuves de la grandeur",
-        "creator": "Heinich, Nathalie 1955-....",
-        "date": "[2022]",
-        "publisher": "Gallimard",
-        "isbn": "9782072948312",
-        "thumbnail": "",
-        "dewey": "Social sciences",
-        "added": "2022-12-13",
-        "support": "physical"
-    },
-    {
-        "id": "99116872158805516",
-        "title": "Echelles spatiales et temporelles de la mobilit\u00e9",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "ISTE Editions",
-        "isbn": "9781789480641",
-        "thumbnail": "http://books.google.com/books/content?id=1rRrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Geography and travel",
-        "added": "2022-12-13",
-        "support": "physical"
-    },
-    {
-        "id": "99116873561405516",
-        "title": "Scala prise en main du langage",
-        "creator": "Maury, Agn\u00e8s",
-        "date": "[2022]",
-        "publisher": "\u00c9ditions ENI",
-        "isbn": "2409033687",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2022-12-13",
         "support": "physical"
     }
 ]
