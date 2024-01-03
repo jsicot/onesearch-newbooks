@@ -1,17 +1,5 @@
 [
     {
-        "id": "99116924362405516",
-        "title": "Essential cell biology",
-        "creator": "Alberts, Bruce M. 1938-....",
-        "date": "[2023]",
-        "publisher": "W W Norton & Company",
-        "isbn": "9781324033356",
-        "thumbnail": "",
-        "dewey": "Medicine and health",
-        "added": "2023-11-29",
-        "support": "physical"
-    },
-    {
         "id": "99116940947805516",
         "title": "Tourism and Conservation-based Development in the Periphery Lessons from Patagonia for a Rapidly Changing World /",
         "creator": "",
@@ -348,30 +336,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116743250305516",
-        "title": "Campbell biologie",
-        "creator": "Campbell, Neil A. 1946-2004",
-        "date": "[2020]",
-        "publisher": "Pearson",
-        "isbn": "9782766104031",
-        "thumbnail": "",
-        "dewey": "Medicine and health",
-        "added": "2023-11-09",
-        "support": "physical"
-    },
-    {
-        "id": "99116924461705516",
-        "title": "Fundamentals of brain network analysis",
-        "creator": "Fornito, Alex Verfasser",
-        "date": "[2016]",
-        "publisher": "Academic Press an imprint of Elsevier",
-        "isbn": "9780124081185",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-10-17",
-        "support": "physical"
-    },
-    {
         "id": "99116931135905516",
         "title": "Invitation to Mathematical Biology",
         "creator": "",
@@ -540,6 +504,42 @@
         "support": "electronic"
     },
     {
+        "id": "99116931137805516",
+        "title": "Biomaterials and Biopolymers",
+        "creator": "",
+        "date": "2023.",
+        "publisher": "Imprint Springer; Springer International Publishing",
+        "isbn": "3031361350",
+        "thumbnail": "",
+        "dewey": "Medicine and health",
+        "added": "2023-10-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116931137905516",
+        "title": "Food Microbial Sustainability Integration of Food Production and Food Safety /",
+        "creator": "",
+        "date": "2023.",
+        "publisher": "Imprint Springer; Springer Nature Singapore",
+        "isbn": "9819947847",
+        "thumbnail": "",
+        "dewey": "Food and drink",
+        "added": "2023-10-10",
+        "support": "electronic"
+    },
+    {
+        "id": "99116931138005516",
+        "title": "Drugs and a Methodological Compendium From bench to bedside /",
+        "creator": "",
+        "date": "2023.",
+        "publisher": "Imprint Springer; Springer Nature Singapore",
+        "isbn": "9811979529",
+        "thumbnail": "",
+        "dewey": "Pharmacology and therapeutics",
+        "added": "2023-10-10",
+        "support": "electronic"
+    },
+    {
         "id": "99116926162405516",
         "title": "Biclustering of Microarray Gene Expression Data With Heuristic Approach",
         "creator": "Rengeswaran, Balamurugan",
@@ -549,66 +549,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2023-09-26",
-        "support": "physical"
-    },
-    {
-        "id": "99116897762105516",
-        "title": "Biotechnology entrepreneurship leading, managing and commercializing innovative technologies",
-        "creator": "",
-        "date": "[2020]",
-        "publisher": "Academic Press",
-        "isbn": "9780128155851",
-        "thumbnail": "",
-        "dewey": "Production",
-        "added": "2023-08-16",
-        "support": "physical"
-    },
-    {
-        "id": "99116896562305516",
-        "title": "Basic immunology functions and disorders of the immune system",
-        "creator": "Abbas, Abul K. 1944-....",
-        "date": "[2024]",
-        "publisher": "Elsevier",
-        "isbn": "9780443105197",
-        "thumbnail": "",
-        "dewey": "Medicine and health",
-        "added": "2023-07-26",
-        "support": "physical"
-    },
-    {
-        "id": "99116897362105516",
-        "title": "Rang & Dale's pharmacology",
-        "creator": "Ritter, James M.",
-        "date": "[2024]",
-        "publisher": "Elsevier",
-        "isbn": "9780323873956",
-        "thumbnail": "",
-        "dewey": "Pharmacology and therapeutics",
-        "added": "2023-07-17",
-        "support": "physical"
-    },
-    {
-        "id": "99116897762305516",
-        "title": "Harrison's principles of internal medicine",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "McGraw-Hill",
-        "isbn": "1264285841",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-07-07",
-        "support": "physical"
-    },
-    {
-        "id": "990072791960205516",
-        "title": "Molecular cloning a laboratory manual",
-        "creator": "Green, Michael Richard 1954-2023",
-        "date": "[2012]",
-        "publisher": "Cold Spring Harbor Laboratory Press",
-        "isbn": "1936113414",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-06-28",
         "support": "physical"
     }
 ]
