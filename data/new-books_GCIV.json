@@ -1,15 +1,39 @@
 [
     {
-        "id": "99116928158105516",
-        "title": "Public transportation systems principles of system design, operations planning and real-time control",
-        "creator": "Daganzo, Carlos 1948-",
-        "date": "[2019]",
-        "publisher": "World Scientific",
-        "isbn": "9813224088",
+        "id": "99116951162405516",
+        "title": "Fire safety and fire resistant design of steel structures for buildings according to Eurocode 3 /",
+        "creator": "Hamerlinck, A. F., author.",
+        "date": "2023.",
+        "publisher": "John Wiley & Sons Inc",
+        "isbn": "3433611556",
         "thumbnail": "",
-        "dewey": "Transportation",
-        "added": "2023-11-09",
-        "support": "physical"
+        "dewey": "Other social problems and services",
+        "added": "2023-12-14",
+        "support": "electronic"
+    },
+    {
+        "id": "99116950954005516",
+        "title": "Resilient and Sustainable Buildings.",
+        "creator": "Ellingwood, Bruce R.",
+        "date": "2023.",
+        "publisher": "American Society of Civil Engineers",
+        "isbn": "0784485054",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-12-12",
+        "support": "electronic"
+    },
+    {
+        "id": "99116950954105516",
+        "title": "Navigation Channel Sedimentation Solutions.",
+        "creator": "Beck, Tanya M.",
+        "date": "2023.",
+        "publisher": "American Society of Civil Engineers",
+        "isbn": "0784485143",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-12-12",
+        "support": "electronic"
     },
     {
         "id": "99116935761805516",
@@ -82,18 +106,6 @@
         "dewey": "Specific materials & purposes",
         "added": "2023-11-01",
         "support": "electronic"
-    },
-    {
-        "id": "99116931361005516",
-        "title": "Experimental hydraulics methods, instrumentation, data processing and management",
-        "creator": "",
-        "date": "[2017]",
-        "publisher": "CRC Press",
-        "isbn": "9781138038165",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-10-31",
-        "support": "physical"
     },
     {
         "id": "99116930459705516",
@@ -214,18 +226,6 @@
         "dewey": "Civil engineering",
         "added": "2023-09-14",
         "support": "electronic"
-    },
-    {
-        "id": "99116875062305516",
-        "title": "Design, safety and operation of dams",
-        "creator": "Schleiss, Anton J. 1953-",
-        "date": "[2022]",
-        "publisher": "EPFL Press",
-        "isbn": "2889154858",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-08-09",
-        "support": "physical"
     },
     {
         "id": "99116919659905516",
