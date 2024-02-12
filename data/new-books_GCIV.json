@@ -1,5 +1,29 @@
 [
     {
+        "id": "99116965562305516",
+        "title": "Substation Structure Design Guide : Recommended Practice for Design and Use.",
+        "creator": "Amundsen, Thomas.",
+        "date": "2023.",
+        "publisher": "American Society of Civil Engineers",
+        "isbn": "0784485178",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-01-17",
+        "support": "electronic"
+    },
+    {
+        "id": "99116965562405516",
+        "title": "Designing to the Strongest Ground Motions.",
+        "creator": "Malhotra, Praveen K.",
+        "date": "2023.",
+        "publisher": "American Society of Civil Engineers",
+        "isbn": "0784485194",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-01-17",
+        "support": "electronic"
+    },
+    {
         "id": "99116951162405516",
         "title": "Fire safety and fire resistant design of steel structures for buildings according to Eurocode 3 /",
         "creator": "Hamerlinck, A. F., author.",
@@ -31,7 +55,7 @@
         "publisher": "American Society of Civil Engineers",
         "isbn": "0784485143",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Hydraulic engineering",
         "added": "2023-12-12",
         "support": "electronic"
     },
@@ -106,137 +130,5 @@
         "dewey": "Specific materials & purposes",
         "added": "2023-11-01",
         "support": "electronic"
-    },
-    {
-        "id": "99116930459705516",
-        "title": "Public transportation systems : principles of system design, operations planning and real-time control /",
-        "creator": "Daganzo, Carlos, author.",
-        "date": "[2019]",
-        "publisher": "World Scientific",
-        "isbn": "981322410X",
-        "thumbnail": "",
-        "dewey": "Transportation",
-        "added": "2023-10-12",
-        "support": "electronic"
-    },
-    {
-        "id": "99116930461105516",
-        "title": "Composite structures according to eurocode 4 : worked examples /",
-        "creator": "Dujmovic\u0301, Darko, author.",
-        "date": "2015.",
-        "publisher": "Ernst & Sohn",
-        "isbn": "1523115580",
-        "thumbnail": "",
-        "dewey": "Civil engineering",
-        "added": "2023-10-12",
-        "support": "electronic"
-    },
-    {
-        "id": "99116931162205516",
-        "title": "Infrastructure System Resilience : An Engineering Framework for Assessment, Management, and Governance",
-        "creator": "",
-        "date": "2023",
-        "publisher": "American Society of Civil Engineers",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-10-10",
-        "support": "electronic"
-    },
-    {
-        "id": "99116931162305516",
-        "title": "Wind Loads : Guide to the Wind Load Provisions of ASCE 7-22.",
-        "creator": "Stafford, T. Eric.",
-        "date": "2023.",
-        "publisher": "American Society of Civil Engineers",
-        "isbn": "0784484945",
-        "thumbnail": "",
-        "dewey": "Specific materials & purposes",
-        "added": "2023-10-10",
-        "support": "electronic"
-    },
-    {
-        "id": "99116930162105516",
-        "title": "Earthquake engineering for concrete dams : analysis, design, and evaluation /",
-        "creator": "Chopra, Anil K., author.",
-        "date": "2020.",
-        "publisher": "Wiley-Blackwell",
-        "isbn": "1119056098",
-        "thumbnail": "",
-        "dewey": "Civil engineering",
-        "added": "2023-10-06",
-        "support": "electronic"
-    },
-    {
-        "id": "99116930862405516",
-        "title": "Fatigue design of steel and composite structures.",
-        "creator": "Nussbaumer, Alain, author.",
-        "date": "[2018]",
-        "publisher": "European Convention for Constructional Steelwork; Ernst Wilhelm & Sohn",
-        "isbn": "1523123494",
-        "thumbnail": "",
-        "dewey": "Engineering and allied operations",
-        "added": "2023-10-06",
-        "support": "electronic"
-    },
-    {
-        "id": "99116929760205516",
-        "title": "Urban transit : operations, planning and economics /",
-        "creator": "Vuchic, Vukan R., author.",
-        "date": "2005.",
-        "publisher": "John Wiley & Sons Inc",
-        "isbn": "1119488893",
-        "thumbnail": "",
-        "dewey": "Transportation",
-        "added": "2023-10-03",
-        "support": "electronic"
-    },
-    {
-        "id": "99116919659905516",
-        "title": "Ventilation and acceptable indoor air quality",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "American Society of Heating Refrigerating and Air-Conditioning Engineers",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-07-28",
-        "support": "physical"
-    },
-    {
-        "id": "99116919660005516",
-        "title": "Thermal environmental conditions for human occupancy",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "ASHRAE",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-07-28",
-        "support": "physical"
-    },
-    {
-        "id": "99116919660105516",
-        "title": "Energy standard for sites and buildings except low-rise residential buildings",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "ASHRAE",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-07-28",
-        "support": "physical"
-    },
-    {
-        "id": "99116919660205516",
-        "title": "Standard for the design of high-performance green buildings except low-rise residential buildings",
-        "creator": "",
-        "date": "[2020]",
-        "publisher": "American Society of Heating Refrigerating and Air-Conditioning Engineers",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-07-28",
-        "support": "physical"
     }
 ]
