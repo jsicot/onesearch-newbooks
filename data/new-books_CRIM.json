@@ -24,6 +24,18 @@
         "support": "physical"
     },
     {
+        "id": "99116936762405516",
+        "title": "Artificial intelligence (AI) in forensic sciences",
+        "creator": "",
+        "date": "[2024]",
+        "publisher": "Wiley",
+        "isbn": "1119813328",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2023-11-28",
+        "support": "physical"
+    },
+    {
         "id": "99116932162005516",
         "title": "Assessing the harms of crime a new framework for criminal policy",
         "creator": "Greenfield, Victoria A. 1964-",
@@ -51,7 +63,7 @@
         "id": "99116931359805516",
         "title": "D\u00e9linquance \u00e0 l'adolescence comprendre, \u00e9valuer, intervenir",
         "creator": "",
-        "date": "2022",
+        "date": "[2022]",
         "publisher": "Presses de l\u2019Universit\u00e9 du Qu\u00e9bec",
         "isbn": "9782760557659",
         "thumbnail": "",
@@ -129,30 +141,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2023-09-21",
-        "support": "physical"
-    },
-    {
-        "id": "99116905362405516",
-        "title": "The science of forensic entomology",
-        "creator": "Rivers, David B. 1966-....",
-        "date": "[2023]",
-        "publisher": "Wiley",
-        "isbn": "9781119640660",
-        "thumbnail": "",
-        "dewey": "Medicine and health",
-        "added": "2023-07-24",
-        "support": "physical"
-    },
-    {
-        "id": "99116917762405516",
-        "title": "Burnt human remains recovery, analysis, and interpretation",
-        "creator": "",
-        "date": "2023",
-        "publisher": "John Wiley & Sons",
-        "isbn": "1119682606",
-        "thumbnail": "",
-        "dewey": "Forensic medicine; incidence of disease",
-        "added": "2023-07-24",
         "support": "physical"
     }
 ]
