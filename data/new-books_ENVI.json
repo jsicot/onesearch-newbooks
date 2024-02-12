@@ -1,5 +1,41 @@
 [
     {
+        "id": "99116966062105516",
+        "title": "Une \u00e9cologie de l'alimentation",
+        "creator": "Bricas, Nicolas 1960-....",
+        "date": "[2021]",
+        "publisher": "\u00c9ditions Quae",
+        "isbn": "9782759233526",
+        "thumbnail": "",
+        "dewey": "Home and family management",
+        "added": "2024-01-30",
+        "support": "physical"
+    },
+    {
+        "id": "99116966162405516",
+        "title": "Globalising the climate : COP21 and the climatisation of global debates /",
+        "creator": "",
+        "date": "[2017]",
+        "publisher": "Routledge Taylor & Francis Group",
+        "isbn": "1317198727",
+        "thumbnail": "",
+        "dewey": "Other social problems and services",
+        "added": "2024-01-19",
+        "support": "electronic"
+    },
+    {
+        "id": "99116893962005516",
+        "title": "L'environnement",
+        "creator": "Vernier, Jacques 1944-....",
+        "date": "[2023]",
+        "publisher": "Presses universitaires de France",
+        "isbn": "9782715414044",
+        "thumbnail": "",
+        "dewey": "Economics of land and energy",
+        "added": "2024-01-11",
+        "support": "physical"
+    },
+    {
         "id": "99116951750105516",
         "title": "Research handbook of women's entrepreneurship and value creation /",
         "creator": "",
@@ -504,42 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116951754705516",
-        "title": "Institutions and evolution of capitalism essays in honour of Geoffrey M. Hodgson /",
-        "creator": "",
-        "date": "2019.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1785365002",
-        "thumbnail": "",
-        "dewey": "Economics",
-        "added": "2023-12-14",
-        "support": "electronic"
-    },
-    {
-        "id": "99116951754805516",
-        "title": "Handbook of sustainability-driven business strategies in practice /",
-        "creator": "",
-        "date": "[2021]",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1789908353",
-        "thumbnail": "",
-        "dewey": "General management",
-        "added": "2023-12-14",
-        "support": "electronic"
-    },
-    {
-        "id": "99116951754905516",
-        "title": "Games, simulations, and playful learning in business education /",
-        "creator": "Elliott, Caroline, author.",
-        "date": "2021.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1800372701",
-        "thumbnail": "",
-        "dewey": "Management and auxiliary services",
-        "added": "2023-12-14",
-        "support": "electronic"
-    },
-    {
         "id": "99116932160205516",
         "title": "Climate change and individual responsibility agency, moral disengagement and the motivational gap",
         "creator": "Peeters, Wouter",
@@ -633,18 +633,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2023-08-22",
-        "support": "physical"
-    },
-    {
-        "id": "99116919862405516",
-        "title": "R\u00e9duire les pesticides, un peu, beaucoup, r\u00e9solument",
-        "creator": "",
-        "date": "2023",
-        "publisher": "INRAE Institut national de Recherche pour l'Agriculture l'Alimentation",
-        "isbn": "9782759237449",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-08-07",
         "support": "physical"
     }
 ]
