@@ -1,5 +1,53 @@
 [
     {
+        "id": "99116968562305516",
+        "title": "The Oxford handbook of evidence-based crime and justice policy",
+        "creator": "Welsh, Brandon 1969-",
+        "date": "[2024]",
+        "publisher": "Oxford University Press",
+        "isbn": "0197618111",
+        "thumbnail": "",
+        "dewey": "Epistemology (Theory of knowledge)",
+        "added": "2024-04-09",
+        "support": "physical"
+    },
+    {
+        "id": "99116967862405516",
+        "title": "Crime, science and policing",
+        "creator": "Laycock, Gloria K.",
+        "date": "[2024]",
+        "publisher": "Routledge",
+        "isbn": "0367761777",
+        "thumbnail": "",
+        "dewey": "Criminology",
+        "added": "2024-03-21",
+        "support": "physical"
+    },
+    {
+        "id": "99116965162205516",
+        "title": "Impact evaluation in practice",
+        "creator": "Gertler, Paul 1955-.... Verfasser",
+        "date": "[2016]",
+        "publisher": "World Bank Group",
+        "isbn": "9781464807794",
+        "thumbnail": "",
+        "dewey": "Production",
+        "added": "2024-03-19",
+        "support": "physical"
+    },
+    {
+        "id": "99116971762305516",
+        "title": "Polices environnementales sous contraintes",
+        "creator": "Magnin, Le\u0301o.",
+        "date": "[2024]",
+        "publisher": "Rue d'Ulm",
+        "isbn": "2728808562",
+        "thumbnail": "",
+        "dewey": "Other social problems and services",
+        "added": "2024-03-13",
+        "support": "physical"
+    },
+    {
         "id": "99116965162305516",
         "title": "Field experiments design, analysis, and interpretation",
         "creator": "Gerber, Alan S. Verfasser",
@@ -53,9 +101,9 @@
         "creator": "",
         "date": "[2024]",
         "publisher": "Wiley",
-        "isbn": "1119813328",
+        "isbn": "9781119813323",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Computer programming, programs, data, security",
         "added": "2023-11-28",
         "support": "physical"
     },
@@ -105,66 +153,6 @@
         "thumbnail": "",
         "dewey": "Other social problems and services",
         "added": "2023-10-31",
-        "support": "physical"
-    },
-    {
-        "id": "99116914761605516",
-        "title": "The Promise of punishment prisons in nineteenth -century france",
-        "creator": "O'Brien, Patricia",
-        "date": "[1982]",
-        "publisher": "Princeton University Press",
-        "isbn": "9780691614519",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-10-10",
-        "support": "physical"
-    },
-    {
-        "id": "99116924462005516",
-        "title": "Analytical criminology integrating explanations of crime and deviant behavior",
-        "creator": "Opp, Karl-Dieter 1937-",
-        "date": "2020",
-        "publisher": "Routledge Taylor & Francis Group",
-        "isbn": "9780367086664",
-        "thumbnail": "",
-        "dewey": "Criminology",
-        "added": "2023-09-26",
-        "support": "physical"
-    },
-    {
-        "id": "99116927362205516",
-        "title": "Innovations in digital forensics",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "World Scientific",
-        "isbn": "9811273197",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-09-26",
-        "support": "physical"
-    },
-    {
-        "id": "99116927362305516",
-        "title": "Forensic cultures in modern Europe",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "Manchester University Press",
-        "isbn": "9781526172334",
-        "thumbnail": "",
-        "dewey": "History of Europe",
-        "added": "2023-09-26",
-        "support": "physical"
-    },
-    {
-        "id": "99116925962405516",
-        "title": "Modeling and simulation of functional nanomaterials for forensic investigation",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "Information Science Reference",
-        "isbn": "1668483254",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2023-09-21",
         "support": "physical"
     }
 ]
