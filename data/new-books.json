@@ -1,5 +1,29 @@
 [
     {
+        "id": "99117052862805516",
+        "title": "Active Minds Explorers Baby Cockatiel.",
+        "creator": "Lawrence, Ellen.",
+        "date": "2022.",
+        "publisher": "Sequoia Children's Books",
+        "isbn": "164996305X",
+        "thumbnail": "http://books.google.com/books/content?id=RE9zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "dewey": "Animal husbandry",
+        "added": "2025-01-29",
+        "support": "electronic"
+    },
+    {
+        "id": "99117053661605516",
+        "title": "Scientific papers made easy : how to write with clarity and impact in the life sciences /",
+        "creator": "West, Stuart, author.",
+        "date": "[2023]",
+        "publisher": "Oxford University Press",
+        "isbn": "0191953814",
+        "thumbnail": "",
+        "dewey": "Rhetoric & collections of literature",
+        "added": "2025-01-29",
+        "support": "electronic"
+    },
+    {
         "id": "99117053459605516",
         "title": "Public Engagement with Science: Defining the Project",
         "creator": "Potochnik",
@@ -512,30 +536,6 @@
         "isbn": "9780674276338",
         "thumbnail": "",
         "dewey": "Economics of land and energy",
-        "added": "2025-01-24",
-        "support": "electronic"
-    },
-    {
-        "id": "99116841553305516",
-        "title": "A clouded leopard in the middle of the road : new thinking about roads, people, and wildlife /",
-        "creator": "Jones, Darryl N., author.",
-        "date": "[2022]",
-        "publisher": "Cornell University Press",
-        "isbn": "1501763725",
-        "thumbnail": "http://books.google.com/books/content?id=dsgzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Economics of land and energy",
-        "added": "2025-01-24",
-        "support": "electronic"
-    },
-    {
-        "id": "99116842951705516",
-        "title": "The carriers : what the fragile X gene reveals about family,heredity, and scientific discovery /",
-        "creator": "Skomorowsky, Anne, author.",
-        "date": "[2022]",
-        "publisher": "Columbia University Press",
-        "isbn": "0231552289",
-        "thumbnail": "http://books.google.com/books/content?id=HRVBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "dewey": "Gynecology, obstetrics, pediatrics, geriatrics",
         "added": "2025-01-24",
         "support": "electronic"
     },
