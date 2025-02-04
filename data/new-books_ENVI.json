@@ -1,5 +1,17 @@
 [
     {
+        "id": "99117047062305516",
+        "title": "Handbook of environment and waste management Acid rain and greenhouse gas pollution control",
+        "creator": "",
+        "date": "[2020]",
+        "publisher": "World Scientific",
+        "isbn": "9811207127",
+        "thumbnail": "",
+        "dewey": "Other social problems and services",
+        "added": "2025-01-30",
+        "support": "physical"
+    },
+    {
         "id": "99117052362005516",
         "title": "Les m\u00e9tamorphoses de la Terre l'humanit\u00e9 et la nature, une nouvelle histoire du monde",
         "creator": "Frankopan, Peter 1971-....",
@@ -9,6 +21,30 @@
         "thumbnail": "",
         "dewey": "History & geography",
         "added": "2025-01-23",
+        "support": "physical"
+    },
+    {
+        "id": "99117052362205516",
+        "title": "Une br\u00e8ve histoire de la Terre quatre milliards d'ann\u00e9es en huit chapitres",
+        "creator": "Knoll, Andrew H.",
+        "date": "2024",
+        "publisher": "Les Liens qui lib\u00e8rent",
+        "isbn": "",
+        "thumbnail": "",
+        "dewey": "Earth sciences",
+        "added": "2025-01-23",
+        "support": "physical"
+    },
+    {
+        "id": "99117047462405516",
+        "title": "Histoire du climat dans les montagnes du Jura \u00e9cosyst\u00e8mes et soci\u00e9t\u00e9s face \u00e0 un avenir incertain",
+        "creator": "",
+        "date": "[2023]",
+        "publisher": "Editions de la Belle Etoile",
+        "isbn": "9782491372316",
+        "thumbnail": "",
+        "dewey": "Earth sciences",
+        "added": "2025-01-16",
         "support": "physical"
     },
     {
@@ -504,42 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99116924653405516",
-        "title": "Rethinking the crit : new pedagogies in design education /",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "Routledge Taylor & Francis Group",
-        "isbn": "1000789977",
-        "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2024-11-12",
-        "support": "electronic"
-    },
-    {
-        "id": "99116924654805516",
-        "title": "Interior design concept : critical practices, processes and explorations in interior architecture and design /",
-        "creator": "Badenduck, Natalie, author.",
-        "date": "2023.",
-        "publisher": "Routledge",
-        "isbn": "1003212581",
-        "thumbnail": "",
-        "dewey": "Design & decoration",
-        "added": "2024-11-12",
-        "support": "electronic"
-    },
-    {
-        "id": "99116924655105516",
-        "title": "Repair : sustainable design futures /",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "Routledge",
-        "isbn": "1003244025",
-        "thumbnail": "",
-        "dewey": "Decorative arts",
-        "added": "2024-11-12",
-        "support": "electronic"
-    },
-    {
         "id": "99117026862405516",
         "title": "Environmental economics and policy",
         "creator": "Lewis, Lynne Y.",
@@ -645,18 +645,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2024-08-22",
-        "support": "physical"
-    },
-    {
-        "id": "99116997562205516",
-        "title": "Post-sustainability and environmental education remaking education for the future",
-        "creator": "",
-        "date": "[2017]",
-        "publisher": "Palgrave Macmillan",
-        "isbn": "3319513214",
-        "thumbnail": "",
-        "dewey": "Education",
-        "added": "2024-08-06",
         "support": "physical"
     }
 ]
