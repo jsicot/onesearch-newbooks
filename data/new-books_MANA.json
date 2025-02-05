@@ -31,14 +31,14 @@
         "publisher": "Pearson",
         "isbn": "9782744068744",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Management and auxiliary services",
         "added": "2024-12-19",
         "support": "physical"
     },
     {
         "id": "99117029159905516",
         "title": "Les fondamentaux de l'e\u0301conomie Grands auteurs - Grands the\u0300mes + de 80 fiches",
-        "creator": "N'zambi, Georges",
+        "creator": "N'zambi, Georges 19..-....",
         "date": "[2024]",
         "publisher": "Ellipses",
         "isbn": "2340094631",
@@ -501,18 +501,6 @@
         "thumbnail": "",
         "dewey": "General management",
         "added": "2024-10-16",
-        "support": "electronic"
-    },
-    {
-        "id": "99117028461205516",
-        "title": "Corporate finance /",
-        "creator": "Berk, Jonathan B., 1962- author.",
-        "date": "[2024]",
-        "publisher": "Pearson Education Limited",
-        "isbn": "1292446412",
-        "thumbnail": "",
-        "dewey": "Geography and travel",
-        "added": "2024-10-01",
         "support": "electronic"
     },
     {
