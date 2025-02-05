@@ -1,5 +1,17 @@
 [
     {
+        "id": "99117052762305516",
+        "title": "Sauter des gratte-ciel roman",
+        "creator": "Lucadou, Julia von 1982-....",
+        "date": "2021",
+        "publisher": "Actes Sud",
+        "isbn": "9782330151010",
+        "thumbnail": "",
+        "dewey": "Literatures of Germanic languages",
+        "added": "2025-01-23",
+        "support": "physical"
+    },
+    {
         "id": "99117043860805516",
         "title": "L\u00e0 o\u00f9 le vent revient",
         "creator": "Miyazaki, Hayao 1941-",
@@ -193,11 +205,11 @@
     },
     {
         "id": "99117030062105516",
-        "title": "Code civil suisse et code des obligations annote\u0301s",
+        "title": "Code civil suisse et Code des obligations annote\u0301s",
         "creator": "Carron, Blaise 1975-....",
         "date": "2024",
         "publisher": "Helbing Lichtenhahn",
-        "isbn": "9783719048136",
+        "isbn": "3719048128",
         "thumbnail": "",
         "dewey": "Law",
         "added": "2024-11-19",
@@ -528,18 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117036961105516",
-        "title": "Handbook on the economics of renewable energy /",
-        "creator": "",
-        "date": "2023.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1800379021",
-        "thumbnail": "",
-        "dewey": "Surgery & related medical specialties",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
         "id": "99117023762405516",
         "title": "The age of AI and our human future",
         "creator": "Kissinger, Henry 1923-2023",
@@ -648,18 +648,6 @@
         "support": "physical"
     },
     {
-        "id": "99116978361905516",
-        "title": "Droit du travail",
-        "creator": "Wyler, R\u00e9my 1960-",
-        "date": "[2024]",
-        "publisher": "Sta\u0308mpfli \u00c9ditions",
-        "isbn": "3727223111",
-        "thumbnail": "",
-        "dewey": "Law",
-        "added": "2024-09-10",
-        "support": "physical"
-    },
-    {
         "id": "99117010060605516",
         "title": "Pluralising pasts heritage, identity and place in multicultural societies",
         "creator": "Ashworth, Gregory J. 1941-2016",
@@ -765,30 +753,6 @@
         "thumbnail": "",
         "dewey": "History of Asia",
         "added": "2024-08-16",
-        "support": "physical"
-    },
-    {
-        "id": "99117007562405516",
-        "title": "Les 600 mots m\u00e9tiers biblioth\u00e8ques, archives, documentations, mus\u00e9es : traduits en anglais, allemand et espagnol",
-        "creator": "Accart, Jean-Philippe 1958-....",
-        "date": "2024",
-        "publisher": "KLOG \u00e9ditions",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "Relationships of libraries and archives",
-        "added": "2024-08-08",
-        "support": "physical"
-    },
-    {
-        "id": "99117010262205516",
-        "title": "Le signe histoire et analyse d'un concept",
-        "creator": "Eco, Umberto 1932-2016",
-        "date": "1998",
-        "publisher": "Librairie G\u00e9n\u00e9rale Fran\u00e7aise",
-        "isbn": "2253060941",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-08-08",
         "support": "physical"
     }
 ]
