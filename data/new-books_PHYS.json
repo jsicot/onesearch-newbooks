@@ -634,29 +634,5 @@
         "dewey": "Astronomy and allied sciences",
         "added": "2024-08-12",
         "support": "physical"
-    },
-    {
-        "id": "99117012362205516",
-        "title": "Une br\u00e8ve histoire du temps du Big Bang aux trous noirs",
-        "creator": "Hawking, Stephen 1942-2018",
-        "date": "[2020]",
-        "publisher": "Flammarion",
-        "isbn": "2081452014",
-        "thumbnail": "",
-        "dewey": "Specific celestial bodies and phenomena",
-        "added": "2024-08-08",
-        "support": "physical"
-    },
-    {
-        "id": "99117012362305516",
-        "title": "Une belle histoire du temps",
-        "creator": "Hawking, Stephen 1942-2018",
-        "date": "2009",
-        "publisher": "Flammarion",
-        "isbn": "9782081220164",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-08-08",
-        "support": "physical"
     }
 ]
