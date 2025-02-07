@@ -312,18 +312,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117029759905516",
-        "title": "Digital Twins in Industrial Production and Smart Manufacturing : An Understanding of Principles, Enhancers, and Obstacles /",
-        "creator": "",
-        "date": "[2024]",
-        "publisher": "John Wiley & Sons Inc",
-        "isbn": "1394195338",
-        "thumbnail": "",
-        "dewey": "Production",
-        "added": "2024-10-08",
-        "support": "electronic"
-    },
-    {
         "id": "99117025562305516",
         "title": "Dans les pantoufles de Darwin",
         "creator": "Van Belle, Camille",
@@ -357,18 +345,6 @@
         "thumbnail": "",
         "dewey": "Diseases",
         "added": "2024-08-13",
-        "support": "physical"
-    },
-    {
-        "id": "99117000462405516",
-        "title": "\u00c9pig\u00e9n\u00e9tique m\u00e9canismes mol\u00e9culaires, d\u00e9veloppement et r\u00e9ponses \u00e0 l'environnement",
-        "creator": "",
-        "date": "[2024]",
-        "publisher": "Quae",
-        "isbn": "2759237699",
-        "thumbnail": "",
-        "dewey": "Biology",
-        "added": "2024-08-08",
         "support": "physical"
     }
 ]
