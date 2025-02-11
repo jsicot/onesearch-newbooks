@@ -1,5 +1,41 @@
 [
     {
+        "id": "99117048062105516",
+        "title": "Cine\u0301mas, un patrimoine franc\u0327ais",
+        "creator": "Edelstein, Simon 1942-... pht",
+        "date": "2023",
+        "publisher": "Editions Jonglez",
+        "isbn": "2361956098",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2025-02-04",
+        "support": "physical"
+    },
+    {
+        "id": "99117048062205516",
+        "title": "Le cr\u00e9puscule des cin\u00e9mas",
+        "creator": "Edelstein, Simon 1942-...",
+        "date": "[2020]",
+        "publisher": "\u00c9ditions Jonglez",
+        "isbn": "9782361953676",
+        "thumbnail": "",
+        "dewey": "Photographic images",
+        "added": "2025-02-04",
+        "support": "physical"
+    },
+    {
+        "id": "99117006062405516",
+        "title": "On tectonic terms",
+        "creator": "",
+        "date": "[2012]",
+        "publisher": "Aalborg University Press",
+        "isbn": "9788771120547",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2025-01-29",
+        "support": "physical"
+    },
+    {
         "id": "99117012461605516",
         "title": "100 Copenhagen typologies re-use, adaptation and mixed-use architecture",
         "creator": "",
@@ -96,6 +132,18 @@
         "support": "physical"
     },
     {
+        "id": "99117030061105516",
+        "title": "The London surveys of Ralph Treswell",
+        "creator": "Treswell, Ralph",
+        "date": "1987",
+        "publisher": "London Topographical Society",
+        "isbn": "0902087258",
+        "thumbnail": "",
+        "dewey": "Residential and related buildings",
+        "added": "2025-01-23",
+        "support": "physical"
+    },
+    {
         "id": "99117032262405516",
         "title": "Radio-activities architecture and broadcasting in Cold War Berlin",
         "creator": "Thiermann Riesco, Alfredo 1987-",
@@ -116,6 +164,18 @@
         "isbn": "0631199934",
         "thumbnail": "",
         "dewey": "Communities",
+        "added": "2025-01-23",
+        "support": "physical"
+    },
+    {
+        "id": "99117033862005516",
+        "title": "Live-work planning and design zero-commute housing",
+        "creator": "",
+        "date": "2012",
+        "publisher": "Wiley",
+        "isbn": "0470604808",
+        "thumbnail": "",
+        "dewey": "Residential and related buildings",
         "added": "2025-01-23",
         "support": "physical"
     },
@@ -516,18 +576,6 @@
         "support": "physical"
     },
     {
-        "id": "99117039762305516",
-        "title": "Living Downtown /",
-        "creator": "Groth, Paul, author.",
-        "date": "[2020]",
-        "publisher": "University of California Press",
-        "isbn": "0520312791",
-        "thumbnail": "",
-        "dewey": "Management of public households",
-        "added": "2024-11-21",
-        "support": "electronic"
-    },
-    {
         "id": "99117025862205516",
         "title": "Brick 24 outstanding international brick architecture",
         "creator": "",
@@ -537,66 +585,6 @@
         "thumbnail": "",
         "dewey": "Architecture",
         "added": "2024-11-19",
-        "support": "physical"
-    },
-    {
-        "id": "99117033861905516",
-        "title": "Centrales architecture et paysages hydro\u00e9lectriques de l'arc alpin",
-        "creator": "Fo\u00ebx, Emmanuel 1955-....",
-        "date": "[2024]",
-        "publisher": "MetisPresses",
-        "isbn": "9782940711444",
-        "thumbnail": "",
-        "dewey": "Engineering and allied operations",
-        "added": "2024-11-18",
-        "support": "physical"
-    },
-    {
-        "id": "99117037361805516",
-        "title": "Cooperative conditions a primer on architecture, finance and regulation in Zurich",
-        "creator": "Kockelkorn, Anne 1975-",
-        "date": "[2024]",
-        "publisher": "gta Verlag",
-        "isbn": "9783856764197",
-        "thumbnail": "",
-        "dewey": "Other social problems and services",
-        "added": "2024-11-18",
-        "support": "physical"
-    },
-    {
-        "id": "99117025862305516",
-        "title": "The barrack 1572-1914 chapters in the history of emergency architecture",
-        "creator": "Pelt, Robert Jan <<van>> 1955-",
-        "date": "[2024]",
-        "publisher": "Park Books",
-        "isbn": "9783038603658",
-        "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2024-11-14",
-        "support": "physical"
-    },
-    {
-        "id": "99117025862405516",
-        "title": "Begin again. Fail better preliminary drawings in architecture",
-        "creator": "",
-        "date": "[2024]",
-        "publisher": "Park Books",
-        "isbn": "3038603759",
-        "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2024-11-14",
-        "support": "physical"
-    },
-    {
-        "id": "99117030062205516",
-        "title": "A Queer Reading of Nawabi Architecture and the Colonial Archive Lucknow Queerscapes",
-        "creator": "Mithal, Sonal",
-        "date": "2025",
-        "publisher": "Routledge Taylor & Francis Group",
-        "isbn": "1032441291",
-        "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2024-11-14",
         "support": "physical"
     }
 ]
