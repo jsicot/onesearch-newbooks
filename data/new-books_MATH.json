@@ -1,13 +1,13 @@
 [
     {
         "id": "99117052869605516",
-        "title": "Convex and Complex : Perspectives on Positivity in Geometry.",
-        "creator": "Berman, Robert J.",
-        "date": "2025.",
+        "title": "Convex and complex : perspectives on positivity in geometry /",
+        "creator": "",
+        "date": "[2025]",
         "publisher": "American Mathematical Society",
         "isbn": "1470478617",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Geometry",
         "added": "2025-01-27",
         "support": "electronic"
     },
@@ -133,13 +133,13 @@
     },
     {
         "id": "99117052869305516",
-        "title": "New Trends in Sub-Riemannian Geometry.",
-        "creator": "Baudoin, Fabrice.",
-        "date": "2025.",
+        "title": "New Trends in Sub-Riemannian Geometry /",
+        "creator": "",
+        "date": "[2025]",
         "publisher": "American Mathematical Society",
         "isbn": "1470478609",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Geometry",
         "added": "2025-01-20",
         "support": "electronic"
     },
@@ -219,23 +219,23 @@
         "id": "99117045748105516",
         "title": "An Invitation to Fractal Geometry : Fractal Dimensions, Self-Similarity, and Fractal Curves /",
         "creator": "Lapidus, Michel L. 1956- author. (Michel Laurent),",
-        "date": "2024.",
+        "date": "[2024]",
         "publisher": "American Mathematical Society",
         "isbn": "147047896X",
         "thumbnail": "",
-        "dewey": "Arithmetic",
+        "dewey": "Topology",
         "added": "2024-12-23",
         "support": "electronic"
     },
     {
         "id": "99117045748205516",
-        "title": "Bifurcation Theory.",
-        "creator": "Homburg, Ale Jan.",
-        "date": "2024.",
+        "title": "Bifurcation Theory /",
+        "creator": "Homburg, Ale Jan, 1966- author.",
+        "date": "[2024]",
         "publisher": "American Mathematical Society",
         "isbn": "1470478811",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Analysis",
         "added": "2024-12-23",
         "support": "electronic"
     },
@@ -681,18 +681,6 @@
         "thumbnail": "",
         "dewey": "Economics",
         "added": "2024-09-03",
-        "support": "physical"
-    },
-    {
-        "id": "99117001762205516",
-        "title": "Logique floue exercices corrige\u0301s",
-        "creator": "Bouchon-Meunier, Bernadette 1948-",
-        "date": "[2024]",
-        "publisher": "Ce\u0301padue\u0300s",
-        "isbn": "2383950629",
-        "thumbnail": "",
-        "dewey": "General principles of mathematics",
-        "added": "2024-08-15",
         "support": "physical"
     }
 ]
