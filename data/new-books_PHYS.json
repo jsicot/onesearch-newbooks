@@ -1,5 +1,17 @@
 [
     {
+        "id": "99117053162405516",
+        "title": "An Introduction to Gauge-Higgs Unification Extra Dimensions in Particle Physics /",
+        "creator": "Hosotani, Yutaka",
+        "date": "[2025]",
+        "publisher": "World Scientific Publishing Company",
+        "isbn": "9789819800971",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-11",
+        "support": "physical"
+    },
+    {
         "id": "99117053662305516",
         "title": "The World Scientific reference of water science /",
         "creator": "",
@@ -301,10 +313,10 @@
     },
     {
         "id": "99117043153805516",
-        "title": "Theory and Applications of the Poincar\u00e9 Group /",
-        "creator": "Ba\u015fkal, Sibel.",
-        "date": "2024.",
-        "publisher": "Imprint Springer; Springer Nature Switzerland",
+        "title": "Theory and Applications of the Poincare\u0301 Group /",
+        "creator": "Bas\u0327kal, Sibel, author.",
+        "date": "[2024]",
+        "publisher": "Springer",
         "isbn": "3031643763",
         "thumbnail": "",
         "dewey": "Algebra",
@@ -528,18 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117031344505516",
-        "title": "Proceedings of the 8th International Symposium of Space Optical Instruments and Applications : ISSOIA 2023, 15-17 November, Beijing, China /",
-        "creator": "",
-        "date": "[2024]",
-        "publisher": "Springer",
-        "isbn": "9819767180",
-        "thumbnail": "",
-        "dewey": "Techniques, equipment & materials",
-        "added": "2024-11-03",
-        "support": "electronic"
-    },
-    {
         "id": "99117029261605516",
         "title": "An introduction to space weather",
         "creator": "Moldwin, Mark ca. 20./21. Jhr.",
@@ -585,54 +585,6 @@
         "thumbnail": "",
         "dewey": "Physics",
         "added": "2024-09-20",
-        "support": "physical"
-    },
-    {
-        "id": "990112804170205516",
-        "title": "M\u00e9canique quantique",
-        "creator": "Cohen-Tannoudji, Claude 1933- auteur",
-        "date": "2018",
-        "publisher": "EDP Sciences",
-        "isbn": "9782759822874",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-08-20",
-        "support": "physical"
-    },
-    {
-        "id": "99117008561305516",
-        "title": "A traveler's guide to the stars",
-        "creator": "Johnson, Les",
-        "date": "[2022]",
-        "publisher": "Princeton University Press",
-        "isbn": "9780691258683",
-        "thumbnail": "",
-        "dewey": "Astronomy and allied sciences",
-        "added": "2024-08-12",
-        "support": "physical"
-    },
-    {
-        "id": "99117008561405516",
-        "title": "Particle cosmology and astrophysics",
-        "creator": "Hooper, Dan 1976-",
-        "date": "[2024]",
-        "publisher": "Princeton University Press",
-        "isbn": "9780691235042",
-        "thumbnail": "",
-        "dewey": "Astronomy and allied sciences",
-        "added": "2024-08-12",
-        "support": "physical"
-    },
-    {
-        "id": "99117008562205516",
-        "title": "Things that go bump in the universe how astronomers decode cosmic chaos",
-        "creator": "James, C. Ren\u00e9e",
-        "date": "[2023]",
-        "publisher": "Johns Hopkins University Press",
-        "isbn": "1421446936",
-        "thumbnail": "",
-        "dewey": "Astronomy and allied sciences",
-        "added": "2024-08-12",
         "support": "physical"
     }
 ]
