@@ -638,7 +638,7 @@
     {
         "id": "99117010660405516",
         "title": "PHP 8 d\u00e9veloppez un site web dynamique et interactif",
-        "creator": "Heurtel, Olivier",
+        "creator": "Heurtel, Olivier 19..-....",
         "date": "[2023]",
         "publisher": "Editions ENI",
         "isbn": "9782409041525",
@@ -669,54 +669,6 @@
         "thumbnail": "",
         "dewey": "Special computer methods",
         "added": "2024-08-26",
-        "support": "physical"
-    },
-    {
-        "id": "99117012362005516",
-        "title": "Mining of massive datasets",
-        "creator": "Leskovec, Jure Verfasser",
-        "date": "[2020]",
-        "publisher": "Cambridge University Press",
-        "isbn": "9781108476348",
-        "thumbnail": "",
-        "dewey": "Computer science, knowledge & systems",
-        "added": "2024-08-20",
-        "support": "physical"
-    },
-    {
-        "id": "99117010661405516",
-        "title": "HEAD FIRST C# a learner's guide to real-world programming with c# and .net",
-        "creator": "Stellman, Andrew",
-        "date": "2024",
-        "publisher": "O'REILLY MEDIA",
-        "isbn": "9781098141783",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-08-16",
-        "support": "physical"
-    },
-    {
-        "id": "99117013862405516",
-        "title": "Programming C# 12 Build Cloud, Web, and Desktop Applications",
-        "creator": "Griffiths, Ian",
-        "date": "2024",
-        "publisher": "O'Reilly Media",
-        "isbn": "9781098158361",
-        "thumbnail": "",
-        "dewey": "Special computer methods",
-        "added": "2024-08-16",
-        "support": "physical"
-    },
-    {
-        "id": "99117008560305516",
-        "title": "Deep dive exploring the real-world value of open source intelligence",
-        "creator": "Baker, Rae",
-        "date": "[2023]",
-        "publisher": "Wiley",
-        "isbn": "1119933242",
-        "thumbnail": "",
-        "dewey": "International relations",
-        "added": "2024-08-13",
         "support": "physical"
     }
 ]
