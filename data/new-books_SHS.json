@@ -1,5 +1,29 @@
 [
     {
+        "id": "99117052462105516",
+        "title": "La quatri\u00e8me dimension, la s\u00e9rie TV The Twilight Zone la morale au service du fantastique",
+        "creator": "Poitiers, Philippe",
+        "date": "[2022]",
+        "publisher": "Omak\u00e9 books",
+        "isbn": "9782379891656",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-07",
+        "support": "physical"
+    },
+    {
+        "id": "99117052762405516",
+        "title": "The art of seduction",
+        "creator": "Greene, Robert 1558-1592",
+        "date": "2003",
+        "publisher": "Penguin",
+        "isbn": "9780142001196",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-04",
+        "support": "physical"
+    },
+    {
         "id": "99117052762305516",
         "title": "Sauter des gratte-ciel roman",
         "creator": "Lucadou, Julia von 1982-....",
@@ -26,7 +50,7 @@
     {
         "id": "99117036362205516",
         "title": "Le code a chang\u00e9 amour et sexualit\u00e9 au temps des algorithmes",
-        "creator": "Jean, Aur\u00e9lie 1982-....",
+        "creator": "Jean, Aur\u00e9lie scientifique 1982-....",
         "date": "[2024]",
         "publisher": "Editions de l'Observatoire",
         "isbn": "",
@@ -209,7 +233,7 @@
         "creator": "Carron, Blaise 1975-....",
         "date": "2024",
         "publisher": "Helbing Lichtenhahn",
-        "isbn": "3719048128",
+        "isbn": "9783719048129",
         "thumbnail": "",
         "dewey": "Law",
         "added": "2024-11-19",
@@ -516,30 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117036960805516",
-        "title": "From land ownership to landed commons social innovation in the commoning of scarce land resources",
-        "creator": "",
-        "date": "[2024]",
-        "publisher": "Edward Elgar",
-        "isbn": "9781035319688",
-        "thumbnail": "",
-        "dewey": "Social sciences",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
-        "id": "99117036961005516",
-        "title": "Financial Crises and Recession in the Global Economy : Fifth Edition /",
-        "creator": "Allen, Roy E., 1957- author.",
-        "date": "2023.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "9781803927572",
-        "thumbnail": "",
-        "dewey": "Production",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
         "id": "99117023762405516",
         "title": "The age of AI and our human future",
         "creator": "Kissinger, Henry 1923-2023",
@@ -693,66 +693,6 @@
         "thumbnail": "",
         "dewey": "History of ancient world to ca. 499",
         "added": "2024-09-05",
-        "support": "physical"
-    },
-    {
-        "id": "99117016362305516",
-        "title": "Posse\u0301der la nature environnement et proprie\u0301te\u0301 dans l'histoire",
-        "creator": "",
-        "date": "[2022]",
-        "publisher": "E\u0301ditions Amsterdam",
-        "isbn": "2354802501",
-        "thumbnail": "",
-        "dewey": "Economics of land and energy",
-        "added": "2024-08-22",
-        "support": "physical"
-    },
-    {
-        "id": "99117016762205516",
-        "title": "Qu'est-ce que l'histoire environnementale ?",
-        "creator": "Quenet, Gre\u0301gory 1972-",
-        "date": "2014",
-        "publisher": "Champ Vallon",
-        "isbn": "2876739585",
-        "thumbnail": "",
-        "dewey": "Culture and institutions",
-        "added": "2024-08-22",
-        "support": "physical"
-    },
-    {
-        "id": "99117005962405516",
-        "title": "La Chine apr\u00e8s Mao l'\u00e9veil d'une superpuissance",
-        "creator": "Dik\u00f6tter, Frank 1961-...",
-        "date": "[2023]",
-        "publisher": "Tallandier",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "Political science (Politics and government)",
-        "added": "2024-08-20",
-        "support": "physical"
-    },
-    {
-        "id": "99117006462105516",
-        "title": "L'astronome et les spectres roman",
-        "creator": "Portiche, Roland",
-        "date": "[2024]-",
-        "publisher": "Flammarion",
-        "isbn": "9782080429162",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-08-16",
-        "support": "physical"
-    },
-    {
-        "id": "99117006562305516",
-        "title": "Cinq ans dans la Chine de Xi Jinping",
-        "creator": "Lema\u00eetre, Fr\u00e9d\u00e9ric journaliste 1965-....",
-        "date": "[2024]",
-        "publisher": "Tallandier",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "History of Asia",
-        "added": "2024-08-16",
         "support": "physical"
     }
 ]
