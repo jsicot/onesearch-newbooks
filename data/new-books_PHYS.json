@@ -60,6 +60,18 @@
         "support": "physical"
     },
     {
+        "id": "990112804170205516",
+        "title": "M\u00e9canique quantique",
+        "creator": "Cohen-Tannoudji, Claude 1933- auteur",
+        "date": "[2018]",
+        "publisher": "EDP Sciences",
+        "isbn": "9782759822874",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-18",
+        "support": "physical"
+    },
+    {
         "id": "99117058562305516",
         "title": "Rich Quasiparticle Properties In Layered Graphene-related Systems.",
         "creator": "Lin, Ming-fa.",
@@ -525,18 +537,6 @@
         "thumbnail": "",
         "dewey": "Physics",
         "added": "2025-02-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117053662305516",
-        "title": "The World Scientific reference of water science /",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "World Scientific Publishing Company",
-        "isbn": "9811246106",
-        "thumbnail": "",
-        "dewey": "Sanitary engineering",
-        "added": "2025-01-24",
         "support": "electronic"
     },
     {
