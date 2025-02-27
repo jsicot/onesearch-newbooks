@@ -12,12 +12,48 @@
         "support": "physical"
     },
     {
+        "id": "99117057062105516",
+        "title": "A little queer natural history",
+        "creator": "Davis, Josh L",
+        "date": "2024",
+        "publisher": "The University of Chicago Press",
+        "isbn": "9780226837031",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-21",
+        "support": "physical"
+    },
+    {
+        "id": "99117057062205516",
+        "title": "Into the great wide ocean life in the least known habitat on earth",
+        "creator": "Johnsen, S\u00f6nke",
+        "date": "[2024]",
+        "publisher": "Princeton University Press",
+        "isbn": "9780691181745",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2025-02-21",
+        "support": "physical"
+    },
+    {
         "id": "99117057062405516",
         "title": "Is Earth exceptional? the quest for cosmic life",
         "creator": "Livio, Mario 1945-",
         "date": "September 2024",
         "publisher": "Basic Books",
         "isbn": "9781541602960",
+        "thumbnail": "",
+        "dewey": "Biology",
+        "added": "2025-02-21",
+        "support": "physical"
+    },
+    {
+        "id": "99117057962205516",
+        "title": "General, biological and biomedical statistics",
+        "creator": "Al-Murrani, Waleed K.",
+        "date": "[2024]",
+        "publisher": "Cambridge Scholars Publishing",
+        "isbn": "1036411141",
         "thumbnail": "",
         "dewey": "Biology",
         "added": "2025-02-21",
