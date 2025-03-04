@@ -276,6 +276,30 @@
         "support": "electronic"
     },
     {
+        "id": "99117046162305516",
+        "title": "Methods and Tools for Computer-Aided Design of Multidimensional Filters in Signal Processing.",
+        "creator": "Handkiewicz, Andrzej.",
+        "date": "2025.",
+        "publisher": "John Wiley & Sons Incorporated",
+        "isbn": "1394263651",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-12-24",
+        "support": "electronic"
+    },
+    {
+        "id": "99117046162405516",
+        "title": "Artificial Intelligence for Future Networks.",
+        "creator": "Matin, Mohammad A.",
+        "date": "2025.",
+        "publisher": "John Wiley & Sons Incorporated",
+        "isbn": "1394227949",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-12-24",
+        "support": "electronic"
+    },
+    {
         "id": "99117044653005516",
         "title": "Discrete Taylor Transform and Inverse Transform.",
         "creator": "Baghai-Wadji, Alireza.",
@@ -372,6 +396,18 @@
         "support": "electronic"
     },
     {
+        "id": "99117041852705516",
+        "title": "Realizing the Metaverse : A Communications and Networking Perspective.",
+        "creator": "Lim, Wei Yang Bryan.",
+        "date": "2024.",
+        "publisher": "John Wiley & Sons Incorporated",
+        "isbn": "1394188919",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-12-02",
+        "support": "electronic"
+    },
+    {
         "id": "99117041852805516",
         "title": "Model Optimization Methods for Efficient and Edge AI : Federated Learning Architectures, Frameworks and Applications.",
         "creator": "Chelliah, Pethuru Raj.",
@@ -390,6 +426,18 @@
         "date": "2024.",
         "publisher": "John Wiley & Sons Incorporated",
         "isbn": "1394210515",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2024-12-02",
+        "support": "electronic"
+    },
+    {
+        "id": "99117041853005516",
+        "title": "Dynamical Behaviors of Multiweighted Complex Network Systems.",
+        "creator": "Wang, Jin-Liang.",
+        "date": "2024.",
+        "publisher": "John Wiley & Sons Incorporated",
+        "isbn": "1394228635",
         "thumbnail": "",
         "dewey": "",
         "added": "2024-12-02",
@@ -492,18 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117030762105516",
-        "title": "Introduction to soft matter : synthetic and biological self-assembling materials /",
-        "creator": "Hamley, Ian W.",
-        "date": "2007.",
-        "publisher": "Wiley",
-        "isbn": "9780470517338",
-        "thumbnail": "",
-        "dewey": "Organic chemistry",
-        "added": "2024-11-01",
-        "support": "electronic"
-    },
-    {
         "id": "99117025562305516",
         "title": "Dans les pantoufles de Darwin",
         "creator": "Van Belle, Camille",
@@ -513,18 +549,6 @@
         "thumbnail": "",
         "dewey": "",
         "added": "2024-09-25",
-        "support": "physical"
-    },
-    {
-        "id": "99117015962405516",
-        "title": "Molecular evolution a statistical approach",
-        "creator": "Yang, Ziheng 1964-",
-        "date": "2014",
-        "publisher": "Oxford University Press",
-        "isbn": "9780199602612",
-        "thumbnail": "",
-        "dewey": "Biochemistry",
-        "added": "2024-09-03",
         "support": "physical"
     }
 ]
