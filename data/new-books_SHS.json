@@ -276,6 +276,18 @@
         "support": "electronic"
     },
     {
+        "id": "99117036958205516",
+        "title": "The Elgar Companion to the Built Environment and the Sustainable Development Goals /",
+        "creator": "",
+        "date": "[2024]",
+        "publisher": "Edward Elgar Publishing Limited",
+        "isbn": "9781035300037",
+        "thumbnail": "",
+        "dewey": "Social sciences",
+        "added": "2024-11-13",
+        "support": "electronic"
+    },
+    {
         "id": "99117036958305516",
         "title": "New horizons for innovation studies : doing without, doing with less /",
         "creator": "",
@@ -372,6 +384,18 @@
         "support": "electronic"
     },
     {
+        "id": "99117036959105516",
+        "title": "Post Keynesian economics key debates and contending perspectives",
+        "creator": "",
+        "date": "[2024]",
+        "publisher": "Edward Elgar",
+        "isbn": "9781803922232",
+        "thumbnail": "",
+        "dewey": "Economics",
+        "added": "2024-11-13",
+        "support": "electronic"
+    },
+    {
         "id": "99117036959205516",
         "title": "A Research Agenda for Transport Equity and Mobility Justice /",
         "creator": "",
@@ -432,6 +456,30 @@
         "support": "electronic"
     },
     {
+        "id": "99117036959705516",
+        "title": "Semiotic Approaches to Urban Space : Signs and Cities /",
+        "creator": "",
+        "date": "[2024]",
+        "publisher": "Edward Elgar Publishing Limited",
+        "isbn": "9781800887220",
+        "thumbnail": "",
+        "dewey": "Communities",
+        "added": "2024-11-13",
+        "support": "electronic"
+    },
+    {
+        "id": "99117036959805516",
+        "title": "Rethinking urban green spaces",
+        "creator": "Konijnendijk, C. C. (Cecil C.)",
+        "date": "[2024]",
+        "publisher": "Edward Elgar",
+        "isbn": "9781803925493",
+        "thumbnail": "",
+        "dewey": "Sea forces and warfare",
+        "added": "2024-11-13",
+        "support": "electronic"
+    },
+    {
         "id": "99117036959905516",
         "title": "The Urban Now : Living in an Age of Urban Globalism /",
         "creator": "Short, John R., author.",
@@ -488,54 +536,6 @@
         "isbn": "1035313952",
         "thumbnail": "",
         "dewey": "Commerce, communications, transportation",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
-        "id": "99117036960405516",
-        "title": "Handbook of Mixed Methods Research in Business and Management /",
-        "creator": "",
-        "date": "[2023]",
-        "publisher": "Edward Elgar Publishing Limited",
-        "isbn": "1800887957",
-        "thumbnail": "",
-        "dewey": "The book",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
-        "id": "99117036960505516",
-        "title": "Comparing income distributions : statics and dynamics /",
-        "creator": "Creedy, John, 1949- author.",
-        "date": "2023.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1035307332",
-        "thumbnail": "",
-        "dewey": "Macroeconomics and related topics",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
-        "id": "99117036960605516",
-        "title": "New perspectives on urban deathscapes : continuity, change, and contestation /",
-        "creator": "",
-        "date": "2023.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1802202390",
-        "thumbnail": "",
-        "dewey": "Culture and institutions",
-        "added": "2024-11-13",
-        "support": "electronic"
-    },
-    {
-        "id": "99117036960705516",
-        "title": "The Supermultiplier : A Cornerstone of the New Macroeconomics /",
-        "creator": "Dejua\u0301n, O\u0301scar, author.",
-        "date": "2023.",
-        "publisher": "Edward Elgar Publishing",
-        "isbn": "1800889550",
-        "thumbnail": "",
-        "dewey": "Macroeconomics and related topics",
         "added": "2024-11-13",
         "support": "electronic"
     },
@@ -669,30 +669,6 @@
         "thumbnail": "",
         "dewey": "Linguistics",
         "added": "2024-09-10",
-        "support": "physical"
-    },
-    {
-        "id": "99117010060405516",
-        "title": "Understanding heritage and memory",
-        "creator": "",
-        "date": "2010",
-        "publisher": "University Press",
-        "isbn": "9780719081538",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2024-09-05",
-        "support": "physical"
-    },
-    {
-        "id": "99117010060505516",
-        "title": "The heritage reader",
-        "creator": "",
-        "date": "[2008]",
-        "publisher": "Routledge",
-        "isbn": "0415372852",
-        "thumbnail": "",
-        "dewey": "History of ancient world to ca. 499",
-        "added": "2024-09-05",
         "support": "physical"
     }
 ]
