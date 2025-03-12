@@ -7,7 +7,7 @@
         "publisher": "Cambridge University Press",
         "isbn": "9781107009547",
         "thumbnail": "",
-        "dewey": "",
+        "dewey": "Physics",
         "added": "2025-02-24",
         "support": "physical"
     },
@@ -618,6 +618,18 @@
         "date": "[2024]",
         "publisher": "Princeton University Press",
         "isbn": "9780691248424",
+        "thumbnail": "",
+        "dewey": "Physics",
+        "added": "2024-09-20",
+        "support": "physical"
+    },
+    {
+        "id": "99117019261905516",
+        "title": "Fundamentals of the physics of solids",
+        "creator": "S\u00f3lyom, Jen\u0151 1940- Verfasser",
+        "date": "2007-2010",
+        "publisher": "Springer",
+        "isbn": "9783642045172",
         "thumbnail": "",
         "dewey": "Physics",
         "added": "2024-09-20",
